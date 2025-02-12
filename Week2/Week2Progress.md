@@ -2,6 +2,7 @@
 ## Data Cleaning & Preprocessing
 ### Learned how to process videos
 Split videos frame by frame through use of OpenCV then loaded it through the OD-model to classify videos 
+## Research & Literature Review
 ### Basics of CNN
 i.e Structure of CNN : Convolution , Activation , MaxPooling e.t.c
 
