@@ -1,4 +1,5 @@
 # Progress for Week 2
+# Data Cleaning & Preprocessing
 ## Learned how to process videos
 Split videos frame by frame through use of OpenCV then loaded it through the OD-model to classify videos 
 ## Basics of CNN
