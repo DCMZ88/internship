@@ -1,7 +1,7 @@
 # Progress for Week 1
 ## Research and Literature Review
 - ### Learnt the basics of python for deep learning 
-  Through Deeplearning.AI, Arrays, Dictionaries.
+  Through [Deeplearning.AI](https://learn.deeplearning.ai/courses/open-source-models-hugging-face/lesson/1/introduction), Arrays, Dictionaries.
 - ### Learnt how to use models from huggingface in python 
   Implemented OD-models such as detr-resnet-50 and yolo through the pipeline function provided by huggingface 
   i.e ObjectDetection(Images) and ObjectDetection(Videos) 
