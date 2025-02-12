@@ -4,8 +4,8 @@
 Split videos frame by frame through use of OpenCV then loaded it through the OD-model to classify videos 
 ## Research & Literature Review
 ### Basics of CNN
-i.e Structure of CNN : Convolution , Activation , MaxPooling e.t.c
-
+**Basic Structure of CNN** : Input -> Convolution , Activation, Pooling -> Fully Connected Layer -> Output
+**Convolutional Neural Networks** : Used primarily for object identification, image classification etc.
 # Challenges faced
 ### Data Cleaning & Preprocessing
 - Kernel keeps dying whenever the model tries to process over a total of 1100 images 
