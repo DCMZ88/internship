@@ -1,7 +1,9 @@
 # Progress for Week 2
 ## Data Cleaning & Preprocessing
 ### Learned how to process videos
-Split videos frame by frame through use of OpenCV then loaded it through the OD-model to classify videos 
+Split videos frame by frame through use of OpenCV then loaded it through the OD-model to classify videos
+### Identify and clean out duplicated images 
+Used phash function from imagehash to compare images's hash value to determine and seive out duplicates 
 ## Research & Literature Review
 ### Basics of CNN
 **Basic Structure of CNN** : Input -> Convolution , Activation, Pooling -> Fully Connected Layer -> Output
