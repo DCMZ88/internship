@@ -1,7 +1,7 @@
 # Progress for Week 3
 ## Data Cleaning and Preprocessing
 ### Sort Videos
-Configured the ObjectDetector(Videos) script to be able to automatically detect humans and sort them into respective folders (Non-Human) and (Human). (Code is in SortVideos.ipynb).
+Configured the ObjectDetector(Videos) script to be able to automatically detect humans and sort them into respective folders (Non-Human) and (Human). (Code is in [SortVideos.ipynb](https://github.com/DCMZ88/internship/edit/main/Week%203/SortVideos(Updated).ipynb).
 
 How it works:
 - Goes through each file in the folder
