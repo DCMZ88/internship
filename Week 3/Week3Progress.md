@@ -8,10 +8,8 @@ How it works:
     - Passes these images(frames) into the model to output the detections
     - Loops through each image to check if there is human inside each frame
     - Once a human is detected in the frame, the video is automatically sorted to human_vid , Else, after looping through all the frames and no human was detected, automatically sort it to the nonhuman_vid folder.
-    - Repeats for each video in the folder untill all videos have been sorted.
+    - Repeats for each video in the folder until all videos have been sorted.
 ## Research and Literature Review 
-### Basics of Computer Vision 
- Goal of Computer Vision : Enable Computers / AI to understand images like how we do it
-### Image Classification
+### Basics of ML Algorithms 
 - K-Nearest Neighbour (KNN)
 - Linear Classification 
