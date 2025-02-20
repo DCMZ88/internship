@@ -120,7 +120,7 @@ where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
 **Optimization** 
 
-For this case, we also utilise [Gradient escent](##Gradient-Descent) in determining the minimum cost function which gives us the best parameters for $w,b$.
+For this case, we also utilise [Gradient Descent](#Gradient-Descent) in determining the minimum cost function which gives us the best parameters for $w,b$.
 
 
 
