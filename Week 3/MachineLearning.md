@@ -115,12 +115,14 @@ Function:
 
 - Difference between the predicted probabilities and the actual binary outcomes across the entire dataset. 
 - For $y_i = 1$, as $\hat{y_i}$ converges to 1, then the loss function would converge to 0, vice versa.
+- Huge penalty if the predicted output varies too much from the actual output (i.e $\hat{y_i} = 0.1,$y_i = 1$ , this causes the loss function to be huge)
 
 where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
 **Optimization** 
 
 For this case, we also utilise [Gradient Descent](#Gradient-Descent) in determining the minimum cost function which gives us the best parameters for $w,b$.
+
 
 
 
