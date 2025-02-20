@@ -1,6 +1,13 @@
 ![image](https://github.com/user-attachments/assets/4abf9cd4-d333-47b5-8d1a-e2090899ca7a)# Intro to Machine Learning 
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
-
+## Contents
+- Types of Machine Learning(#types-of-machine-learning)
+- Linear Regression(#linear-regression)
+   - Cost Function(#cost-function)
+   - Gradient Descent (Optimization)(#Gradient-Descent)
+   - Challenges(#Challenges) 
+- Logistic Regression(#logistic-regression)
+   - Cost Function(#cost-function) 
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
 - Algorithms which are trained on labelled data where each output has an associated output label 
@@ -115,9 +122,13 @@ Function:
 
 - Difference between the predicted probabilities and the actual binary outcomes across the entire dataset. 
 - For $y_i = 1$, as $\hat{y_i}$ converges to 1, then the loss function would converge to 0, vice versa.
-- Huge penalty if the predicted output varies too much from the actual output (i.e $\hat{y_i}$ = 0.1, $y_i = 1$ , this causes the loss function to be huge)
 
 where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
+
+![image](https://github.com/user-attachments/assets/abf72d84-6cfc-4154-b988-49f7f4dd498c)
+
+- Huge penalty if the predicted output varies too much from the actual output (i.e $\hat{y_i}$ = 0.1, $y_i = 1$ , this causes the loss function to be huge)(Pink Curve)
+
 
 **Optimization** 
 
