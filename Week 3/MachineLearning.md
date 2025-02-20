@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4abf9cd4-d333-47b5-8d1a-e2090899ca7a)# Intro to Machine Learning 
+# Intro to Machine Learning 
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
 ## Contents
 - [Types of Machine Learning](#types-of-machine-learning)
