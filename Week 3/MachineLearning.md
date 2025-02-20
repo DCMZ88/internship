@@ -1,4 +1,4 @@
-# Intro to Machine Learning 
+![image](https://github.com/user-attachments/assets/4abf9cd4-d333-47b5-8d1a-e2090899ca7a)# Intro to Machine Learning 
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
 
 ## Types of Machine Learning 
@@ -50,6 +50,8 @@ Now that we have defined the cost function through the use of MSE , what's left 
 **Optimization** 
 
 For this case, we utilise **Gradient Descent**.
+<a name='Gradient Descent'>
+#### Gradient Descent 
 
 **Aim**
 : To minimise cost function
@@ -70,7 +72,70 @@ How it works:
 
 The derivative eventually converges to 0 as at the minimum, gradient = 0, leaving us with the optimal values of $w$ & $b$
 
-However, for each iteration in gradient descent, each cost function has to loop over all the loss functions, making it computationally costly if data set is too large.
+### Challenges 
+
+**Vectorization**
+
+For each iteration in gradient descent, each cost function has to loop over all the loss functions, making it computationally costly if data set is too large.
+
+Thus it is advised to vectorize the equation using NumPy.
+
+**Feature Scaling**
+
+As the input features might be very large or very small, we want to ensure that these features helps the algorithm to converge faster as the algorithm is sensitive to the scale of the features.
+
+Thus for this case, we aim to to scale the features to about $-1 \leq x \leq 1$ for each feature of $x$ using normalization.
+
+**Normalization**
+
+![Normalization Equation](https://github.com/user-attachments/assets/cb5263fa-ff4b-43db-87b1-c9a1b44ccbef)
+
+**Feature Engineering**
+
+Linear regression can take in many features $x_i$, however all of these features may not be meaningful to the model. Feature Engineering enables to features to be combined and transformed to better crafted features, enabling the model to capture underlying patterns in data more effectively, enhancing performance and accuracy.
+
+( E.g , $x_1$ = breadth , $x_2$ = width can be combined into $x_1 \times x_2 = x_3 (area)$ )
+
+### Logistic Regression 
+
+**Aim** : Binary Classification ( Ouputs either a "1" or "0" )
+
+![Logistics Regression Model](https://github.com/user-attachments/assets/c5303387-351c-4e44-873c-935a72317895)
+
+$\vec{w},b$ are parameters 
+
+Utilizes the sigmoid function $\sigma(z)$ to either output a "1" or "0"
+
+#### Cost Function 
+For this case, we utilize the binary cross-entropy loss function 
+
+![Cost Function](https://github.com/user-attachments/assets/075f213b-aebb-4959-a7b2-0b34ce2ede8a)
+
+Function:
+
+- Difference between the predicted probabilities and the actual binary outcomes across the entire dataset. 
+- For $y_i = 1$, as $\hat{y_i}$ converges to 1, then the loss function would converge to 0, vice versa.
+
+where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
+
+**Optimization** 
+
+For this case, we also utilise [Gradient Descent](</a>) in determining the minimum cost function which gives us the best parameters for $w,b$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
