@@ -125,7 +125,7 @@ Function:
 
 where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
-![image](https://github.com/user-attachments/assets/abf72d84-6cfc-4154-b988-49f7f4dd498c)
+<img src="https://github.com/user-attachments/assets/abf72d84-6cfc-4154-b988-49f7f4dd498c" alt="Graph" width="500"/>
 
 - Huge penalty if the predicted output varies too much from the actual output (i.e $\hat{y_i}$ = 0.1, $y_i = 1$ , this causes the loss function to be huge)(Pink Curve)
 
