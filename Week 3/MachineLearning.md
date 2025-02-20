@@ -1,13 +1,13 @@
 ![image](https://github.com/user-attachments/assets/4abf9cd4-d333-47b5-8d1a-e2090899ca7a)# Intro to Machine Learning 
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
 ## Contents
-- Types of Machine Learning(#types-of-machine-learning)
-- Linear Regression(#linear-regression)
-   - Cost Function(#cost-function)
-   - Gradient Descent (Optimization)(#Gradient-Descent)
-   - Challenges(#Challenges) 
-- Logistic Regression(#logistic-regression)
-   - Cost Function(#cost-function) 
+- [Types of Machine Learning](#types-of-machine-learning)
+- [Linear Regression](#linear-regression)
+   - [Cost Function](#cost-function)
+   - [Gradient Descent(Optimization)](#Gradient-Descent)
+   - [Challenges](#Challenges) 
+- [Logistic Regression](#logistic-regression)
+   - [Cost Function](#cost-function) 
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
 - Algorithms which are trained on labelled data where each output has an associated output label 
