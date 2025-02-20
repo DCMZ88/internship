@@ -51,7 +51,7 @@ Now that we have defined the cost function through the use of MSE , what's left 
 
 For this case, we utilise **Gradient Descent**.
 <a name='Gradient Descent'>
-#### Gradient Descent 
+#### Gradient Descent </a>
 
 **Aim**
 : To minimise cost function
@@ -120,7 +120,7 @@ where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
 **Optimization** 
 
-For this case, we also utilise [Gradient Descent](</a>) in determining the minimum cost function which gives us the best parameters for $w,b$.
+For this case, we also utilise [Gradient Descent](<https://github.com/DCMZ88/internship/edit/main/Week%203/MachineLearning.md#gradient-descent-) in determining the minimum cost function which gives us the best parameters for $w,b$.
 
 
 
