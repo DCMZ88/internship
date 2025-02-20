@@ -7,7 +7,7 @@
    - [Gradient Descent(Optimization)](#Gradient-Descent)
    - [Challenges](#Challenges) 
 - [Logistic Regression](#logistic-regression)
-   - [Cost Function](#cost-function) 
+   - [Cost Function](#cost-function-1) 
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
 - Algorithms which are trained on labelled data where each output has an associated output label 
