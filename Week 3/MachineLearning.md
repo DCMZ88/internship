@@ -7,7 +7,8 @@
    - [Gradient Descent(Optimization)](#Gradient-Descent)
    - [Challenges](#Challenges) 
 - [Logistic Regression](#logistic-regression)
-   - [Cost Function](#cost-function-1) 
+   - [Cost Function](#cost-function-1)
+- [Regularization](#regularization)
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
 - Algorithms which are trained on labelled data where each output has an associated output label 
@@ -134,7 +135,62 @@ where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
 For this case, we also utilise [Gradient Descent](#Gradient-Descent) in determining the minimum cost function which gives us the best parameters for $w,b$.
 
+### Regularization
+
+**Aim**: to reduce overfitting or underfitting , able to generalize unseen data better
+
+**Cause**
+
+Overfitting occurs when there are too many input features and insufficient data, resulting in the cost function in the training data being 0 but when performed on unseen data, the prediction may differ greatly. 
+
+**Below is an example of overfitting** 
+
+<img src="https://github.com/user-attachments/assets/25376533-4cd2-4209-a503-dbc6ef117483" alt="Overfitting Example" width = "500"/>
+
+With reference to the image above, we can clearly see that the decision boundary produced by logistic regression is clearly overfitting to match each of the training data and not generalized . This causes cost function to be 0 but when tested on unseen data, it may output the wrong class.
+
+Thus, regularization is introduced to the cost function to minimise overfitting/underfitting. 
+
+**How it works**
+
+The gist of regularization is to reduce the size of the parameters, $w_j$ (i.e use smaller values of the features) while keeping all the input features
+
 <img src="https://github.com/user-attachments/assets/2b82566e-3777-4108-a570-79e63b1269c6" alt="Cost Function with Reg" width = "500"/>
+
+$J(w,b)$ is the modified cost function with regularization added to it
+
+- $\lambda$ is the value of the regularization strength
+- We aim to penalize all $w_j$ features to be sufficiently small such that overfitting does not occur, this is to ensure that there are no large weights heavily influencing the predictions.
+- $\lambda$ in inversely proportional to $w_j$ , a greater $\lambda$ leads to a smaller $w_j$.
+- Ensures simplicity in the model and handles complex features.
+
+
+### Neural Networks 
+
+**Structure**
+1. Input Layer : Takes in the raw data
+2. Hidden Layers ( Consists of neurons within each layer ) : Processes the data
+3. Output Layer : Produces the final output 
+
+<img src="https://github.com/user-attachments/assets/7fb8f612-e74c-485f-a4d8-81b9c80bbd7b" alt="Model of NN" width="500"/>
+
+**How it works**
+- **Initialization**
+  - Weights and biases are initalized randomly for each layer
+- **Forward Propagation**
+  - The activation function $\vec{a}$ from the previous layer is passed into the current layer.
+  - Each neuron then calculates the weighted sum ( $Z = W\cdot\X + B$)
+  - The output $Z$ is the passed through the activation function, $A$    ( $A = f(Z)$ )
+- **Prediction**
+    - The final layer outputs the prediction $a$
+
+
+
+  
+
+
+
+
 
 
 
