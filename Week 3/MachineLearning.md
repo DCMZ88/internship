@@ -70,7 +70,7 @@ $\alpha$ is the learning rate and the derivative is the gradient of the curve at
 How it works:
 
 1. Start with a random value of $w$ and $b$
-2. Calculates the cost function using the new parameters ( Loop over all loss functions)
+2. Calculates the [cost function](#cost-function) using the new parameters ( Loop over all loss functions)
 3. Calculates the gradient of the cost function
 5. Updates the $w$ and $b$ (parameters) such that each new value of it calculated moves closer to a point where $J(w,b)$ is at a minimum
 6. Repeats the process until a global minimum is reached ( i.e Cost function converges to 0 )
