@@ -9,7 +9,7 @@
 - [Logistic Regression](#logistic-regression)
    - [Cost Function](#cost-function-1)
 - [Regularization](#regularization)
-- [Neural Network](#neural-network)
+- [Neural Network](#neural-networks)
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
 - Algorithms which are trained on labelled data where each output has an associated output label 
