@@ -134,6 +134,9 @@ where $y_i$ is the actual output and $\hat{y_i}$ is the predicted output.
 
 For this case, we also utilise [Gradient Descent](#Gradient-Descent) in determining the minimum cost function which gives us the best parameters for $w,b$.
 
+<img src="https://github.com/user-attachments/assets/2b82566e-3777-4108-a570-79e63b1269c6" alt="Cost Function with Reg" width = "500"/>
+
+
 
 
 
