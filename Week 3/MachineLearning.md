@@ -180,10 +180,19 @@ $J(w,b)$ is the modified cost function with regularization added to it
   - Weights and biases are initalized randomly for each layer
 - **Forward Propagation**
   - The activation function $\vec{a}$ from the previous layer is passed into the current layer.
-  - Each neuron then calculates the weighted sum ( $Z = W\cdot\X + B$)
+  - Each neuron then calculates the weighted sum ( $Z = W\cdot\ X + B$)
   - The output $Z$ is the passed through the activation function, $A$    ( $A = f(Z)$ )
 - **Prediction**
     - The final layer outputs the prediction $a$
+- **Loss Function**
+   - The model compares the predicted output $\hat{y}$ to the actual output $y$
+   - [Cost function](#cost_function_1) is then calculated.
+- **Back Propagation**
+   - Uses Gradient Descent or other optimization techniques to adjust weights and biases
+   - Updates the parameters ( $w_j,b_j)
+
+**Repeats the process**
+- Repeats the process from forward propagation $x$ number of epochs until a loss converges to a satisfactory level 
 
 
 
