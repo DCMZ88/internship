@@ -189,7 +189,7 @@ $J(w,b)$ is the modified cost function with regularization added to it
    - [Cost function](#cost_function_1) is then calculated.
 - **Back Propagation**
    - Uses Gradient Descent or other optimization techniques to adjust weights and biases
-   - Updates the parameters ( $w_j,b_j$ )
+   - Updates the parameters ($w_j , b_j$)
 
 **Repeats the process**
 - Repeats the process from forward propagation $x$ number of epochs until a loss converges to a satisfactory level 
