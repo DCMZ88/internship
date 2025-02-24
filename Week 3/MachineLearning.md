@@ -7,6 +7,7 @@
       - [Cost Function](#cost-function)
       - [Gradient Descent(Optimization)](#Gradient-Descent)
       - [Challenges](#Challenges)
+   
       -[Polynomial Regression](#polynomial-regression)
    - [Logistic Regression](#logistic-regression)
       - [Cost Function](#cost-function-1)
