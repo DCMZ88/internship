@@ -184,12 +184,19 @@ $J(w,b)$ is the modified cost function with regularization added to it
 
 How it works : 
 
-- Transforms the logits ( $z_i$ ) for each class $i$ into probabilities
+- Transforms the logits ( $z_i$ ) for each class $i$ into probabilities $\hat{y_i}$
 <img src="https://github.com/user-attachments/assets/e3b9a6ba-7723-4dc5-aecb-8fa5f549d72f" alt="softmax" width="500"/>
 
 where $e^{z_i}$ is the expotential of logits and the denominator is the sum of all the logits of each class
 
 - The cross-entropy loss is then used to calculate the loss between the predicted class probabilities and actual class labels
+
+**Cross-Entropy Loss**
+  
+<img src="https://github.com/user-attachments/assets/869d3db9-afd7-4dc7-ac9e-d5be0a4ce9a8" alt="cross-entropy loss" width="500"/>
+
+where $y_i$ is the actual class label and $\hat{y_i}$ is the predicted class label
+
 ### Neural Networks 
 
 **Structure**
