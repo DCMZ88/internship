@@ -219,7 +219,7 @@ where $y_i$ is the actual class label and $\hat{y_i}$ is the predicted class lab
    - The model compares the predicted output $\hat{y}$ to the actual output $y$
    - [Cost function](#cost_function_1) is then calculated.
 - **Back Propagation**
-   - Uses Gradient Descent or other optimization techniques to adjust weights and biases
+   - Uses Gradient Descent or other optimization techniques (i.e Adam) to adjust weights and biases
    - Updates the parameters ($w_j , b_j$)
 
 **Repeats the process**
