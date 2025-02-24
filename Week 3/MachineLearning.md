@@ -11,7 +11,7 @@
    - [Logistic Regression](#logistic-regression)
       - [Cost Function](#cost-function-1)
       - [Regularization](#regularization)
-   - [Softmax Regression](#Softmax_regression) 
+   - [Softmax Regression](#softmax_regression) 
    - [Neural Network](#neural-networks)
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
