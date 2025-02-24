@@ -81,7 +81,7 @@ How it works:
 
 The derivative eventually converges to 0 as at the minimum, gradient = 0, leaving us with the optimal values of $w$ & $b$
 
-### Challenges 
+### Challenges ( Before training the model )
 
 **Vectorization**
 
