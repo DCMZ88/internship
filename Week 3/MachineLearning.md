@@ -11,6 +11,7 @@
    - [Logistic Regression](#logistic-regression)
       - [Cost Function](#cost-function-1)
       - [Regularization](#regularization)
+   - [Softmax Regression](#Softmax_regression) 
    - [Neural Network](#neural-networks)
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
@@ -177,10 +178,18 @@ $J(w,b)$ is the modified cost function with regularization added to it
 - $\lambda$ in inversely proportional to $w_j$ , a greater $\lambda$ leads to a smaller $w_j$.
 - Ensures simplicity in the model and handles complex features.
 
-### Softmax Regression
+### Softmax Regression (Multinomial Logistic Regression)
 
+**Aim** : Used for multi-class classification
 
+How it works : 
 
+- Transforms the logits ( $z_i$ ) for each class $i$ into probabilities
+<img src="https://github.com/user-attachments/assets/e3b9a6ba-7723-4dc5-aecb-8fa5f549d72f" alt="softmax" width="500"/>
+
+where $e^{z_i}$ is the expotential of logits and the denominator is the sum of all the logits of each class
+
+- The cross-entropy loss is then used to calculate the loss between the predicted class probabilities and actual class labels
 ### Neural Networks 
 
 **Structure**
