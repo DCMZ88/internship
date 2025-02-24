@@ -106,6 +106,8 @@ Thus for this case, we aim to to scale the features to about $-1 \leq x \leq 1$ 
 
 Linear regression can take in many features $x_i$, however all of these features may not be meaningful to the model. Feature Engineering enables to features to be combined and transformed to better crafted features, enabling the model to capture underlying patterns in data more effectively, enhancing performance and accuracy.
 
+Able to represent data in more complex ways (i.e non-linear lines) , also works for logistic regression in determining decision boundaries.
+
 ( E.g , $x_1$ = breadth , $x_2$ = width can be combined into $x_1 \times x_2 = x_3 (area)$ )
 
 ### Polynomial Regression 
