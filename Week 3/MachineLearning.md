@@ -2,13 +2,15 @@
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
 ## Contents
 - [Types of Machine Learning](#types-of-machine-learning)
+- [Types of Learning Algorithms](#supervised-learning-(algorithms))
 - [Linear Regression](#linear-regression)
    - [Cost Function](#cost-function)
    - [Gradient Descent(Optimization)](#Gradient-Descent)
-   - [Challenges](#Challenges) 
+   - [Challenges](#Challenges)
+-[Polynomial Regression](#polynomial-regression)
 - [Logistic Regression](#logistic-regression)
    - [Cost Function](#cost-function-1)
-- [Regularization](#regularization)
+   - [Regularization](#regularization)
 - [Neural Network](#neural-networks)
 ## Types of Machine Learning 
 ### Supervised Learning (Main focus for internship)
@@ -105,6 +107,16 @@ Linear regression can take in many features $x_i$, however all of these features
 
 ( E.g , $x_1$ = breadth , $x_2$ = width can be combined into $x_1 \times x_2 = x_3 (area)$ )
 
+### Polynomial Regression 
+**Aim** : To represent data non-linearly 
+
+**Difference between linear regression and polynomial regression**
+
+<img src="https://github.com/user-attachments/assets/342b5bc8-57d7-4030-870d-61f347ffdcda" alt="difference" width="500"/>
+
+Difference : Polynomial regression utilises the polynomial features such as $x_1^2$ instead of $x_1$
+
+However, methodology remains the same as [Linear Regression](#linear-regression)
 ### Logistic Regression 
 
 **Aim** : Binary Classification ( Ouputs either a "1" or "0" )
@@ -165,6 +177,9 @@ $J(w,b)$ is the modified cost function with regularization added to it
 - $\lambda$ in inversely proportional to $w_j$ , a greater $\lambda$ leads to a smaller $w_j$.
 - Ensures simplicity in the model and handles complex features.
 
+### Softmax Regression
+
+
 
 ### Neural Networks 
 
@@ -192,7 +207,13 @@ $J(w,b)$ is the modified cost function with regularization added to it
    - Updates the parameters ($w_j , b_j$)
 
 **Repeats the process**
-- Repeats the process from forward propagation $x$ number of epochs until a loss converges to a satisfactory level 
+- Repeats the process from forward propagation $x$ number of epochs until a loss converges to a satisfactory level
+
+### Layers
+   - ### Softmax Layer 
+   - ### Convolutional Layer
+   - ### Linear Regression 
+   - ### Logsitic Regression
 
 
 
