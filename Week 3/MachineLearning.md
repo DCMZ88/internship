@@ -193,7 +193,7 @@ where $e^{z_i}$ is the expotential of logits and the denominator is the sum of a
 
 **Cross-Entropy Loss**
   
-<img src="https://github.com/user-attachments/assets/869d3db9-afd7-4dc7-ac9e-d5be0a4ce9a8" alt="cross-entropy loss" width="500"/>
+<img src="https://github.com/user-attachments/assets/869d3db9-afd7-4dc7-ac9e-d5be0a4ce9a8" alt="cross-entropy loss" width="450"/>
 
 where $y_i$ is the actual class label and $\hat{y_i}$ is the predicted class label
 
