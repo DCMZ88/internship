@@ -2,7 +2,7 @@
 **Definition**: "Field of study that gives computers the ability to learn without being explicitly programmed." Arthur Samuel (1959)
 ## Contents
 - [Types of Machine Learning](#types-of-machine-learning)
-- [Types of Learning Algorithms](#supervised-learning)
+- [Types of Learning Algorithms](#supervised-learning-algorithms)
    - [Linear Regression](#linear-regression)
       - [Cost Function](#cost-function)
       - [Gradient Descent(Optimization)](#Gradient-Descent)
