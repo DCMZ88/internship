@@ -42,7 +42,9 @@ $$ z = \sum_{i=1}^{n} w_i \cdot a_i + b $$
 
 ### Sigmoid Function
 - Same as the function used in [Logistic Regression](https://github.com/DCMZ88/internship/blob/main/Week%203/MachineLearning.md#logistic-regression)
+  
 **When and why do we use sigmoid**
+
 - Binary classification ( Output layer )
 - ReLU still preferred method for hidden layers in deep learning
 
