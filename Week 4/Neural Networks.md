@@ -3,8 +3,8 @@
 - [Structure of a neural network](#structure-of-a-neural-network)
 - [Components of a neural network](#components-of-neural-network)
 - [Activation Functions](#activation-functions)
-      -[ReLu Function](#relu)
-      -[Sigmoid Function](#sigmoid-function)
+      - [ReLu Function](#relu)
+      - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
