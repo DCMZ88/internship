@@ -206,6 +206,12 @@ where $y_i$ is the actual class label and $\hat{y_i}$ is the predicted class lab
 2. Hidden Layers ( Consists of neurons within each layer ) : Processes the data
 3. Output Layer : Produces the final output 
 
+One Epoch: 
+The whole training dataset is passed through the network once 
+
+Batch:
+Batches of the training dataset is passed through the network 
+
 <img src="https://github.com/user-attachments/assets/7fb8f612-e74c-485f-a4d8-81b9c80bbd7b" alt="Model of NN" width="500"/>
 
 **How it works**
@@ -222,6 +228,7 @@ where $y_i$ is the actual class label and $\hat{y_i}$ is the predicted class lab
    - [Cost function](#cost_function_1) is then calculated.
 - **Back Propagation**
    - Uses Gradient Descent or other optimization techniques (i.e Adam) to adjust weights and biases
+   - After each batch of data is passed through the NN, the parameters are then updated and adjusted.
    - Updates the parameters ($w_j , b_j$)
 
 **Repeats the process**
