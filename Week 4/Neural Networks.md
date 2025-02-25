@@ -6,7 +6,7 @@
   - [ReLU Function](#relu-rectified-linear-unit)
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
-- [Convolution Neural Networks(CNN)](#convulutional-neural-network)
+- [Convolution Neural Networks(CNN)](#convolutional-neural-network)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
 ## Structure of a neural network 
