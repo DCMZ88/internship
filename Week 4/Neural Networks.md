@@ -6,6 +6,7 @@
   - [ReLU Function](#relu-rectified-linear-unit)
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
+- [Convolution Neural Networks(CNN)](#convulutional-neural-network)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
 ## Structure of a neural network 
@@ -75,7 +76,7 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
     - Repeats the process for each batch size and update weights using backpropagation
     - Repeats the process for the whole training data ( also known as one epoch ) until the loss function converges to a satisfactory value
 
-## Convolutional Neural Networks
+## Convolutional Neural Network
 
 
 
