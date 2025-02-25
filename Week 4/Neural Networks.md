@@ -12,11 +12,16 @@ A neural network is a type of machine learning model inspired by the structure a
 - ### Input layer 
 - ### Hidden layer
 - ### Output layer
+    - Depends on the use of the neural network
+        - Binary Classification ( Sigmoid Function )
+        - Multi-class Classification ( Softmax Function )
+        - Non-negative outputs ( ReLU )
+        - Range of continous values ( Linear Activation Function a.k.a No Activation )
 ## Components of Neural Network
 - **Neurons** : Basic building blocks of a neural network where each neuron proccesses an input and produces an output
 - **Layers** : Consists of neurons
 - **Weights** : Each Connection between neurons has an associated weight $w_i$, which determines the strength of a connection
-- **Activation Functions** : Functions applied to the output of each neuron to introduce non-linearity (e.g ReLu, Sigmoid )
+- **Activation Functions** : Functions applied after output of each neuron in each layer to introduce non-linearity (e.g ReLu, Sigmoid )
 
 ## Activation Functions 
 ### ReLu ( Rectified Linear Unit )
@@ -60,16 +65,17 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
 ## How a neural network works 
 1. **Forward Propagation**
     - **Input** : The data is being fed into the input layer
-    - **Activation** : Each neuron in the hidden layers calculates a weighted sum of its inputs, applies an activation function (e.g., ReLU, sigmoid), and passes the result to the next layer.
+    - **Activation** : Each neuron in the hidden layers calculates a weighted sum of its inputs, applies an activation function (e.g., ReLU, sigmoid), these activations are then combined into a single vector $a_i$, where $i$ is the $i$th layer of the network , and then is passed into the next layer 
     - **Output** : The output layer processes the input from the last hidden layer and produces the final prediction.
 2. **Loss Calculation** : After each iteration (i.e after each batch is passed through the whole NN ), the loss between the predicted output $\hat{y}$ and the actual target values $y$ is calculated using a loss function ( e.g Mean-Squared Error(MSE), Cross-Entropy )
 3. **Backward Propagation**:
     - Using optimization functions such as Gradient Descent, calculate gradients of the loss with respect to the weights in each layer.
     - The weights are then subsequently updated for each layer to minimise the loss 
 4. **Iteration**
-    - Repeats the process for each batch size and udate weights using backpropagation
+    - Repeats the process for each batch size and update weights using backpropagation
     - Repeats the process for the whole training data ( also known as one epoch ) until the loss function converges to a satisfactory value
 
+## Convolutional Neural Networks
 
 
 
