@@ -78,6 +78,10 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
 
 ## Convolutional Neural Network
 
+**Simplified structure of CNN**
+
+<img src="https://github.com/user-attachments/assets/c43b9921-fecb-4d43-90e1-bd1bfebbcd23" alt="simple cnn" width="500"/>
+
 
 
 
