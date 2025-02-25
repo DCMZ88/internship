@@ -3,7 +3,7 @@
 - [Structure of a neural network](#structure-of-a-neural-network)
 - [Components of a neural network](#components-of-neural-network)
 - [Activation Functions](#activation-functions)
-  - [ReLu Function](#relu-rectified-linear-unit)
+  - [ReLU Function](#relu-rectified-linear-unit)
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
 ## What is a neural network 
