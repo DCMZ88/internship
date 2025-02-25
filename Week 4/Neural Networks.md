@@ -12,7 +12,7 @@ A neural network is a type of machine learning model inspired by the structure a
 - ### Input layer 
 - ### Hidden layer
 - ### Output layer
-## Components of neural networK
+## Components of Neural Network
 - **Neurons** : Basic building blocks of a neural network where each neuron proccesses an input and produces an output
 - **Layers** : Consists of neurons
 - **Weights** : Each Connection between neurons has an associated weight $w_i$, which determines the strength of a connection
