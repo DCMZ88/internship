@@ -12,7 +12,7 @@
     - [Convolution Layer](#convolution-layer)
         - [Activation Function](#activation-function)
     - [Pooling Layer](#pooling-layer)
-        - [Flattening](#flattening
+        - [Flattening](#flattening)
     - [Fully Connected Layer](#fully-connected-layer)
         - [Output Layer](#output-layer-1)
 - [Transfer Learning](#transfer-learning)
