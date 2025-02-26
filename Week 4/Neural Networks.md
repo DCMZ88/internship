@@ -3,7 +3,7 @@
 - [Structure of a neural network](#structure-of-a-neural-network)
 - [Components of a neural network](#components-of-neural-network)
 - [Activation Functions](#activation-functions)
-  - [ReLU Function](#relu-rectified-linear-unit)
+  - [ReLU Function](#relu)
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
   - [Types of optimization](#types-of-optimization-functions)
@@ -34,7 +34,7 @@ A neural network is a type of machine learning model inspired by the structure a
 - **Activation Functions** : Functions applied after output of each neuron in each layer to introduce non-linearity (e.g ReLu, Sigmoid )
 
 ## Activation Functions 
-### ReLu ( Rectified Linear Unit )
+### ReLU ( Rectified Linear Unit )
 - Most commonly used activation function for hidden layers
 
 **When and why do we use ReLU**
