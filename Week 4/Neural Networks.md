@@ -7,6 +7,7 @@
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
 - [Convolution Neural Networks(CNN)](#convolutional-neural-network)
+- [Transfer Learning](#transfer-learning)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
 ## Structure of a neural network 
@@ -89,6 +90,21 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
 
 ## Transfer Learning 
 **Aim** : Transfer knowledge from pre-trained models to new models so as to reduce training time and improve performance
+
+How it works:
+- Feature Extraction: Transfers the weights and parameters of the lower layers of the filter from a pretrained-model to a new model
+
+<img src="https://github.com/user-attachments/assets/7091ae56-2d71-456f-90be-b7e7aa2d3250" alt="transfer learning" width="500"/>
+
+As seen from the image, the convoutional layers from the model using ImageNet are transferred to another model to process confocal images.
+
+- Fine-tuning : After transfering the architecture of a pretrained model, we would then need to fine-tune some layers and train the model to suit our specific task as shown in the image where the model is fine-tuned further to be able to analyse the confocal images.
+
+**Why use transfer learning?**
+- It reduces the time to train the model as some of its parameters have already been optimized
+- Reduces data needed to train the model
+- Improve performance of the model as these pre-trained models have already learned useful features from large datasets.
+
 
 
 
