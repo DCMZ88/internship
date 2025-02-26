@@ -11,6 +11,8 @@
 - [Convolution Neural Networks(CNN)](#convolutional-neural-network)
     - [Convolution Layer](#convolution-layer)
     - [Pooling Layer](#pooling-layer)
+    - [Fully Connected Layer](#fully-connected-layer)
+        - [Output Layer](#output-layer)
 - [Transfer Learning](#transfer-learning)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
