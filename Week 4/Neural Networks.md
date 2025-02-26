@@ -162,7 +162,9 @@ A Convolutional Neural Network (CNN) is a type of deep learning algorithm that i
 <img src="https://github.com/user-attachments/assets/faac794d-55a3-4223-85c9-710c8c28c190" alt="pooling" width="500"/>
 
 #### Flattening 
-**Aim** : Converts the multi-dimensional feature maps into a one-dimensional vector, preparing the data for Fully Connected Layer
+**Aim** : Prepare the data for the Fully Connected Layer
+**How it works** 
+- Converts the multi-dimensional feature maps into a one-dimensional vector
 
 ### Fully Connected Layer
 **Aim**: Combines the features learned by the convolutional and pooling layers to make predictions or classifications.
