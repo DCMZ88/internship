@@ -75,12 +75,22 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
 4. **Iteration**
     - Repeats the process for each batch size and update weights using backpropagation
     - Repeats the process for the whole training data ( also known as one epoch ) until the loss function converges to a satisfactory value
+### Types of Optimization Functions
+- **Stochastic Gradient Descent** : Updates the parameters after every training example individually
+- **Mini-batch Gradient Descent** : Updates the parameters after a small batch of training examples
+- **Batch Gradient Descent** : Updates the parameters after running through the whole training dataset
+- **ADAM (Adaptive Movement Estimation)** : uses adaptive learning rates for each parameter, adjusting them individually based on the estimated first and second moments (mean and uncentered variance) of the gradients.
 
 ## Convolutional Neural Network
 
 **Simplified structure of CNN**
 
 <img src="https://github.com/user-attachments/assets/c43b9921-fecb-4d43-90e1-bd1bfebbcd23" alt="simple cnn" width="500"/>
+
+## Transfer Learning 
+**Aim** : Transfer knowledge from pre-trained models to new models so as to reduce training time and improve performance
+
+
 
 
 
