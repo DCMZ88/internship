@@ -9,6 +9,8 @@
   - [Types of optimization](#types-of-optimization-functions)
   - [Early Stoppage](#early-stoppage)
 - [Convolution Neural Networks(CNN)](#convolutional-neural-network)
+    - [Convolution Layer](#convolution-layer)
+    - [Pooling Layer](#pooling-layer)
 - [Transfer Learning](#transfer-learning)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
@@ -106,6 +108,37 @@ Optimally, we would want to stop the optimization when $J_{validation}$ starts t
 **Simplified structure of CNN**
 
 <img src="https://github.com/user-attachments/assets/c43b9921-fecb-4d43-90e1-bd1bfebbcd23" alt="simple cnn" width="500"/>
+
+**What is a Convolutional Neural Network?**
+
+A Convolutional Neural Network (CNN) is a type of deep learning algorithm that is particularly effective for processing data with a grid-like topology, such as images.
+
+### Structure of a CNN 
+
+<img src="https://github.com/user-attachments/assets/f3a2b66a-fd08-422c-8393-8c2fa23c7637" alt="CNN" width="500"/>
+
+- Convolution Layer
+- Activation Functions
+- Pooling Layers
+- Flattening layer
+- Fully Connected Layer
+- Output Layer
+
+
+
+### Convolution Layer
+
+<img src="https://github.com/user-attachments/assets/82f59efd-e429-4339-a96e-cb14882625a4" alt="convolution" width="500"/>
+
+**How it works**:
+- Initialises random variables for the filters/kernels in the convolutional layer
+- During forward propagation , filters are applied to the input data, producing feature maps ( where the features are stored )
+  - Imagine it as matching shapes of the filter to each pixel of the image and thus producing a map where the features are most prominent where the shapes on the image matches the filter.
+- The loss is then calculated and the values of these filters are then updated through optimzation functions like Gradient Descent
+- Through multiple iterations, these filters are then adjusted to better detect patterns and shapes in the data
+- Through this iterative process, the filters evolve from random noise to meaningful detectors of features such as edges, textures, and shapes.
+- Over time, the network learns to extract increasingly complex and abstract features that are crucial for the given task.
+
 
 ## Transfer Learning 
 **Aim** : Transfer knowledge from pre-trained models to new models so as to reduce training time and improve performance
