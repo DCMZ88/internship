@@ -144,10 +144,38 @@ A Convolutional Neural Network (CNN) is a type of deep learning algorithm that i
 - Fiter Stride ( How many pixels does the filter go over in one step )  
 - Volume ( The feature maps from each individual chanel i.e RGB )
 
-### Activation Function 
+#### Activation Function 
 - Applied to the output of the convolutional layer to introduce non-linearity
 - Examples: ReLU, Sigmoid , TanH
-More info on [Activation Function](#activation-function)
+
+### Pooling Layer
+**Aim** : To reduce computational complexity
+**How it works**
+- Types of Pooling
+  - Max Pooling : Takes the maximum value from each region covered by the filter.
+  - Mean Pooling :Takes the average value from each region covered by the filter.
+  - Min Pooling : Takes the minimum value from each region covered by the filter. ( Less Commonly Used )
+
+<img src="https://github.com/user-attachments/assets/886197f2-4a6d-4ea1-b0a0-7f4299e4432f" alt="pooling" width="500"/>
+
+#### Flattening 
+**Aim** : Converts the multi-dimensional feature maps into a one-dimensional vector, preparing the data for Fully Connected Layer
+
+### Fully Connected Layer
+**Aim**: Combines the features learned by the convolutional and pooling layers to make predictions or classifications.
+**How it works**
+- Works exactly like a [Neural Network](https://github.com/DCMZ88/internship/blob/main/Week%203/MachineLearning.md#neural-networks)
+  - Initialization
+  - Forward Propagation
+  - Prediction
+  - Loss Function
+  - Back Propagation
+  - Iteration
+#### Output Layer 
+**Aim** : The final output, such as class probabilities or regression values, depending on the task.
+**How it works**
+- Depending on the activation function used to output a value or probability
+
 
 ## Transfer Learning 
 **Aim** : Transfer knowledge from pre-trained models to new models so as to reduce training time and improve performance
