@@ -12,5 +12,10 @@ How it works:
 - Repeats for each video in the folder until all videos have been sorted.
 ## Research and Literature Review 
 ### Basics of ML Algorithms 
-- K-Nearest Neighbour (KNN)
-- Linear Classification 
+- Logistic Regression
+- Linear Regression
+- Neural Networks
+### Architecture of ML Algorithms
+- Loss Function
+- Gradient Descent
+- Regularization
