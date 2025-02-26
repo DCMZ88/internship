@@ -156,10 +156,10 @@ A Convolutional Neural Network (CNN) is a type of deep learning algorithm that i
 **How it works**
 - Types of Pooling
   - Max Pooling : Takes the maximum value from each region covered by the filter.
-  - Mean Pooling :Takes the average value from each region covered by the filter.
+  - Average Pooling :Takes the average value from each region covered by the filter.
   - Min Pooling : Takes the minimum value from each region covered by the filter. ( Less Commonly Used )
 
-<img src="https://github.com/user-attachments/assets/886197f2-4a6d-4ea1-b0a0-7f4299e4432f" alt="pooling" width="500"/>
+<img src="https://github.com/user-attachments/assets/faac794d-55a3-4223-85c9-710c8c28c190" alt="pooling" width="500"/>
 
 #### Flattening 
 **Aim** : Converts the multi-dimensional feature maps into a one-dimensional vector, preparing the data for Fully Connected Layer
