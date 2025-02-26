@@ -6,6 +6,8 @@
   - [ReLU Function](#relu-rectified-linear-unit)
   - [Sigmoid Function](#sigmoid-function)
 - [Process of neural network](#how-a-neural-network-works)
+  - [Types of optimization][#types-of-optimization-functions)
+  - [Early Stoppage](#early-stoppage)
 - [Convolution Neural Networks(CNN)](#convolutional-neural-network)
 - [Transfer Learning](#transfer-learning)
 ## What is a neural network 
