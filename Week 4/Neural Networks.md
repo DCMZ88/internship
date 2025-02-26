@@ -96,7 +96,9 @@ Hence, to avoid this, we use the validation data set to train our model, instead
 
 <img src="https://github.com/user-attachments/assets/acf962a3-2c83-45ac-8398-fc5ff9e38e1a" alt="early stoppage" width="500"/>
 
-As seen from the figure, the average loss $J_{train}$ converges until a minimum for every iteration whereas the loss $J_{validation}$ converges until a certain point before it starts to increase. Optimally, we would want to stop the optimization when $J_{validation}$ starts to degrade, achiveing the optimal loss and thus best parameters that minimise the cost function the most.
+As seen from the figure, the average loss $J_{train}$ converges until a minimum for every iteration whereas the loss $J_{validation}$ converges until a certain point before it starts to increase. 
+
+Optimally, we would want to stop the optimization when $J_{validation}$ starts to degrade, achiveing the optimal loss and thus best parameters that minimise the cost function the most.
 
 
 ## Convolutional Neural Network
