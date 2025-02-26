@@ -10,7 +10,7 @@
   - [Early Stoppage](#early-stoppage)
 - [Convolution Neural Networks(CNN)](#convolutional-neural-network)
     - [Convolution Layer](#convolution-layer)
-        - [Activation Function](#activation-function-1)
+        - [Activation Function](#activation-function)
     - [Pooling Layer](#pooling-layer)
     - [Fully Connected Layer](#fully-connected-layer)
         - [Output Layer](#output-layer-1)
