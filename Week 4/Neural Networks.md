@@ -45,7 +45,7 @@ A neural network is a type of machine learning model inspired by the structure a
 
 **How it works**
 
-<img src="https://github.com/user-attachments/assets/f675663f-d983-41c0-ac63-9911e5705976" alt="relu" width="500"/>
+<img src="https://github.com/user-attachments/assets/ebb34d2a-34f0-4a15-928a-237f4ecd6179" alt="relu" width="500"/>
 
 where $z$ is the weighted sum of the inputs of the current layer plus a bias term 
 
