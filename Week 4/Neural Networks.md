@@ -77,10 +77,25 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
     - Repeats the process for each batch size and update weights using backpropagation
     - Repeats the process for the whole training data ( also known as one epoch ) until the loss function converges to a satisfactory value
 ### Types of Optimization Functions
-- **Stochastic Gradient Descent** : Updates the parameters after every training example individually
+- **Stochastic Gradient Descent** : Updates the parameters after every training example individually by selecting a random point on each example ( Recommended )
 - **Mini-batch Gradient Descent** : Updates the parameters after a small batch of training examples
 - **Batch Gradient Descent** : Updates the parameters after running through the whole training dataset
 - **ADAM (Adaptive Movement Estimation)** : uses adaptive learning rates for each parameter, adjusting them individually based on the estimated first and second moments (mean and uncentered variance) of the gradients.
+
+### Early Stoppage
+As we train the model using the training data set, average loss will keep decreasing for each iteration of gradient descent, converging to a minimum. However, this may cause the model to overfit to the training data.
+
+Hence, to avoid this, we use the validation data set to train our model, instead of optimizing to convergence, we optimize until validation loss stops improving. 
+
+- Pros:
+  - Able to check validation loss after every iteration
+  - Ensures that it performs better on unseen and real-world data
+  - Saves computational cost as iterating over each gradient descent until convergence is costly
+
+<img src="https://github.com/user-attachments/assets/acf962a3-2c83-45ac-8398-fc5ff9e38e1a" alt="early stoppage" width="500"/>
+
+As seen from the figure, the average loss $J_{train}$ converges until a minimum for every iteration whereas the loss $J_{validation}$ converges until a certain point before it starts to increase. Optimally, we would want to stop the optimization when $J_{validation}$ starts to degrade, achiveing the optimal loss and thus best parameters that minimise the cost function the most.
+
 
 ## Convolutional Neural Network
 
