@@ -139,6 +139,15 @@ A Convolutional Neural Network (CNN) is a type of deep learning algorithm that i
 - Through this iterative process, the filters evolve from random noise to meaningful detectors of features such as edges, textures, and shapes.
 - Over time, the network learns to extract increasingly complex and abstract features that are crucial for the given task.
 
+**Parameters**
+- Filter Size 
+- Fiter Stride ( How many pixels does the filter go over in one step )  
+- Volume ( The feature maps from each individual chanel i.e RGB )
+
+### Activation Function 
+- Applied to the output of the convolutional layer to introduce non-linearity
+- Examples: ReLU, Sigmoid , TanH
+More info on [Activation Function](#activation-function)
 
 ## Transfer Learning 
 **Aim** : Transfer knowledge from pre-trained models to new models so as to reduce training time and improve performance
