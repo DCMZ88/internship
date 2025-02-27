@@ -201,6 +201,31 @@ As seen from the image, the convoutional layers from the model using ImageNet ar
 - Improve performance of the model as these pre-trained models have already learned useful features from large datasets.
 
 
+## Transformers
+
+**What are transformers**
+
+
+### Structure of a transformer 
+
+### Initial Embeddings
+- **Token Embeddings** :: Breaks down the sentences into tokens (e.g. words,characters) and intialises these tokens as vectors 
+- **Positional Encoding**: The position of the token in the sentence is also embedded as a vector into the token
+
+### Attention Block
+**Aim** : Pass information back and forth about the other tokens in the sentence
+
+- #### Query Vector 
+  The query vector represents what the current token (or position in the sequence) is trying to understand or retrieve information about from the entire sequence.
+   (i.e Asking other tokens for information )
+  
+  $\vec{Q_i} = W_Q \times \vec{E_i}$
+
+  where $\vec{E_i}$ is the Initial Embeddings and $W_Q$ is the learned weight matrix for queries
+  
+- #### Values
+- #### Keys 
+
 
 
 
