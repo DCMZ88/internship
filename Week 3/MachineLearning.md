@@ -128,7 +128,7 @@ However, methodology remains the same as [Linear Regression](#linear-regression)
 
 $\vec{w},b$ are parameters 
 
-Utilizes the sigmoid function $\sigma(z)$ = $f(x)$to either output a "1" or "0"
+Utilizes the sigmoid function $\sigma(z)$ = $f(x)$ to either output a "1" or "0"
 
 #### Cost Function 
 For this case, we utilize the binary cross-entropy loss function 
