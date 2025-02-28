@@ -209,11 +209,24 @@ As seen from the image, the convoutional layers from the model using ImageNet ar
 
 ### Structure of a transformer 
 
-### Initial Embeddings
+<img src="https://github.com/user-attachments/assets/e40ddee7-0ade-4dcd-9583-d2fdd98b55b0" width="500"/> 
+
+#### Sequence Encoder
+1. Initial Embeddings
+2. Multi-Head Attention  
+3. Feed Forward network 
+
+**How it works**
+
+- Initially, the input embeddings $c_k$ are fed through the multi-head attention to output the new embeddings $\tilde{c_k}$. 
+- Before passing it through the feed forward network, the inital embeddings $c_k$ is added to the new embedding $\tilde{c_k}$ (i.e Adding the original word to its context )
+- This is so as to ensure that the new token preserves some of its orginal features and to avoid degradation ( overfitting )
+- 
+### Initial Embeddings 
 - **Token Embeddings** : Breaks down the sentences into tokens (e.g. words,characters) and intialises these tokens as vectors 
 - **Positional Encoding**: The position of the token in the sentence is also embedded as a vector into the token
 
-### Attention Block
+### Self-attention Block
 **Aim** : Pass information back and forth about the other tokens in the sentence ( i.e For each token, how important is the other tokens in relation to it , gives us the context of the tokens based on its surrounding tokens )
 
 - #### Query Vector 
@@ -245,6 +258,8 @@ Softmax is used in this case to normalize the values of the keys and query
 
 The results is a change in the embeddings $\Delta{\vec\{{E_i}^x}}$ produced by the value vector and the product of the key vectors and the query vectors.
 
+For better visualisation
+
 <img src="https://github.com/user-attachments/assets/a1238c76-d84e-4364-b279-42a5ca7ece6d" width="500"/>
 
 where $c_k$ represents the input embeddings 
@@ -252,11 +267,11 @@ where $c_k$ represents the input embeddings
 
 ### Multi-headed Attention
 
-Made up of attention blocks which are calculated in parallel
+Made up of many self-attention blocks which are calculated in parallel
 
 The result of each change is then summed up to produce the total change $\Delta{\vec{E_i}}$
 
-This Change ( $\Delta{\vec\{E_i}}$ ) is then added to the original embedding $\vec{E_i}$ to find the corresponding value of the embedding ( These embeddings contain information such as context e.t.c )
+This change ( $\Delta{\vec\{E_i}}$ ) is then added to the original embedding $\vec{E_i}$ to find the corresponding value of the embedding ( These embeddings contain information such as context e.t.c )
 
 
 
