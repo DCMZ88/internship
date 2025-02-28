@@ -210,11 +210,11 @@ As seen from the image, the convoutional layers from the model using ImageNet ar
 ### Structure of a transformer 
 
 ### Initial Embeddings
-- **Token Embeddings** :: Breaks down the sentences into tokens (e.g. words,characters) and intialises these tokens as vectors 
+- **Token Embeddings** : Breaks down the sentences into tokens (e.g. words,characters) and intialises these tokens as vectors 
 - **Positional Encoding**: The position of the token in the sentence is also embedded as a vector into the token
 
 ### Attention Block
-**Aim** : Pass information back and forth about the other tokens in the sentence
+**Aim** : Pass information back and forth about the other tokens in the sentence ( i.e For each token, how important is the other tokens in relation to it , gives us the context of the tokens based on its surrounding tokens )
 
 - #### Query Vector 
   The query vector represents what the current token (or position in the sequence) is trying to understand or retrieve information about from the entire sequence.
@@ -241,8 +241,14 @@ As seen from the image, the convoutional layers from the model using ImageNet ar
 where $d_k$ is the dimension of the query space
 
 Softmax is used in this case to normalize the values of the keys and query
+ - The higher the probability, the stronger the relation
 
 The results is a change in the embeddings $\Delta{\vec\{{E_i}^x}}$ produced by the value vector and the product of the key vectors and the query vectors.
+
+<img src="https://github.com/user-attachments/assets/a1238c76-d84e-4364-b279-42a5ca7ece6d" width="500"/>
+
+where $c_k$ represents the input embeddings 
+
 
 ### Multi-headed Attention
 
