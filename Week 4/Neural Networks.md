@@ -231,7 +231,7 @@ As seen from the image, the convoutional layers from the model using ImageNet ar
 
 #### Attention Score Calculation 
 
-<img src="https://th.bing.com/th/id/OIP.hG-cte_k98lsp7b8G1rMJQHaBm?rs=1&pid=ImgDetMain" width="500"/> 
+<img src="https://th.bing.com/th/id/OIP.hG-cte_k98lsp7b8G1rMJQHaBm?rs=1&pid=ImgDetMain" width="500"/>
 
 
 
