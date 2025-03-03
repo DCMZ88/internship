@@ -18,6 +18,10 @@
 - [Transfer Learning](#transfer-learning)
 - [Transformers](#transformers)
   - [Sequence Encoder](#sequence-encoder)
+     - [Initial Embeddings](#initial-embeddings)
+     - [Self-Attention Block](#self-attention-block)
+     - [Multi-Headed Attention](#multi-headed-attention)
+     - [Skip Connection](#skip-connection)
   - [Decoder](#decoder)
 ## What is a neural network 
 A neural network is a type of machine learning model inspired by the structure and function of the human brain. It's designed to recognize patterns and make predictions by learning from data.
@@ -341,7 +345,31 @@ Even though we are only using the previous word as input , but this word contain
 
 ### Multi-Head Attention ( Cross Attention )
 
-For this multi-head attention, we utilise the output values from the encoder block ( $K,V$ ) as input to the self-attention block so as to 
+For this multi-head attention, we utilise the output values from the encoder block ( $K,V$ ) as input to the self-attention block to contextualise and predict the next token. 
+
+This is also known as cross-attention.
+
+### Feed Forward Layer 
+
+The output from the cross-attention block is then fed into the neural network for more complex representation of the data
+
+The layer consists of 2 linear functions and one activation function.
+
+### Output Layer 
+
+The output is then passed through a linear layer to reduce the size of the vector to the size of the vocabulary
+
+$ Logits = Linear(O_i) $
+
+where $O_i$ is the output of the last attention block for token $i$ and the linear layer projects this output to the vocabulary size. ( number of possible tokens )
+
+This then is passed through the softmax layer where the logits are converted into proabilities 
+
+$ Probabilities = Softmax(Logits) $
+
+The token with the highest probaility will then be output as the next token before being fed into the decoder to predict the next token
+
+This process repeats until the sequence ends.
 
 
 
