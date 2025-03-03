@@ -22,6 +22,7 @@ A neural network is a type of machine learning model inspired by the structure a
 ## Structure of a neural network 
 - ### Input layer 
 - ### Hidden layer
+  - Made up fully connected layers ( linear layers ) which are usually paired with activation functions to introduce non-linearity.
 - ### Output layer
     - Depends on the use of the neural network
         - Binary Classification ( Sigmoid Function )
@@ -76,7 +77,7 @@ where $t$ is the weighted sum of the inputs of the current layer plus a bias ter
 ## How a neural network works 
 1. **Forward Propagation**
     - **Input** : The data is being fed into the input layer
-    - **Activation** : Each neuron in the hidden layers calculates a weighted sum of its inputs, applies an activation function (e.g., ReLU, sigmoid), these activations are then combined into a single vector $a_i$, where $i$ is the $i$th layer of the network , and then is passed into the next layer 
+    - **Activation** : Each neuron in the hidden layers calculates a weighted sum of its inputs ( Linear Layer ), applies an activation function (e.g., ReLU, sigmoid), these activations are then combined into a single vector $a_i$, where $i$ is the $i$th layer of the network , and then is passed into the next layer 
     - **Output** : The output layer processes the input from the last hidden layer and produces the final prediction.
 2. **Loss Calculation** : After each iteration (i.e after each batch is passed through the whole NN ), the loss between the predicted output $\hat{y}$ and the actual target values $y$ is calculated using a loss function ( e.g Mean-Squared Error(MSE), Cross-Entropy )
 3. **Backward Propagation**:
@@ -271,7 +272,44 @@ Made up of many self-attention blocks which are calculated in parallel
 
 The result of each change is then summed up to produce the total change $\Delta{\vec{E_i}}$
 
-This change ( $\Delta{\vec\{E_i}}$ ) is then added to the original embedding $\vec{E_i}$ to find the corresponding value of the embedding ( These embeddings contain information such as context e.t.c )
+This change ( $\Delta{\vec\{E_i}}$ ) is then added to the original embedding $\vec{E_i}$ to find the corresponding value of the embedding ( These embeddings contain information such as context of the other tokens in the sentence e.t.c )
+
+### Skip Connection
+
+-  The original embedding of the token $c_k$ is then added back into the vector so as to preserve original information
+-  The vector is then normalized and then passed through the Multi-Layer Perceptron ( MLP )
+
+### Multi-Layer Perceptron 
+
+- The vector is passed through a MLP ( Feed Forward Layer ) which is a [neural network](#neural-network-1) which allows the tokens to learn
+  complex patterns and relationship
+#### Structure of MLP in a encoder 
+  - **Input Layer**
+  - **First Linear Layer**
+  - **Activation Function**
+  - **Second Linear Layer**
+    
+#### First Linear Layer
+  - This increases the dimensionality of the vectors so as to capture more features
+
+#### Activation Function
+  - Applies activation functions such as ReLU to introduce non-linearity to the vector to allow it to capture more complex relationships in the data
+
+#### Second Linear Layer
+  - Projects the output from the activation function back to the original dimension ( the original input to the MLP )
+#### Skip Connection
+  - The input embedding is then added back to the output vector to help preserve original information
+  - This vector is then normalized.
+
+#### Decoder
+1. Masked Multi-Head Attention
+2. Multi-Head Attention
+3. Feed Forward Layer
+4. Linear Layer
+5. Softmax
+
+
+
 
 
 
