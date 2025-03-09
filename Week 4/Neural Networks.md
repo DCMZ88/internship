@@ -359,13 +359,13 @@ The layer consists of 2 linear functions and one activation function.
 
 The output is then passed through a linear layer to reduce the size of the vector to the size of the vocabulary
 
-$ Logits = Linear(O_i) $
+$Logits = Linear(O_i)$
 
 where $O_i$ is the output of the last attention block for token $i$ and the linear layer projects this output to the vocabulary size. ( number of possible tokens )
 
 This then is passed through the softmax layer where the logits are converted into proabilities 
 
-$ Probabilities = Softmax(Logits) $
+$Probabilities = Softmax(Logits)$
 
 The token with the highest probaility will then be output as the next token before being fed into the decoder to predict the next token
 
