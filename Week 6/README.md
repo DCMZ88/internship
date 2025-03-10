@@ -90,6 +90,6 @@ As we can see from the output text, the VLM struggles to answer some of its own 
 However, for the most part the model seems to be able to correctly interpret and answer its own questions.
 
 Next, even though I changed the prompt of the question a few times, the questions being generated were still too specific despite prompting the VLM.\
-Hence I used a different VLM to generate the questions.\
+Hence I used a different VLM to generate the questions.
 
 In this case we used [Microsoft's Florence-2-base](https://huggingface.co/microsoft/Florence-2-base).
