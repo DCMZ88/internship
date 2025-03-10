@@ -86,4 +86,5 @@ This is what i got.
 \n19. The dog's fur color is light brown.
 \n20. The dog's breed is not clearly identifiable from the image."]
 ```
-As we can see from the output text, the VLM struggles to answer some of its own questions if the questions are too specific and says that it is not visible in the image.
+As we can see from the output text, the VLM struggles to answer some of its own questions if the questions are too specific and is not able to identify it.\
+However, for the most part the model seems to be able to correctly interpret and answer its own questions.
