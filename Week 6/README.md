@@ -162,4 +162,4 @@ Qn 6 , The color of the woman's shirt is white, when clearly the shirt from the 
 Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination )\
 Qn 15, The women does not have shoes on ( Hallucination )
 
-We then save this output in a .json file labelled questions_and_answers.json
+We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Qwen).json)
