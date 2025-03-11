@@ -101,7 +101,8 @@ However, for the most part the model seems to be able to correctly interpret and
 Next, even though I changed the prompt of the question a few times, the questions being generated were still too specific despite prompting the VLM.\
 Hence I used a different VLM to generate the questions.
 
-## Second Attempt ( Llava-onevision-Qwen2-0 + Qwen2-VL-2B-Instruct )
+## Second Attempt 
+**( Llava-onevision-Qwen2-0 + Qwen2-VL-2B-Instruct )**
 
 In this case for generation of questions, we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf).
 
