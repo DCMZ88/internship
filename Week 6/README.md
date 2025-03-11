@@ -2,8 +2,16 @@
 
 ## Methodology
 
- **Aim** : Generate different inference questions for each image through the use of a VLM.
+ **Aim** : Generate different inference questions and its corresponding answers for each image through the use of a VLM.
 
+To achieve this, I tried implmenting different models together for each the generation of questions and the generation of answers.
+
+## Attempts 
+- [First Attempt](#first-attempt)
+- [Second Attempt](#seoncd-attempt)
+- [Third Attempt](#third-attempt) 
+
+## First Attempt ( Qwen2-VL-2B-Instruct )
 
 For this project, I used the [Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) model adapted from huggingface. 
 
@@ -93,7 +101,9 @@ However, for the most part the model seems to be able to correctly interpret and
 Next, even though I changed the prompt of the question a few times, the questions being generated were still too specific despite prompting the VLM.\
 Hence I used a different VLM to generate the questions.
 
-In this case we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf).
+## Second Attempt ( Llava-onevision-Qwen2-0 + Qwen2-VL-2B-Instruct )
+
+In this case for generation of questions, we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf).
 
 We implemented the model as such
 ```
@@ -163,3 +173,5 @@ Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination 
 Qn 15, The women does not have shoes on ( Hallucination )
 
 We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Qwen).json)
+
+
