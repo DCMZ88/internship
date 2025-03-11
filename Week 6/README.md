@@ -145,7 +145,7 @@ where {questions} is the number of questions we want
 14. What is the color of the dog's eyes?
 15. What is the color of the woman's shoes?
 ```
-This is what it returns, which has a clear improvement than than Qwen-2b-Instruct model 
+This is what it returns, which has a clear improvement than than Qwen-2b-Instruct model, but there was still repetition
 
 However, when I tried to generate more questions, some of the questions were quite repetetive even though I specified that they must be different\
 and thus through trial and error that 15 was around the optimal number to generate questions without much repetition 
@@ -175,5 +175,22 @@ Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination 
 Qn 15, The women does not have shoes on ( Hallucination )
 
 We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Qwen).json)
+
+## Third Attempt 
+**( Llava-onevision-Qwen2-0 + BLIP )**
+
+Now instead of the Qwen model, we try to run it on the [BLIP](https://huggingface.co/Salesforce/blip-vqa-base) by SalesForce. 
+
+The input questions are still the same as before.\
+This time, the model outputs words as opposed to sentences as seen in the Qwen model
+```
+['harness', 'plaid shirt', 'beach', 'sunset', 'sunny', 'white', 'tan', 'red and white', 'blue', 'brown', 'white', 'white', 'white', 'black', 'black']
+```
+It is also able to identify correctly for most of the questions but still hallucinates\
+For Qn 15, where the model answers that the women's shoes is black but infact she does not have any shoes on.
+
+We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip).json)
+
+
 
 
