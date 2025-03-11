@@ -92,4 +92,73 @@ However, for the most part the model seems to be able to correctly interpret and
 Next, even though I changed the prompt of the question a few times, the questions being generated were still too specific despite prompting the VLM.\
 Hence I used a different VLM to generate the questions.
 
-In this case we used [Microsoft's Florence-2-base](https://huggingface.co/microsoft/Florence-2-base).
+In this case we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf).
+
+We implemented the model as such
+```
+# For generating the questions
+conversation = [
+    {
+
+      "role": "user",
+      "content": [
+          # Input Prompt 
+          {"type": "text", "text": f"Generate different {questions} questions for the image without any answers "},
+          {"type": "image"}, 
+        ],
+    },
+]
+prompt = processor.apply_chat_template(conversation, add_generation_prompt=True)
+# Input Image
+image_file = "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-VL/assets/demo.jpeg"
+raw_image = Image.open(requests.get(image_file, stream=True).raw)
+raw_image
+```
+where {questions} is the number of questions we want
+```
+1. What is the dog wearing?
+2. What is the woman wearing?
+3. What is the setting of the image?
+4. What is the time of day?
+5. What is the weather like?
+6. What is the color of the sand?
+7. What is the color of the dog's fur?
+8. What is the color of the woman's shirt?
+9. What is the color of the dog's collar?
+10. What is the color of the woman's hair?
+11. What is the color of the waves in the ocean?
+12. What is the color of the sky?
+13. What is the color of the sand?
+14. What is the color of the dog's eyes?
+15. What is the color of the woman's shoes?
+```
+This is what it returns, which has a clear improvement than than Qwen-2b-Instruct model 
+
+However, when I tried to generate more questions, some of the questions were quite repetetive even though I specified that they must be different\
+and thus through trial and error that 15 was around the optimal number to generate questions without much repetition 
+
+We then passed this input back to the Qwen-2b-Instruct model which have proven to be quite good at answering specific questions based from the example above
+```
+
+1. The dog is wearing a harness.
+2. The woman is wearing a plaid shirt.
+3. The setting of the image is a beach.
+4. The time of day is either sunrise or sunset.
+5. The weather is sunny.
+6. The color of the sand is beige.
+7. The color of the dog's fur is light brown.
+8. The color of the woman's shirt is white.
+9. The color of the dog's collar is black.
+10. The color of the woman's hair is black.
+11. The color of the waves in the ocean is white.
+12. The color of the sky is light blue.
+13. The color of the sand is beige.
+14. The color of the dog's eyes is brown.
+15. The color of the woman's shoes is black.
+```
+As we can see from the answers, most of the answers are correct, however some questions are still wrong\
+Qn 6 , The color of the woman's shirt is white, when clearly the shirt from the image shows purplish red.\
+Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination )
+Qn 15, The women does not have shoes on ( Hallucination )
+
+We then save this output in a .json file labelled questions_and_answers.json
