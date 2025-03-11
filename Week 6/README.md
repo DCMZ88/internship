@@ -229,6 +229,6 @@ Passing this through the BLIP model yields
 ```
 By comparing the answers and the questions, all of the questions have been correctly.
 
-We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)].(https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip)(2.0).json)
+We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip)(2.0).json)
 
 So far, this method has proven to be the most accurate, but we have yet to test it out on other images.
