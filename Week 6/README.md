@@ -191,6 +191,43 @@ For Qn 15, where the model answers that the women's shoes is black but infact sh
 
 We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip).json)
 
+### Third Attempt 2.0
+Now, I modified the prompt through the use of ChatGPT 
 
+However, one thing to note is that even though I did specify no questions are not to be repeated, the VLM struggled to understand\
+and I had to tweak the prompt multiple times to evnetually remove all repetitions.
+
+```
+text_prompt = "Analyze the image and generate  15 different and simple questions, one at a time, that can be easily answered by looking at the image. Ensure no questions are repeated."
+```
+
+This prompt returns
+```
+1. What is the time of day in the image?
+2. What is the color of the dog's fur?
+3. Is the dog sitting on the sand or on the beach?
+4. What is the color of the woman's shirt?
+5. Is the dog wearing a harness?
+6. Is the dog sitting or standing?
+7. What is the woman doing?
+8. Is the dog looking at the woman?
+9. Is the woman smiling?
+10. What is the color of the sand?
+11. Is the dog panting?
+12. Is the woman wearing a watch?
+13. What is the color of the waves in the background?
+14. Is the sky clear or cloudy?
+15. What is the weather like in the image?
+```
+Drawing from this, we can easily see the complexity of the questions generated when using a more structured prompt\
+This allows us to generate more questions with depth rather than questions of the same category (i.e colour of x )
+
+Passing this through the BLIP model yields
+```
+['sunset', 'tan', 'sand', 'red and white', 'yes', 'sitting', 'petting dog', 'yes', 'yes', 'white', 'no', 'yes', 'white', 'clear', 'sunny']
+```
+By comparing the answers and the questions, all of the questions have been correctly.
+
+We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](
 
 
