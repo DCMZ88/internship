@@ -9,7 +9,8 @@ To achieve this, I tried implmenting different models together for each the gene
 ## Attempts 
 - [First Attempt](#first-attempt)
 - [Second Attempt](#second-attempt)
-- [Third Attempt](#third-attempt) 
+- [Third Attempt](#third-attempt)
+- [Third-Attempt(2.0)](#third-attempt-2.0)
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
@@ -228,6 +229,6 @@ Passing this through the BLIP model yields
 ```
 By comparing the answers and the questions, all of the questions have been correctly.
 
-We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](
+We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)].(https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip)(2.0).json)
 
-
+So far, this method has proven to be the most accurate, but we have yet to test it out on other images.
