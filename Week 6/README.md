@@ -104,7 +104,8 @@ Hence I used a different VLM to generate the questions.
 ## Second Attempt 
 **( Llava-onevision-Qwen2-0 + Qwen2-VL-2B-Instruct )**
 
-In this case for generation of questions, we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf).
+In this case for generation of questions, we used [Llava-one-vision Model](https://huggingface.co/llava-hf/llava-onevision-qwen2-0.5b-ov-hf)\
+while keeping the Qwen2 model for the answers.
 
 We implemented the model as such
 ```
