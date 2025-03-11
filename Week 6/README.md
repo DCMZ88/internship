@@ -4,6 +4,7 @@
 
  **Aim** : Generate different inference questions for each image through the use of a VLM.
 
+
 For this project, I used the [Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) model adapted from huggingface. 
 
 Note:
@@ -158,7 +159,7 @@ We then passed this input back to the Qwen-2b-Instruct model which have proven t
 ```
 As we can see from the answers, most of the answers are correct, however some questions are still wrong\
 Qn 6 , The color of the woman's shirt is white, when clearly the shirt from the image shows purplish red.\
-Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination )
+Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination )\
 Qn 15, The women does not have shoes on ( Hallucination )
 
 We then save this output in a .json file labelled questions_and_answers.json
