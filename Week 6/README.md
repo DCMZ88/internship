@@ -8,7 +8,7 @@ To achieve this, I tried implmenting different models together for each the gene
 
 ## Attempts 
 - [First Attempt](#first-attempt)
-- [Second Attempt](#seoncd-attempt)
+- [Second Attempt](#second-attempt)
 - [Third Attempt](#third-attempt) 
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
