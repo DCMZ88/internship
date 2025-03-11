@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the time of day in the image?",
+        "answer": "sunset"
+    },
+    {
+        "question": "What is the color of the dog's fur?",
+        "answer": "tan"
+    },
+    {
+        "question": "Is the dog sitting on the sand or on the beach?",
+        "answer": "sand"
+    },
+    {
+        "question": "What is the color of the woman's shirt?",
+        "answer": "red and white"
+    },
+    {
+        "question": "Is the dog wearing a harness?",
+        "answer": "yes"
+    },
+    {
+        "question": "Is the dog sitting or standing?",
+        "answer": "sitting"
+    },
+    {
+        "question": "What is the woman doing?",
+        "answer": "petting dog"
+    },
+    {
+        "question": "Is the dog looking at the woman?",
+        "answer": "yes"
+    },
+    {
+        "question": "Is the woman smiling?",
+        "answer": "yes"
+    },
+    {
+        "question": "What is the color of the sand?",
+        "answer": "white"
+    },
+    {
+        "question": "Is the dog panting?",
+        "answer": "no"
+    },
+    {
+        "question": "Is the woman wearing a watch?",
+        "answer": "yes"
+    },
+    {
+        "question": "What is the color of the waves in the background?",
+        "answer": "white"
+    },
+    {
+        "question": "Is the sky clear or cloudy?",
+        "answer": "clear"
+    },
+    {
+        "question": "What is the weather like in the image?",
+        "answer": "sunny"
+    }
+]
