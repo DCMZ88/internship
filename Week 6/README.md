@@ -10,7 +10,7 @@ To achieve this, I tried implmenting different models together for each the gene
 - [First Attempt](#first-attempt)
 - [Second Attempt](#second-attempt)
 - [Third Attempt](#third-attempt)
-- [Third-Attempt(2.0)](#third-attempt-2.0)
+- [Third-Attempt(2.0)](#third-attempt-{2.0})
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
