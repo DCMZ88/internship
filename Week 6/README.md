@@ -9,7 +9,7 @@ To achieve this, I tried implmenting different models together for each the gene
 ## Attempts 
 - [First Attempt](#first-attempt)
 - [Second Attempt](#second-attempt)
-- [Third Attempt](#third-attempt) 
+- [Third Attempt](#third-attempt-Llava-onevision-Qwen2-0-Qwen2-VL-2B-Instruct) 
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
