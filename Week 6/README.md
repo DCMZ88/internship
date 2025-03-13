@@ -13,6 +13,8 @@ To achieve this, I tried implmenting different models together for each the gene
 - [Third-Attempt(2.0)](#third-attempt-20)
 - [Fourth-Attempt](#fourth-attempt)
 
+## [Challenges](#challenges)
+
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
 For this project, I used the [Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) model adapted from huggingface. 
@@ -284,4 +286,36 @@ When these questions are passed through the BLIP model, this yields
 ```
 
 Though simple answers to complex questions, it is mostly correct.
+
+## Challenges
+
+However, the main challenge is still the repetition when more questions are generated the repetition becomes more evident.
+
+For example, I tried to generate 30 questions using the Qwen2-VL model, this is what it attained.\
+Note: this list starts from Question 13
+```
+What is the condition or state of any objects or people in the image?
+What is the condition or state of the dog in the image?
+What is the condition or state of the woman in the image?
+What is the condition or state of the beach in the image?
+What is the condition or state of the ocean in the image?
+What is the condition or state of the sky in the image?
+What is the condition or state of the woman's hair in the image?
+What is the condition or state of the woman's clothing in the image?
+What is the condition or state of the dog's collar in the image?
+What is the condition or state of the dog's leash in the image?
+What is the condition or state of the dog's tail in the image?
+What is the condition or state of the dog's paws in the image?
+What is the condition or state of the dog's eyes in the image?
+What is the condition or state of the dog's ears in the image?
+What is the condition or state of the dog's nose in the image?
+What is the condition or state of the dog's mouth in the image?
+What is the condition or state of the dog's tongue in the image?
+What is the condition or state of the dog's fur in the image?
+```
+Clearly there is a repetition of the condition or state of an object in the image and that it starts to be too specific that even we\
+can't tell such as "What is the condition or state of the dog's tongue in the image".
+
+Ideally, through multiple trial and errors, the optimal questions to be generated is around 15 to 18. 
+
 
