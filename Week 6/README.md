@@ -13,7 +13,7 @@ To achieve this, I tried implmenting different models together for each the gene
 - [Third-Attempt(2.0)](#third-attempt-20)
 - [Fourth-Attempt](#fourth-attempt)
 
-## [Challenges](#challenges)
+- [Challenges](#challenges)
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
