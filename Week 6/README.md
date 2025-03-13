@@ -11,6 +11,7 @@ To achieve this, I tried implmenting different models together for each the gene
 - [Second Attempt](#second-attempt)
 - [Third Attempt](#third-attempt)
 - [Third-Attempt(2.0)](#third-attempt-20)
+- [Fourth-Attempt](#fourth-attempt)
 
 ## First Attempt ( Qwen2-VL-2B-Instruct )
 
