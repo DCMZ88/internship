@@ -176,7 +176,7 @@ Qn 6 , The color of the woman's shirt is white, when clearly the shirt from the 
 Qn 14, Where the colour of the eye's dog is clearly not visible ( Hallucination )\
 Qn 15, The women does not have shoes on ( Hallucination )
 
-We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Qwen).json)
+We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/Q&A/questions_answers(Qwen).json)
 
 ## Third Attempt 
 **( Llava-onevision-Qwen2-0 + BLIP )**
@@ -191,7 +191,7 @@ This time, the model outputs words as opposed to sentences as seen in the Qwen m
 It is also able to identify correctly for most of the questions but still hallucinates\
 For Qn 15, where the model answers that the women's shoes is black but infact she does not have any shoes on.
 
-We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip).json)
+We then save this output in a .json file labelled [questions_and_answers(Qwen).json](https://github.com/DCMZ88/internship/blob/main/Week%206/Q&A/questions_answers(Blip).json)
 
 ### Third Attempt 2.0
 Now, I modified the prompt through the use of ChatGPT 
@@ -230,7 +230,7 @@ Passing this through the BLIP model yields
 ```
 By comparing the answers and the questions, all of the questions have been correctly.
 
-We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip)(2.0).json)
+We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](https://github.com/DCMZ88/internship/blob/main/Week%206/Q&A/questions_answers(Blip)(2.0).json)
 
 So far, this method has proven to be the most accurate, but we have yet to test it out on other images.
 
