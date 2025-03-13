@@ -237,7 +237,7 @@ We then output the answer-question pair in a .json file , labelled [questions_an
 So far, this method has proven to be the most accurate, but we have yet to test it out on other images.
 
 ## Fourth Attempt 
-**Qwen2.0-VL + BLIP**
+**Qwen2.0-VL + BLIP**\
 Now, instead of only changing the model, I configured the prompt to be more precise yet diverse. I configured the prompt with the help of ChatGPT to generate the prompt below
 ```
 prompt = f"""
