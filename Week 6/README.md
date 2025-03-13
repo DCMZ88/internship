@@ -289,7 +289,7 @@ Though simple answers to complex questions, it is mostly correct.
 
 ## Challenges
 
-However, the main challenge is still the repetition when more questions are generated the repetition becomes more evident.
+**However, the main challenge is still the repetition when more questions are generated the repetition becomes more evident.**
 
 For example, I tried to generate 30 questions using the Qwen2-VL model, this is what it attained.\
 Note: this list starts from Question 13
@@ -317,5 +317,16 @@ Clearly there is a repetition of the condition or state of an object in the imag
 can't tell such as "What is the condition or state of the dog's tongue in the image".
 
 Ideally, through multiple trial and errors, the optimal questions to be generated is around 15 to 18. 
+
+**Another challenge faced was picking the models.**
+
+- Some of the models that I was initially planning on using were too large for the GPUs to handle\
+e.g DeepSeek-R1-VL, Microsoft Phi-3.5-Vision 
+
+- Other models were not compatible with the current system i.e Python version out of date ( Qwen-2.5-VL ) or Requires log in which IDK how to solve ( Meta's LLama-3.2 )
+
+- Other models also did not really achieve the target I want of generating questions in accordance to the input image, thus it was more of a trial and error.
+
+
 
 
