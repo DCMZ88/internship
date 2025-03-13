@@ -232,3 +232,55 @@ By comparing the answers and the questions, all of the questions have been corre
 We then output the answer-question pair in a .json file , labelled [questions_and_answers(Blip)(2.0)](https://github.com/DCMZ88/internship/blob/main/Week%206/questions_answers(Blip)(2.0).json)
 
 So far, this method has proven to be the most accurate, but we have yet to test it out on other images.
+
+## Fourth Attempt 
+**Qwen2.0-VL + BLIP**
+Now, instead of only changing the model, I configured the prompt to be more precise yet diverse. I configured the prompt with the help of ChatGPT to generate the prompt below
+```
+prompt = f"""
+Given the input image, generate 15 unique and diverse questions that can be answered based on the visual content.
+The questions should cover a wide range of topics such as the following:
+
+The main subject or objects in the image.
+Colors, patterns, and shapes.
+The actions or movements taking place.
+The spatial relationships between objects or people.
+Environmental context (indoor, outdoor, nature, urban, etc.).
+Emotions, expressions, or moods conveyed.
+Any interactions between objects, people, or elements.
+Specific details about the setting or background.
+Objects or items in the foreground and background.
+The condition or state of any objects or people (e.g., new, old, active, idle).
+Make sure to vary the types of questions so they touch on different aspects of the image, and ensure that the questions are easily inferable from the visual content.
+Ensure each question only has one question to it.
+"""
+```
+This prompt ensures that the VLM is able to cover a wide range of topics such that the questions generated are not similar or repetetive to one another,\
+which seemed to the problem when generating more questions such as asking the colour of different objects, e.t.c.
+
+This seemed to yield much more diverse and verbose questions when prompted into the Qwen model.
+```
+What is the primary subject of the image?
+What colors are prominent in the image?
+What shapes are present in the image?
+What actions are taking place in the image?
+What is the spatial relationship between the woman and the dog?
+What is the environmental context of the image?
+What emotions or expressions are conveyed in the image?
+What interactions are taking place between the woman and the dog?
+What specific details about the setting or background are visible in the image?
+What objects or items are in the foreground and background of the image?
+What is the condition or state of any objects or people in the image?
+How does the image convey the condition or state of the woman and the dog?
+What is the condition or state of the dog in the image?
+How does the image convey the condition or state of the woman's mood or expression?
+What is the condition or state of the dog's fur or coat in the image?
+```
+
+When these questions are passed through the BLIP model, this yields
+```
+['dog', 'white and brown', 'dog', 'sitting', 'sitting', 'beach', 'happiness', 'friends', 'beach', 'woman and dog', 'people are in beach', 'happy', 'sad', 'happy', 'wet']
+```
+
+Though simple answers to complex questions, it is mostly correct.
+
