@@ -320,7 +320,7 @@ Ideally, through multiple trial and errors, the optimal questions to be generate
 
 **Another challenge faced was picking the models.**
 
-- Some of the models that I was initially planning on using were too large for the GPUs to handle\
+- Some of the models that I was initially planning on using were too large for the GPU (A40) to handle\
 e.g DeepSeek-R1-VL, Microsoft Phi-3.5-Vision 
 
 - Other models were not compatible with the current system i.e Python version out of date ( Qwen-2.5-VL ) or Requires log in which IDK how to solve ( Meta's LLama-3.2 )
