@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the primary subject of the image?",
+        "answer": "dog"
+    },
+    {
+        "question": "What colors are prominent in the image?",
+        "answer": "white and brown"
+    },
+    {
+        "question": "What shapes are present in the image?",
+        "answer": "dog"
+    },
+    {
+        "question": "What actions are taking place in the image?",
+        "answer": "sitting"
+    },
+    {
+        "question": "What is the spatial relationship between the woman and the dog?",
+        "answer": "sitting"
+    },
+    {
+        "question": "What is the environmental context of the image?",
+        "answer": "beach"
+    },
+    {
+        "question": "What emotions or expressions are conveyed in the image?",
+        "answer": "happiness"
+    },
+    {
+        "question": "What interactions are taking place between the woman and the dog?",
+        "answer": "friends"
+    },
+    {
+        "question": "What specific details about the setting or background are visible in the image?",
+        "answer": "beach"
+    },
+    {
+        "question": "What objects or items are in the foreground and background of the image?",
+        "answer": "woman and dog"
+    },
+    {
+        "question": "What is the condition or state of any objects or people in the image?",
+        "answer": "people are in beach"
+    },
+    {
+        "question": "How does the image convey the condition or state of the woman and the dog?",
+        "answer": "happy"
+    },
+    {
+        "question": "What is the condition or state of the dog in the image?",
+        "answer": "sad"
+    },
+    {
+        "question": "How does the image convey the condition or state of the woman's mood or expression?",
+        "answer": "happy"
+    },
+    {
+        "question": "What is the condition or state of the dog's fur or coat in the image?",
+        "answer": "wet"
+    }
+]
