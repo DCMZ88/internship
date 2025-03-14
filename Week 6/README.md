@@ -288,14 +288,75 @@ When these questions are passed through the BLIP model, this yields
 Though simple answers to complex questions, it is mostly correct.
 
 ## Fifth Attempt
-**( MSFT-Florence + Qwen2.0-2B + BLIP )**
-This time, instead of just generating a prompt to pass to the model, We generate a detailed caption of the target image using [Microsoft's Florence](https://huggingface.co/microsoft/Florence-2-large) using the <MORE_DETAILED_CAPTION> task prompt. 
+**( MSFT-Florence + Qwen2.5-3B + BLIP )**
+1. This time, instead of just generating a prompt to pass to the model, We generate a detailed caption of the target image using [Microsoft's Florence](https://huggingface.co/microsoft/Florence-2-large) using the <MORE_DETAILED_CAPTION> task prompt. 
 
-We then pass the generated caption and the image into the Qwen2.0-VL model and check if the output has more diversity and less repetition. 
-```
 
 ```
+The image shows a young woman sitting on a sandy beach with her golden retriever dog.
+The woman is wearing a plaid shirt and black pants and is holding the dog's leash.
+The dog is sitting on the sand and is looking up at the woman with a smile on its face.
+The ocean can be seen in the background with waves crashing onto the shore. The sky is orange and pink, indicating that it is either sunrise or sunset.
+The overall mood of the image is peaceful and serene.
+```
 
+2. We then pass the generated caption and the image into the Qwen2.5-VL model and check if the output has more diversity and less repetition.\
+Note: We used the Qwen2.5-3B model instead of Qwen2.0-2B model so the performance should be much better. 
+
+This time I aim to make the questions much simpler yet diverse
+
+Input Prompt:
+```
+Task: Given the image input and the caption provided, generate 19 simple, clear, and unique questions about the image. Each question should focus on one specific aspect of the scene and be easy to understand. The questions should be varied in type and explore different general aspects of the image, but each question should only contain one part.
+
+Caption:
+"The image shows a young woman sitting on a sandy beach with her golden retriever dog. The woman is wearing a plaid shirt and black pants and is holding the dog's leash. The dog is sitting on the sand and is looking up at the woman with a smile on its face. The ocean can be seen in the background with waves crashing onto the shore. The sky is orange and pink, indicating that it is either sunrise or sunset. The overall mood of the image is peaceful and serene."
+
+Instructions:
+- Generate 19 distinct questions, each focusing on one unique detail or aspect of the scene.
+- Ensure each question is simple and contains only one part (e.g., "What is the expression on the character's face?" or "What is the color of the sky?").
+- Questions should explore different general aspects, such as:
+    - The appearance or actions of any characters (people, animals, etc.)
+    - The environment (natural elements like the sky, ocean, land, etc.)
+    - Emotions or mood conveyed by the scene
+    - Time of day or lighting (e.g., sunrise, sunset, bright, dark, etc.)
+    - The relationship between characters (if applicable)
+    - Objects or features in the scene (e.g., clothing, accessories, weather conditions)
+- Avoid compound questions or combining more than one query in a single question.
+- Each question should explore a different aspect of the scene in a clear and simple manner.
+```
+Output questions: 
+```
+What is the color of the sky in the image?
+What is the dog's breed?
+How is the woman dressed?
+What is the dog doing?
+What is the woman holding?
+What time of day does the image appear to be taken?
+What is the ocean doing?
+What is the woman's expression?
+What is the dog's expression?
+What is the color of the sand?
+What is the woman wearing?
+What is the dog wearing?
+What is the woman's hair color?
+What is the dog's fur color?
+What is the woman's posture?
+What is the dog's posture?
+What is the woman's clothing style?
+What is the dog's activity?
+What is the woman's mood?
+```
+As seen above, there is some variation between the questions asked and there is no repeat questions generated.
+
+3. We then pass this questions into the BLIP model to attain our answers
+```
+['white', 'lab', 'in plaid', 'sitting', 'dog', 'sunset', 'crashing', 'smiling', 'happy', 'white', 'plaid shirt', 'harness', 'brown', 'tan', 'sitting', 'sitting', 'plaid', 'playing', 'happy']
+```
+
+The answers are correct and so far the best way to generate questions with an input image.
+
+ 
 ## Challenges
 
 **However, the main challenge is still the repetition when more questions are generated the repetition becomes more evident.**
