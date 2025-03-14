@@ -287,6 +287,15 @@ When these questions are passed through the BLIP model, this yields
 
 Though simple answers to complex questions, it is mostly correct.
 
+## Fifth Attempt
+**( MSFT-Florence + Qwen2.0-2B + BLIP )**
+This time, instead of just generating a prompt to pass to the model, We generate a detailed caption of the target image using [Microsoft's Florence](https://huggingface.co/microsoft/Florence-2-large) using the <MORE_DETAILED_CAPTION> task prompt. 
+
+We then pass the generated caption and the image into the Qwen2.0-VL model and check if the output has more diversity and less repetition. 
+```
+
+```
+
 ## Challenges
 
 **However, the main challenge is still the repetition when more questions are generated the repetition becomes more evident.**
