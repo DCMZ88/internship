@@ -34,5 +34,54 @@ Note: Another consideration could be that this model contains 4B parameters wher
 ```
 # Data Analysis 
 
-Now, we attempt to evaluate the performance of the different VLMs
+Now, we attempt to evaluate the performance of the different VLMs.
+
+## Methodology 
+
+### First Attempt
+
+1. Generate questions regarding object detection using Google's Gemma-3-3b-it.
+2. Pass these questions into various VLMs to obtain their respective answers
+3. Pass these answers to an object detection model to see if it is able to detect the object. ( Check for hallucination )
+4. If it is able to detect, record as success . Else , record as failure.
+5. Calculate the correct rate.
+
+Limitations:
+- We are assuming that the OD model produces the ground truth and does not hallucinate
+- Even if the OD model is able to detect the object given by the answer, this does not necessarily mean that the answer to the question is 100% correct.
+- If some questions are too specific, ( e.g Shape of wave ), the answer may be correct but the object detector model may not be able to detect it.
+
+**Step One**
+
+We generate 25 questions with the focus on Object Detection using Google's Gemma3.
+
+Sample questions
+```
+ What is sitting on the sand?
+ What is the person wearing?
+ What is beside the person’s leg?
+ What is in the background?
+ What is on the ground near the dog?
+ What is the person holding?
+ What type of animal is visible?
+ What is the surface beneath them?
+ What is the dog wearing?
+```
+
+I specifically prompted it to generate questions such that the answers will be based on objects in the image. 
+
+<p align="center">
+  <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-VL/assets/demo.jpeg" width="500" />
+  <br>Figure 1: Input Image
+</p>
+
+**Step Two**
+
+We then pass these questions into different VLMs for their respective answers.\
+
+**Gemma-3-3b-it**
+
+We pass these questions into the Google's Gemma model.
+
+I specified that the prompt such that the output answer to be concise and precise. 
  
