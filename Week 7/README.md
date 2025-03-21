@@ -1,6 +1,6 @@
 # Data Curation 
 
-## Methodology
+## Aim
 
 - This week, we aim to evaluate a model's performance from their output of a text.
 - Before that, Google recently released their new VLM Gemma 3, hence we will test the performance of their model\
@@ -34,11 +34,70 @@ Note: Another consideration could be that this model contains 4B parameters wher
 ```
 # Data Analysis 
 
-Now, we attempt to evaluate the performance of the different VLMs.
+Now, we attempt to evaluate the performance of the object detection capabilities of different VLMs.
 
 ## Methodology 
 
-### First Attempt
+### First Attempt 
+
+1. Ask the VLMs to detect and list out the objects detected in the image
+2. Pass the list through a object detection model.
+3. If the object is detected through the model, record as success
+4. Calculate success Rate
+
+Challenges and Limitations:
+-  Assume that the Object Detection Model is the ground truth
+
+**First Step**
+
+Prompting the each VLM to detect all the images
+
+<p align="center">
+  <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-VL/assets/demo.jpeg" width="500" />
+  <br>Figure 1: Input Image
+</p>
+
+Prompt used
+```
+Task: 
+- Detect all the objects in the image and list them out
+- Ensure that the output only includes the labels of the object
+```
+
+**Second Step**
+
+Pass each list through the Object Detection Model.
+
+For the object detection model , we used [GroundingDINO](#https://github.com/IDEA-Research/GroundingDINO/blob/main/README.md) by IDEA-Research.
+
+**Results**
+
+1. **Google's Gemma-3-3B-it**
+
+**Labels**
+```
+['Dog', 'Woman', 'Beach', 'Sand', 'Ocean', 'Sky', 'Hand', 'Clothing', 'Leash', 'Wave']
+```
+
+```
+Label : dog , Successfully identified in the image
+Label : woman , Successfully identified in the image
+Label : beach , Successfully identified in the image
+Label : sand , Successfully identified in the image
+Label : ocean , Successfully identified in the image
+Label : sky , Successfully identified in the image
+Label : hand , Successfully identified in the image
+Label : clothing , Successfully identified in the image
+Label : leash , Incorrectly Identified in the image
+Label : wave , Incorrectly Identified in the image
+Model has a success rate of 80.0% .
+```
+
+Sucess Rate : 80%
+
+
+
+### Second Attempt
 
 1. Generate questions regarding object detection using Google's Gemma-3-3b-it.
 2. Pass these questions into various VLMs to obtain their respective answers
@@ -78,6 +137,10 @@ I specifically prompted it to generate questions such that the answers will be b
 **Step Two**
 
 We then pass these questions into different VLMs for their respective answers.\
+
+For Gemma-3-3B-it:
+
+
 
 **Gemma-3-3b-it**
 
