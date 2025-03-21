@@ -78,7 +78,7 @@ For the object detection model , we used [GroundingDINO](#https://github.com/IDE
 ```
 ['Dog', 'Woman', 'Beach', 'Sand', 'Ocean', 'Sky', 'Hand', 'Clothing', 'Leash', 'Wave']
 ```
-
+When passed into the Object Detection Model 
 ```
 Label : dog , Successfully identified in the image
 Label : woman , Successfully identified in the image
@@ -93,9 +93,34 @@ Label : wave , Incorrectly Identified in the image
 Model has a success rate of 80.0% .
 ```
 
-Sucess Rate : 80%
+Success Rate : 80%
 
+**Qwen2.5-3B-VL-Instruct**
 
+**Labels**
+```
+['Dog', 'Person', 'Beach', 'Sand', 'Ocean', 'Sky', 'Sunlight', 'Footprints', 'Leash']
+```
+Results
+```
+Label : dog , Successfully identified in the image
+Label : person , Successfully identified in the image
+Label : beach , Successfully identified in the image
+Label : sand , Successfully identified in the image
+Label : ocean , Successfully identified in the image
+Label : sky , Successfully identified in the image
+Label : sunlight , Incorrectly Identified in the image
+Label : footprints , Successfully identified in the image
+Label : leash , Incorrectly Identified in the image
+Model has a success rate of 77.8% .
+```
+
+Success Rate : 77.8%
+
+**LLava**
+
+**Labels**
+```
 
 ### Second Attempt
 
