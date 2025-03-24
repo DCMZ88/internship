@@ -144,7 +144,32 @@ Success Rate : 100%
 - Qwen2.5-3b-Instruct : 77.8%
 - Llava-v1.6-mistral-7b-hf : 100%
 
+### Second Attempt
 
+1. Similar to the first method, we prompt the VLMs to detect objects from the image.
+2. Instead of sending it through a Object Detection Model,
+3. I used Microsoft's Florence to generate a detailed caption of the image.
+4. We then compare if the labels are inside the caption.
+
+**Why this method**
+- I tried this method to counter the problem of object detection models being too generalized and not specific enough
+- By generating this detailed caption, I aim to achieve a more detailed capture of the objects in the image, allowing the comparison to be more accurate.
+
+**Limitations**
+- The caption even though detailed may not catch everything in the image.
+- The labels produced from the caption may not be represented in the same way as the label from the other models even though they may mean the same thing.
+
+Caption
+```
+"The image shows a young woman sitting on a sandy beach with her golden retriever dog. The woman is wearing a plaid shirt and black pants and is holding the dog's leash. The dog is sitting on the sand and is looking up at the woman with a smile on its face. The ocean can be seen in the background with waves crashing onto the shore. The sky is orange and pink, indicating that it is either sunrise or sunset. The overall mood of the image is peaceful and serene."
+```
+### Final Results 
+**Success Rates**
+- Google's Gemma-3-3b-it : 80% 
+- Qwen2.5-3b-Instruct : 66.7%
+- Llava-v1.6-mistral-7b-hf : 60%
+
+> Labels used to compare are the same as the first attempt's
 
 ### Second Attempt
 
