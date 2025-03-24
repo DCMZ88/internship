@@ -1,0 +1,9 @@
+Gemma3-3b-it : 
+Correct : ['Sky', 'Ocean', 'Waves', 'Woman', 'Dog', 'Ocean', 'Leash']
+Original : ['Woman', 'Dog', 'Beach', 'Sand', 'Ocean', 'Waves', 'Sky', 'Hand', 'Leash', 'Sunglasses', 'Shirt', 'Palm tree']
+Qwen2.5-3b-VL : 
+Correct : ['Sky', 'Ocean', 'Dog', 'Ocean', 'Leash']
+Original : ['Dog', 'Person', 'Beach', 'Sand', 'Ocean', 'Sky', 'Sunlight', 'Footprints', 'Leash']
+Llava-hf :
+Correct : ['ocean', 'harness', 'Dog', 'ocean', 'leash']
+Original : ['Dog', 'person', 'beach', 'sand', 'ocean', 'sunset', 'harness', 'leash', 'collar', 'toy']
