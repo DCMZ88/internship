@@ -48,6 +48,7 @@ Now, we attempt to evaluate the performance of the object detection capabilities
 Challenges and Limitations:
 -  Assuming that the Object Detection Model is the ground truth
 -  Some models may detect more specific details in the image (e.g pattern of shirt , objects in the background)
+-  Object Detection Models tend to only detect simple objects and not objects in the background such as grass , sand e.t.c 
 
 **First Step**
 
