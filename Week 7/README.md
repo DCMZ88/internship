@@ -73,7 +73,7 @@ For the object detection model , we used [GroundingDINO](#https://github.com/IDE
 
 **Results**
 
-1. **Google's Gemma-3-3B-it**
+**Google's Gemma-3-3B-it**
 
 **Labels**
 ```
