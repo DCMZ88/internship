@@ -46,7 +46,8 @@ Now, we attempt to evaluate the performance of the object detection capabilities
 4. Calculate success Rate
 
 Challenges and Limitations:
--  Assume that the Object Detection Model is the ground truth
+-  Assuming that the Object Detection Model is the ground truth
+-  Some models may detect more specific details in the image (e.g pattern of shirt , objects in the background)
 
 **First Step**
 
@@ -117,10 +118,32 @@ Model has a success rate of 77.8% .
 
 Success Rate : 77.8%
 
-**LLava**
+**Llava-hf/llava-v1.6-mistral-7b-hf**
 
 **Labels**
 ```
+['Dog', 'person', 'beach', 'sand', 'ocean', 'sunset']
+```
+Results
+```
+Label : dog , Successfully identified in the image
+Label : person , Successfully identified in the image
+Label : beach , Successfully identified in the image
+Label : sand , Successfully identified in the image
+Label : ocean , Successfully identified in the image
+Label : sunset , Successfully identified in the image
+Model has a success rate of 100.0% .
+```
+
+Success Rate : 100%
+
+### Final Results 
+**Success Rates**
+- Google's Gemma-3-3b-it : 80% 
+- Qwen2.5-3b-Instruct : 77.8%
+- Llava-v1.6-mistral-7b-hf : 100%
+
+
 
 ### Second Attempt
 
