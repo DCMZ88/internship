@@ -54,4 +54,10 @@ Prompt used
 
 Google's Gemma-3-4b-it : 56.1% 
 
-
+### Challenges 
+- I had initially tried to run both models simultaneously but the kernel crashed while processing the image through the Owlv2 thus I had to run both models separately, creating the need to save the labels from the VLM in a `json` file.
+- Another challenge faced was getting the VLMs to output a consistent format\
+  For example, Google's Gemma3 Model would sometimes output the labels with the standard heading by the model or the objects would be listed in list with a hyphen which made it hard to use a code to save the labels in a list.
+### Limitations 
+- Assume that Owlv2 is the "Ground Truth"
+- Some of the objects labelled by the VLMs may be too specific though correct which Owlv2 may not detect.
