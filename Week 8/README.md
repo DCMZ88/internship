@@ -1,6 +1,7 @@
 # Data Curation 
 - [Evaluation over a data set](#Evaluation-over-a-data-set)
-- [Challenges](#challenges) 
+    - [Challenges](#challenges)
+    - [Limitations](#limitations)
 ## Evaluation of model's performance
 
 ### Methodology 
