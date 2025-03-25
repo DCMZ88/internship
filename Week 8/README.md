@@ -40,7 +40,7 @@ In order to achieve this, we will just iterate the dataset of images over each V
 
 **Results**
 
-256 Images were used for this results. [Images1](
+256 Images were used for this results. (Images1)
 
 Prompt used 
 ```
