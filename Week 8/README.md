@@ -20,8 +20,8 @@ We set the threshold for the confidence score to > 0.5.
 
 **Results**
 
-Google's Gemma-3-3B-it : 55.8% 
-Qwen2.5-VL-Instruct : 52.3%
+Google's Gemma-3-3B-it : 55.8%\
+Qwen2.5-VL-Instruct : 52.3%\
 Llava-hf : 67.0%
 
 ## Evaluation over a data set
