@@ -59,6 +59,13 @@ Google's Gemma-3-4b-it : 56.1%
 - I had initially tried to run both models simultaneously but the kernel crashed while processing the image through the Owlv2 thus I had to run both models separately, creating the need to save the labels from the VLM in a `json` file.
 - Another challenge faced was getting the VLMs to output a consistent format\
   For example, Google's Gemma3 Model would sometimes output the labels with the standard heading by the model or the objects would be listed in list with a hyphen which made it hard to use a code to save the labels in a list.
+- Example
+```
+- Dog
+- Ball
+```
+- Other models would also struggle to comprehend the task prompted to them, resulting in alot of hallucinations. But when prompted a single task to detect the image,\
+it is able to generate a detailed caption of the image quite accurately. 
 ### Limitations 
 - Assume that Owlv2 is the "Ground Truth"
 - Some of the objects labelled by the VLMs may be too specific though correct which Owlv2 may not detect.
