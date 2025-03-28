@@ -64,7 +64,7 @@ Google's Gemma-3-4b-it : 56.1%
 - Dog
 - Ball
 ```
-- Other models would also struggle to comprehend the task prompted to them, resulting in alot of hallucinations. But when prompted a single task to detect the image,\
+- Other models would also struggle to comprehend the task prompted to them, resulting in alot of hallucinations or invalid answers . But when prompted a single task to detect the image,\
 it is able to generate a detailed caption of the image quite accurately. 
 ### Limitations 
 - Assume that Owlv2 is the "Ground Truth"
