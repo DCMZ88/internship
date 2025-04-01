@@ -1,4 +1,4 @@
-# Data Curation 
+# Data Analysis 
 - [Evaluation over a data set](#Evaluation-over-a-data-set)
     - [Challenges](#challenges)
     - [Limitations](#limitations)
@@ -74,3 +74,5 @@ it is able to generate a detailed caption of the image quite accurately.
 - Assume that Owlv2 is the "Ground Truth"
 - Some of the objects labelled by the VLMs may be too specific though correct which Owlv2 may not detect.
 - Some of the objects detected in some images by the VLMs are vastly incorrect even though I already fine-tuned the prompt which affects the accuracy of the model greatly.
+- One thing to note is also that the parameters for each model were different which may affect the overall performance of the model
+- The performance of the model may also be due to its ability to understand the prompt well which may not necessarily reflect its Object Detection Capabilities.
