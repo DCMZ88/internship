@@ -8,6 +8,8 @@ Prompted the models to detect simple and generic objects in each image and list 
 
 Passed these labels of objects through a zero-shot object detection model to check if model is able to identify correctly.
 
+Saved the correct and incorrect objects for each VLM in a `json` file 
+
 ## Accuracy
 
 **Google's Gemma3-4b-it** : 56.1%
