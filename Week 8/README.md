@@ -69,3 +69,4 @@ it is able to generate a detailed caption of the image quite accurately.
 ### Limitations 
 - Assume that Owlv2 is the "Ground Truth"
 - Some of the objects labelled by the VLMs may be too specific though correct which Owlv2 may not detect.
+- Some of the objects detected in some images by the VLMs are vastly incorrect even though I already fine-tuned the prompt which affects the accuracy of the model greatly.
