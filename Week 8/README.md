@@ -55,6 +55,10 @@ Prompt used
 
 Google's Gemma-3-4b-it : 56.1% 
 
+Llava's-hf one-vision : 50.5%
+
+
+
 ### Challenges 
 - I had initially tried to run both models simultaneously but the kernel crashed while processing the image through the Owlv2 thus I had to run both models separately, creating the need to save the labels from the VLM in a `json` file.
 - Another challenge faced was getting the VLMs to output a consistent format\
