@@ -36,7 +36,7 @@ In order to achieve this, we will just iterate the dataset of images over each V
 1. Prompt and Pass each image into the model to produce labels for the corresponding image
 2. Save the labels and the corresponding image path to a `json` file.
 3. Load the `json` file and pass it through the Owlv2 model ( Object Detection Model )
-4. Save the incorrect and correct labels into a `json` file
+4. Save the incorrect and correct labels into a `json` file labelled `Labels`
 5. Record the average success rate for each model.
 
 **Results**
