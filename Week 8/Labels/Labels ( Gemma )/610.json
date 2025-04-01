@@ -1,0 +1,25 @@
+{
+    "Image Path": "610.jpg",
+    "Original Labels": [
+        "chair",
+        "table",
+        "ironing board",
+        "clothing",
+        "cushions",
+        "lamps",
+        "figurines",
+        "books"
+    ],
+    "Correct Labels": [
+        "books",
+        "chair",
+        "table",
+        "clothing"
+    ],
+    "Incorrect Labels": [
+        "ironing board",
+        "cushions",
+        "lamps",
+        "figurines"
+    ]
+}

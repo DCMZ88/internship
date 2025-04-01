@@ -1,0 +1,25 @@
+{
+    "Image Path": "759.jpg",
+    "Original Labels": [
+        "here's a list of the generic objects detected in the image:\n\nchair",
+        "table",
+        "microphone",
+        "podium",
+        "man",
+        "speech bubble",
+        "lights",
+        "background"
+    ],
+    "Correct Labels": [
+        "speech bubble",
+        "podium",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "here's a list of the generic objects detected in the image:\n\nchair",
+        "table",
+        "man",
+        "lights",
+        "background"
+    ]
+}

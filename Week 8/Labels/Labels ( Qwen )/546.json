@@ -1,0 +1,29 @@
+{
+    "Image Path": "546.jpg",
+    "Original Labels": [
+        "woman",
+        "sauce",
+        "sign",
+        "rice",
+        "tray",
+        "plate",
+        "table",
+        "food",
+        "text",
+        "meat"
+    ],
+    "Correct Labels": [
+        "food",
+        "plate",
+        "table",
+        "tray",
+        "meat",
+        "rice"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "sauce",
+        "sign",
+        "text"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "674.jpg",
+    "Original Labels": [
+        "turtle",
+        "woman",
+        "pink shirt",
+        "blue shirt",
+        "thumb",
+        "yellow shirt",
+        "man",
+        "sign",
+        "yellow background",
+        "orange shirt"
+    ],
+    "Correct Labels": [
+        "thumb",
+        "turtle",
+        "man",
+        "yellow background",
+        "yellow shirt",
+        "pink shirt",
+        "woman",
+        "blue shirt"
+    ],
+    "Incorrect Labels": [
+        "sign",
+        "orange shirt"
+    ]
+}

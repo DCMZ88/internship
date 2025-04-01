@@ -1,0 +1,17 @@
+{
+    "Image Path": "750.jpg",
+    "Original Labels": [
+        "woman",
+        "soup",
+        "glasses",
+        "dumpling"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "soup",
+        "dumpling"
+    ]
+}

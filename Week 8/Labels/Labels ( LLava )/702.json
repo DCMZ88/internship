@@ -1,0 +1,29 @@
+{
+    "Image Path": "702.png",
+    "Original Labels": [
+        "sheep",
+        "lightning bolt",
+        "red circle",
+        "hammer and sickle",
+        "goat",
+        "white wall",
+        "red star",
+        "electricity symbol",
+        "paw print",
+        "bone"
+    ],
+    "Correct Labels": [
+        "sheep",
+        "red circle",
+        "bone",
+        "goat"
+    ],
+    "Incorrect Labels": [
+        "lightning bolt",
+        "hammer and sickle",
+        "white wall",
+        "red star",
+        "electricity symbol",
+        "paw print"
+    ]
+}

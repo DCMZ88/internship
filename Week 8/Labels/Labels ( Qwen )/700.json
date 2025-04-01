@@ -1,0 +1,29 @@
+{
+    "Image Path": "700.jpg",
+    "Original Labels": [
+        "question mark",
+        "senior minister teo chee hean",
+        "sunglasses",
+        "shirt",
+        "tie",
+        "background",
+        "text",
+        "microphone",
+        "podium",
+        "jacket"
+    ],
+    "Correct Labels": [
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "question mark",
+        "senior minister teo chee hean",
+        "sunglasses",
+        "shirt",
+        "background",
+        "text",
+        "microphone",
+        "podium",
+        "jacket"
+    ]
+}

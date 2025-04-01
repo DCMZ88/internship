@@ -1,0 +1,29 @@
+{
+    "Image Path": "533.jpg",
+    "Original Labels": [
+        "mascot",
+        "character",
+        "headstands",
+        "pov",
+        "work",
+        "intrusive thoughts",
+        "mall",
+        "people",
+        "bicycle",
+        "mall entrance"
+    ],
+    "Correct Labels": [
+        "mall",
+        "mall entrance",
+        "people",
+        "bicycle",
+        "character",
+        "mascot"
+    ],
+    "Incorrect Labels": [
+        "headstands",
+        "pov",
+        "work",
+        "intrusive thoughts"
+    ]
+}

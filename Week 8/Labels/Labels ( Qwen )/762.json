@@ -1,0 +1,29 @@
+{
+    "Image Path": "762.jpg",
+    "Original Labels": [
+        "community",
+        "home icon",
+        "people",
+        "search icon",
+        "date",
+        "tv show",
+        "poster",
+        "text",
+        "playlist",
+        "video"
+    ],
+    "Correct Labels": [
+        "video",
+        "home icon",
+        "text",
+        "people",
+        "poster",
+        "community"
+    ],
+    "Incorrect Labels": [
+        "search icon",
+        "date",
+        "tv show",
+        "playlist"
+    ]
+}

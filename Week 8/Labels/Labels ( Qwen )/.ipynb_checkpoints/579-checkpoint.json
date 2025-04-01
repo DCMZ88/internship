@@ -1,0 +1,28 @@
+{
+    "Image Path": "579.jpg",
+    "Original Labels": [
+        "chicken",
+        "rice",
+        "chicken rice",
+        "public",
+        "hawkers",
+        "chicken",
+        "rice",
+        "chicken rice",
+        "public",
+        "hawkers"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "chicken",
+        "rice",
+        "chicken rice",
+        "public",
+        "hawkers",
+        "chicken",
+        "rice",
+        "chicken rice",
+        "public",
+        "hawkers"
+    ]
+}

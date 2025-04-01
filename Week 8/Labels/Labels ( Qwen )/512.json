@@ -1,0 +1,29 @@
+{
+    "Image Path": "512.jpg",
+    "Original Labels": [
+        "chair",
+        "computer",
+        "door",
+        "window",
+        "monitor",
+        "spore man",
+        "wall",
+        "mouse",
+        "desk",
+        "keyboard"
+    ],
+    "Correct Labels": [
+        "computer"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "door",
+        "window",
+        "monitor",
+        "spore man",
+        "wall",
+        "mouse",
+        "desk",
+        "keyboard"
+    ]
+}

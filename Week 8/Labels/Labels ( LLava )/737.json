@@ -1,0 +1,29 @@
+{
+    "Image Path": "737.jpg",
+    "Original Labels": [
+        "orange jumpsuit",
+        "white wall",
+        "door",
+        "window",
+        "bar",
+        "hair",
+        "ear",
+        "nose",
+        "mouth",
+        "tattoo"
+    ],
+    "Correct Labels": [
+        "orange jumpsuit",
+        "bar"
+    ],
+    "Incorrect Labels": [
+        "white wall",
+        "door",
+        "window",
+        "hair",
+        "ear",
+        "nose",
+        "mouth",
+        "tattoo"
+    ]
+}

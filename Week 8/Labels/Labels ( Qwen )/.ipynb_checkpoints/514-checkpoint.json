@@ -1,0 +1,29 @@
+{
+    "Image Path": "514.png",
+    "Original Labels": [
+        "water bottle",
+        "goggles",
+        "swimmer",
+        "sign",
+        "flag",
+        "pool",
+        "bench",
+        "towel",
+        "wall",
+        "swim cap"
+    ],
+    "Correct Labels": [
+        "swimmer",
+        "flag",
+        "water bottle",
+        "pool"
+    ],
+    "Incorrect Labels": [
+        "goggles",
+        "sign",
+        "bench",
+        "towel",
+        "wall",
+        "swim cap"
+    ]
+}

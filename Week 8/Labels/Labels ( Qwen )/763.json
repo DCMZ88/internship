@@ -1,0 +1,29 @@
+{
+    "Image Path": "763.jpg",
+    "Original Labels": [
+        "woman",
+        "office",
+        "chair",
+        "door",
+        "man",
+        "job interview",
+        "candidate",
+        "wall",
+        "employer",
+        "desk"
+    ],
+    "Correct Labels": [
+        "candidate",
+        "office",
+        "chair",
+        "door",
+        "desk"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "man",
+        "job interview",
+        "wall",
+        "employer"
+    ]
+}

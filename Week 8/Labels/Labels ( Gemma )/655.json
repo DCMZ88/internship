@@ -1,0 +1,17 @@
+{
+    "Image Path": "655.png",
+    "Original Labels": [
+        "brain",
+        "probe",
+        "cat",
+        "fire"
+    ],
+    "Correct Labels": [
+        "brain",
+        "fire"
+    ],
+    "Incorrect Labels": [
+        "probe",
+        "cat"
+    ]
+}

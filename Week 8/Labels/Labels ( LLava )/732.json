@@ -1,0 +1,29 @@
+{
+    "Image Path": "732.png",
+    "Original Labels": [
+        "man",
+        "smile",
+        "suit",
+        "tie",
+        "glasses",
+        "wall",
+        "lighting",
+        "chair",
+        "desk",
+        "speech bubble"
+    ],
+    "Correct Labels": [
+        "smile",
+        "man",
+        "tie",
+        "suit",
+        "speech bubble",
+        "glasses",
+        "wall"
+    ],
+    "Incorrect Labels": [
+        "lighting",
+        "chair",
+        "desk"
+    ]
+}

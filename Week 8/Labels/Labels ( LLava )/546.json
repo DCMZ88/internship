@@ -1,0 +1,29 @@
+{
+    "Image Path": "546.jpg",
+    "Original Labels": [
+        "tray of food",
+        "rice",
+        "meat",
+        "vegetables",
+        "tray of meat",
+        "tray of vegetables",
+        "tray of rice",
+        "tray of food with rice",
+        "tray of food with meat",
+        "tray of food with vegetables"
+    ],
+    "Correct Labels": [
+        "tray of food",
+        "tray of rice",
+        "meat",
+        "rice",
+        "vegetables"
+    ],
+    "Incorrect Labels": [
+        "tray of meat",
+        "tray of vegetables",
+        "tray of food with rice",
+        "tray of food with meat",
+        "tray of food with vegetables"
+    ]
+}

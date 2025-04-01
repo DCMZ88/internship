@@ -1,0 +1,17 @@
+{
+    "Image Path": "668.jpg",
+    "Original Labels": [
+        "snail",
+        "turtle",
+        "internet explorer",
+        "logo"
+    ],
+    "Correct Labels": [
+        "turtle",
+        "logo"
+    ],
+    "Incorrect Labels": [
+        "snail",
+        "internet explorer"
+    ]
+}

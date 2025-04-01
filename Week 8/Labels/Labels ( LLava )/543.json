@@ -1,0 +1,29 @@
+{
+    "Image Path": "543.jpg",
+    "Original Labels": [
+        "character",
+        "character's face",
+        "character's hair",
+        "character's eyes",
+        "character's nose",
+        "character's mouth",
+        "character's teeth",
+        "character's chin",
+        "character's neck",
+        "character's collar"
+    ],
+    "Correct Labels": [
+        "character's hair",
+        "character's eyes",
+        "character's nose",
+        "character's mouth",
+        "character's chin",
+        "character",
+        "character's collar",
+        "character's neck"
+    ],
+    "Incorrect Labels": [
+        "character's face",
+        "character's teeth"
+    ]
+}

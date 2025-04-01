@@ -1,0 +1,23 @@
+{
+    "Image Path": "712.png",
+    "Original Labels": [
+        "chair",
+        "table",
+        "wall",
+        "badge",
+        "shirt",
+        "lips",
+        "hair"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "lips",
+        "hair",
+        "badge"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "table",
+        "wall"
+    ]
+}

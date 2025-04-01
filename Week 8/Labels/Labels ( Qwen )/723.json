@@ -1,0 +1,29 @@
+{
+    "Image Path": "723.png",
+    "Original Labels": [
+        "judge's eyeglasses",
+        "judge's bench",
+        "judge's microphone",
+        "judge's gavel",
+        "judge's chair",
+        "judge's desk",
+        "judge's robe",
+        "judge's wig",
+        "courtroom",
+        "judge"
+    ],
+    "Correct Labels": [
+        "judge's wig",
+        "judge's eyeglasses",
+        "courtroom",
+        "judge",
+        "judge's robe"
+    ],
+    "Incorrect Labels": [
+        "judge's bench",
+        "judge's microphone",
+        "judge's gavel",
+        "judge's chair",
+        "judge's desk"
+    ]
+}

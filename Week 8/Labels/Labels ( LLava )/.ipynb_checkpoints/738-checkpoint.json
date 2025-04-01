@@ -1,0 +1,25 @@
+{
+    "Image Path": "738.jpg",
+    "Original Labels": [
+        "knife",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger",
+        "finger"
+    ],
+    "Correct Labels": [
+        "finger",
+        "knife"
+    ],
+    "Incorrect Labels": []
+}

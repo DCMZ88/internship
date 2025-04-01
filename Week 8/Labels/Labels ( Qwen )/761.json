@@ -1,0 +1,29 @@
+{
+    "Image Path": "761.jpg",
+    "Original Labels": [
+        "icons",
+        "navigation bar",
+        "television screen",
+        "search bar",
+        "movie poster",
+        "buttons",
+        "text",
+        "video player",
+        "playlist",
+        "menu items"
+    ],
+    "Correct Labels": [
+        "movie poster",
+        "icons",
+        "navigation bar",
+        "search bar",
+        "text",
+        "television screen"
+    ],
+    "Incorrect Labels": [
+        "buttons",
+        "video player",
+        "playlist",
+        "menu items"
+    ]
+}

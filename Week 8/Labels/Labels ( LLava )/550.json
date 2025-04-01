@@ -1,0 +1,29 @@
+{
+    "Image Path": "550.png",
+    "Original Labels": [
+        "water bottle",
+        "microphone",
+        "glass",
+        "curtain",
+        "table",
+        "bottle cap",
+        "glass of water",
+        "curtain rod",
+        "curtain panel",
+        "microphone stand"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "bottle cap",
+        "water bottle",
+        "glass"
+    ],
+    "Incorrect Labels": [
+        "curtain",
+        "table",
+        "glass of water",
+        "curtain rod",
+        "curtain panel",
+        "microphone stand"
+    ]
+}

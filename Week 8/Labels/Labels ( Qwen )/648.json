@@ -1,0 +1,26 @@
+{
+    "Image Path": "648.png",
+    "Original Labels": [
+        "parliament",
+        "extramarital",
+        "futurama",
+        "robot",
+        "nickel",
+        "nickels",
+        "affair",
+        "two",
+        "speaker"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "parliament",
+        "extramarital",
+        "futurama",
+        "robot",
+        "nickel",
+        "nickels",
+        "affair",
+        "two",
+        "speaker"
+    ]
+}

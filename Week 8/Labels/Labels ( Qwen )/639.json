@@ -1,0 +1,23 @@
+{
+    "Image Path": "639.jpg",
+    "Original Labels": [
+        "tree",
+        "man",
+        "stick",
+        "flag",
+        "grass",
+        "forest",
+        "forest floor"
+    ],
+    "Correct Labels": [
+        "man",
+        "stick"
+    ],
+    "Incorrect Labels": [
+        "tree",
+        "flag",
+        "grass",
+        "forest",
+        "forest floor"
+    ]
+}

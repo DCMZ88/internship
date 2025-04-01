@@ -1,0 +1,29 @@
+{
+    "Image Path": "599.png",
+    "Original Labels": [
+        "phone",
+        "certificate",
+        "microphone",
+        "podium",
+        "shirt",
+        "tie",
+        "pants",
+        "logo",
+        "paper",
+        "grade"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "shirt",
+        "logo",
+        "podium",
+        "phone"
+    ],
+    "Incorrect Labels": [
+        "certificate",
+        "tie",
+        "pants",
+        "paper",
+        "grade"
+    ]
+}

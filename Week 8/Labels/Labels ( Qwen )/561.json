@@ -1,0 +1,29 @@
+{
+    "Image Path": "561.png",
+    "Original Labels": [
+        "chair",
+        "door",
+        "floor",
+        "man",
+        "window",
+        "signboard",
+        "counter",
+        "bus",
+        "table",
+        "wall"
+    ],
+    "Correct Labels": [
+        "signboard",
+        "man",
+        "chair",
+        "counter"
+    ],
+    "Incorrect Labels": [
+        "door",
+        "floor",
+        "window",
+        "bus",
+        "table",
+        "wall"
+    ]
+}

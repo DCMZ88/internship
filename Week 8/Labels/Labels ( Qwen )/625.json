@@ -1,0 +1,28 @@
+{
+    "Image Path": "625.png",
+    "Original Labels": [
+        "woman",
+        "sunglasses",
+        "microphone stand",
+        "shirt",
+        "tie",
+        "microphone cover",
+        "hat",
+        "ball",
+        "microphone",
+        "dog"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "woman",
+        "sunglasses",
+        "microphone stand",
+        "shirt",
+        "tie",
+        "microphone cover",
+        "hat",
+        "ball",
+        "microphone",
+        "dog"
+    ]
+}

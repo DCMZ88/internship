@@ -1,0 +1,29 @@
+{
+    "Image Path": "707.png",
+    "Original Labels": [
+        "man",
+        "suit",
+        "tie",
+        "glasses",
+        "smile",
+        "arrow",
+        "numbers",
+        "percentage sign",
+        "square",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "glasses",
+        "smile",
+        "arrow",
+        "tie",
+        "suit",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "numbers",
+        "percentage sign",
+        "square"
+    ]
+}

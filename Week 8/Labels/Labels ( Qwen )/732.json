@@ -1,0 +1,19 @@
+{
+    "Image Path": "732.png",
+    "Original Labels": [
+        "please nobody chut any pattern ho...",
+        "dpm heng swee keat to be acting pm",
+        "pm lee on one week leave",
+        "pm lee",
+        "singapore"
+    ],
+    "Correct Labels": [
+        "pm lee",
+        "pm lee on one week leave"
+    ],
+    "Incorrect Labels": [
+        "please nobody chut any pattern ho...",
+        "dpm heng swee keat to be acting pm",
+        "singapore"
+    ]
+}

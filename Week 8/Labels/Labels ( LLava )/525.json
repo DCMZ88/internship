@@ -1,0 +1,29 @@
+{
+    "Image Path": "525.jpg",
+    "Original Labels": [
+        "desk",
+        "chair",
+        "speaker",
+        "microphone",
+        "glasses",
+        "suit",
+        "tie",
+        "shirt",
+        "pants",
+        "mountain"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "tie",
+        "chair",
+        "suit",
+        "desk",
+        "mountain"
+    ],
+    "Incorrect Labels": [
+        "speaker",
+        "microphone",
+        "shirt",
+        "pants"
+    ]
+}

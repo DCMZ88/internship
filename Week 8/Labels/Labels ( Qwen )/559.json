@@ -1,0 +1,29 @@
+{
+    "Image Path": "559.jpg",
+    "Original Labels": [
+        "yellow",
+        "smoke",
+        "next election",
+        "red",
+        "paper airplane",
+        "green",
+        "blue",
+        "hand",
+        "cloud",
+        "election"
+    ],
+    "Correct Labels": [
+        "election",
+        "hand",
+        "cloud"
+    ],
+    "Incorrect Labels": [
+        "yellow",
+        "smoke",
+        "next election",
+        "red",
+        "paper airplane",
+        "green",
+        "blue"
+    ]
+}

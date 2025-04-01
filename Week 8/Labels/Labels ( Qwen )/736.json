@@ -1,0 +1,27 @@
+{
+    "Image Path": "736.jpg",
+    "Original Labels": [
+        "woman",
+        "star",
+        "infinity symbol",
+        "judge's gavel",
+        "man",
+        "bench",
+        "judge's robe",
+        "courtroom",
+        "judge"
+    ],
+    "Correct Labels": [
+        "infinity symbol",
+        "man",
+        "courtroom",
+        "woman",
+        "judge's robe"
+    ],
+    "Incorrect Labels": [
+        "star",
+        "judge's gavel",
+        "bench",
+        "judge"
+    ]
+}

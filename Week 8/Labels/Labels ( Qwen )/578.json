@@ -1,0 +1,12 @@
+{
+    "Image Path": "578.jpg",
+    "Original Labels": [
+        "girl",
+        "boy"
+    ],
+    "Correct Labels": [
+        "boy",
+        "girl"
+    ],
+    "Incorrect Labels": []
+}

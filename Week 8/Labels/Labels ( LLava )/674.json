@@ -1,0 +1,29 @@
+{
+    "Image Path": "674.jpg",
+    "Original Labels": [
+        "sand",
+        "turtle",
+        "sign",
+        "microphone",
+        "man's hand",
+        "woman's hand",
+        "signature",
+        "logo",
+        "microphone stand",
+        "background"
+    ],
+    "Correct Labels": [
+        "turtle",
+        "microphone",
+        "sand",
+        "background",
+        "microphone stand"
+    ],
+    "Incorrect Labels": [
+        "sign",
+        "man's hand",
+        "woman's hand",
+        "signature",
+        "logo"
+    ]
+}

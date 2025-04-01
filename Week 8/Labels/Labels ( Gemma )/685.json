@@ -1,0 +1,25 @@
+{
+    "Image Path": "685.jpg",
+    "Original Labels": [
+        "targets",
+        "arrows",
+        "man",
+        "microphone",
+        "podium",
+        "trees",
+        "sign",
+        "text"
+    ],
+    "Correct Labels": [
+        "targets",
+        "arrows",
+        "sign",
+        "podium",
+        "man",
+        "text",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "trees"
+    ]
+}

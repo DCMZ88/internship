@@ -1,0 +1,29 @@
+{
+    "Image Path": "515.jpg",
+    "Original Labels": [
+        "spongebob squarepants",
+        "shower",
+        "towel",
+        "tiles",
+        "glass door",
+        "faucet",
+        "shower head",
+        "soap dispenser",
+        "toilet paper",
+        "marble floor"
+    ],
+    "Correct Labels": [
+        "shower",
+        "shower head",
+        "faucet",
+        "soap dispenser",
+        "spongebob squarepants",
+        "towel",
+        "marble floor"
+    ],
+    "Incorrect Labels": [
+        "tiles",
+        "glass door",
+        "toilet paper"
+    ]
+}

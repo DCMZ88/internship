@@ -1,0 +1,23 @@
+{
+    "Image Path": "660.jpg",
+    "Original Labels": [
+        "woman",
+        "man",
+        "phone",
+        "staircase",
+        "escalator",
+        "hand",
+        "phone screen"
+    ],
+    "Correct Labels": [
+        "man",
+        "escalator",
+        "woman",
+        "phone",
+        "phone screen",
+        "hand"
+    ],
+    "Incorrect Labels": [
+        "staircase"
+    ]
+}

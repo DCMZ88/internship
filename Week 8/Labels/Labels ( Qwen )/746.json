@@ -1,0 +1,29 @@
+{
+    "Image Path": "746.jpg",
+    "Original Labels": [
+        "woman",
+        "castle wall",
+        "shield",
+        "fire",
+        "man",
+        "helmet",
+        "castle",
+        "sword",
+        "armor",
+        "glove"
+    ],
+    "Correct Labels": [
+        "castle wall",
+        "armor",
+        "man",
+        "fire",
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "shield",
+        "helmet",
+        "castle",
+        "sword",
+        "glove"
+    ]
+}

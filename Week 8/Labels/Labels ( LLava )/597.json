@@ -1,0 +1,19 @@
+{
+    "Image Path": "597.png",
+    "Original Labels": [
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt",
+        "man in white shirt"
+    ],
+    "Correct Labels": [
+        "man in white shirt"
+    ],
+    "Incorrect Labels": []
+}

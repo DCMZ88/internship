@@ -1,0 +1,25 @@
+{
+    "Image Path": "702.png",
+    "Original Labels": [
+        "logo",
+        "proposal",
+        "wp",
+        "flag",
+        "pap",
+        "psp",
+        "national reserves",
+        "sheep"
+    ],
+    "Correct Labels": [
+        "logo",
+        "sheep",
+        "pap"
+    ],
+    "Incorrect Labels": [
+        "proposal",
+        "wp",
+        "flag",
+        "psp",
+        "national reserves"
+    ]
+}

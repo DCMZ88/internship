@@ -1,0 +1,29 @@
+{
+    "Image Path": "744.jpg",
+    "Original Labels": [
+        "man",
+        "suit",
+        "tie",
+        "paper",
+        "wall",
+        "doorway",
+        "curtain",
+        "lighting",
+        "floor",
+        "television"
+    ],
+    "Correct Labels": [
+        "curtain",
+        "man",
+        "tie",
+        "suit",
+        "paper"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "doorway",
+        "lighting",
+        "floor",
+        "television"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "723.png",
+    "Original Labels": [
+        "wig",
+        "collar",
+        "tie",
+        "glasses",
+        "suit",
+        "shirt",
+        "microphone",
+        "lights",
+        "curtain",
+        "door"
+    ],
+    "Correct Labels": [
+        "wig",
+        "lights",
+        "glasses",
+        "collar",
+        "shirt",
+        "tie",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "microphone",
+        "curtain",
+        "door"
+    ]
+}

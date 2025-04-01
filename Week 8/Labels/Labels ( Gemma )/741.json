@@ -1,0 +1,21 @@
+{
+    "Image Path": "741.jpg",
+    "Original Labels": [
+        "grass",
+        "jeans",
+        "sneakers",
+        "phone",
+        "bench",
+        "playground"
+    ],
+    "Correct Labels": [
+        "bench",
+        "sneakers",
+        "phone",
+        "jeans"
+    ],
+    "Incorrect Labels": [
+        "grass",
+        "playground"
+    ]
+}

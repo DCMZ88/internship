@@ -1,0 +1,16 @@
+{
+    "Image Path": "690.png",
+    "Original Labels": [
+        "man",
+        "flags",
+        "crowd",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "man",
+        "flags",
+        "crowd"
+    ],
+    "Incorrect Labels": []
+}

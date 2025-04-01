@@ -1,0 +1,20 @@
+{
+    "Image Path": "696.jpg",
+    "Original Labels": [
+        "shirt",
+        "tie",
+        "face",
+        "hair",
+        "suit",
+        "glasses"
+    ],
+    "Correct Labels": [
+        "hair",
+        "face",
+        "glasses",
+        "shirt",
+        "suit",
+        "tie"
+    ],
+    "Incorrect Labels": []
+}

@@ -1,0 +1,18 @@
+{
+    "Image Path": "521.png",
+    "Original Labels": [
+        "fact",
+        "sign",
+        "alert",
+        "ostrich",
+        "text"
+    ],
+    "Correct Labels": [
+        "sign",
+        "text",
+        "fact",
+        "ostrich",
+        "alert"
+    ],
+    "Incorrect Labels": []
+}

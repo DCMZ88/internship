@@ -1,0 +1,39 @@
+{
+    "Image Path": "763.jpg",
+    "Original Labels": [
+        "man",
+        "chair",
+        "desk",
+        "pen",
+        "paper",
+        "glasses",
+        "tie",
+        "suit",
+        "door",
+        "sign",
+        "office",
+        "agency",
+        "carpet",
+        "light fixture",
+        "paperweight"
+    ],
+    "Correct Labels": [
+        "tie",
+        "office",
+        "chair",
+        "suit",
+        "door",
+        "glasses",
+        "paper",
+        "desk"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "pen",
+        "sign",
+        "agency",
+        "carpet",
+        "light fixture",
+        "paperweight"
+    ]
+}

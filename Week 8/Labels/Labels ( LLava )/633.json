@@ -1,0 +1,29 @@
+{
+    "Image Path": "633.png",
+    "Original Labels": [
+        "chair",
+        "ironing board",
+        "iron",
+        "shirt",
+        "table",
+        "coasters",
+        "books",
+        "lamp",
+        "wall clock",
+        "rug"
+    ],
+    "Correct Labels": [
+        "books",
+        "iron",
+        "chair",
+        "shirt",
+        "coasters",
+        "table",
+        "rug"
+    ],
+    "Incorrect Labels": [
+        "ironing board",
+        "lamp",
+        "wall clock"
+    ]
+}

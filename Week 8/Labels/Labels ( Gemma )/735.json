@@ -1,0 +1,17 @@
+{
+    "Image Path": "735.jpg",
+    "Original Labels": [
+        "lightsaber",
+        "wall",
+        "floor",
+        "pillar"
+    ],
+    "Correct Labels": [
+        "pillar",
+        "lightsaber"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "floor"
+    ]
+}

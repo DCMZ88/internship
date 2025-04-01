@@ -1,0 +1,29 @@
+{
+    "Image Path": "572.jpg",
+    "Original Labels": [
+        "seatbelt",
+        "hand.",
+        "steering wheel",
+        "mask",
+        "dashboard",
+        "car",
+        "window",
+        "gun",
+        "skull",
+        "suit"
+    ],
+    "Correct Labels": [
+        "skull",
+        "mask",
+        "window",
+        "gun"
+    ],
+    "Incorrect Labels": [
+        "seatbelt",
+        "hand.",
+        "steering wheel",
+        "dashboard",
+        "car",
+        "suit"
+    ]
+}

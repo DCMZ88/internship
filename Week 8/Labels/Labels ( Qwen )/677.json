@@ -1,0 +1,21 @@
+{
+    "Image Path": "677.jpg",
+    "Original Labels": [
+        "pap or wp",
+        "everywhere else",
+        "life",
+        "love",
+        "pie slice",
+        "pie chart"
+    ],
+    "Correct Labels": [
+        "pie chart",
+        "everywhere else"
+    ],
+    "Incorrect Labels": [
+        "pap or wp",
+        "life",
+        "love",
+        "pie slice"
+    ]
+}

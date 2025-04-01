@@ -1,0 +1,29 @@
+{
+    "Image Path": "540.jpg",
+    "Original Labels": [
+        "mahjong set",
+        "cartoon",
+        "money",
+        "chair",
+        "person",
+        "paper",
+        "comic",
+        "price tag",
+        "desk",
+        "pen"
+    ],
+    "Correct Labels": [
+        "cartoon",
+        "paper",
+        "pen",
+        "desk",
+        "chair",
+        "price tag"
+    ],
+    "Incorrect Labels": [
+        "mahjong set",
+        "money",
+        "person",
+        "comic"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Image Path": "524.jpg",
+    "Original Labels": [
+        "yew",
+        "lui tuck yew",
+        "white man",
+        "black man"
+    ],
+    "Correct Labels": [
+        "yew",
+        "white man",
+        "black man"
+    ],
+    "Incorrect Labels": [
+        "lui tuck yew"
+    ]
+}

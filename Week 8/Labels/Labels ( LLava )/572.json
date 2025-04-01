@@ -1,0 +1,29 @@
+{
+    "Image Path": "572.jpg",
+    "Original Labels": [
+        "skull mask",
+        "headphones",
+        "microphone",
+        "earphones",
+        "headset",
+        "sunglasses",
+        "earring",
+        "earbuds",
+        "ear protector",
+        "ear guard"
+    ],
+    "Correct Labels": [
+        "headphones",
+        "ear protector",
+        "skull mask",
+        "headset",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "earphones",
+        "sunglasses",
+        "earring",
+        "earbuds",
+        "ear guard"
+    ]
+}

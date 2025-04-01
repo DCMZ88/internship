@@ -1,0 +1,15 @@
+{
+    "Image Path": "675.jpg",
+    "Original Labels": [
+        "lawyer",
+        "courtroom",
+        "judge"
+    ],
+    "Correct Labels": [
+        "lawyer"
+    ],
+    "Incorrect Labels": [
+        "courtroom",
+        "judge"
+    ]
+}

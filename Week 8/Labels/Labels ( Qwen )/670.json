@@ -1,0 +1,15 @@
+{
+    "Image Path": "670.jpg",
+    "Original Labels": [
+        "woman",
+        "anglo-chinese school (acs)",
+        "man"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "anglo-chinese school (acs)"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Image Path": "758.jpg",
+    "Original Labels": [
+        "commander",
+        "screen",
+        "documents",
+        "computer",
+        "window",
+        "icon"
+    ],
+    "Correct Labels": [
+        "screen"
+    ],
+    "Incorrect Labels": [
+        "commander",
+        "documents",
+        "computer",
+        "window",
+        "icon"
+    ]
+}

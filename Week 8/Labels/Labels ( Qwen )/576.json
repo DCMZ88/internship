@@ -1,0 +1,29 @@
+{
+    "Image Path": "576.jpg",
+    "Original Labels": [
+        "street",
+        "mask",
+        "gloves",
+        "man",
+        "headphones",
+        "bus",
+        "caption",
+        "building",
+        "quote",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "caption",
+        "building",
+        "headphones",
+        "bus",
+        "man",
+        "street",
+        "mask",
+        "gloves"
+    ],
+    "Incorrect Labels": [
+        "quote"
+    ]
+}

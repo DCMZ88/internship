@@ -1,0 +1,19 @@
+{
+    "Image Path": "745.jpg",
+    "Original Labels": [
+        "speech bubble",
+        "chicken",
+        "word",
+        "stick figure",
+        "character"
+    ],
+    "Correct Labels": [
+        "word",
+        "speech bubble",
+        "stick figure"
+    ],
+    "Incorrect Labels": [
+        "chicken",
+        "character"
+    ]
+}

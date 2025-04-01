@@ -1,0 +1,23 @@
+{
+    "Image Path": "628.jpg",
+    "Original Labels": [
+        "flower",
+        "statue",
+        "shirt",
+        "camera",
+        "man",
+        "table",
+        "cake"
+    ],
+    "Correct Labels": [
+        "camera",
+        "man",
+        "shirt",
+        "table",
+        "flower",
+        "statue"
+    ],
+    "Incorrect Labels": [
+        "cake"
+    ]
+}

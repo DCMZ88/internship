@@ -1,0 +1,15 @@
+{
+    "Image Path": "630.jpg",
+    "Original Labels": [
+        "window",
+        "man",
+        "tree"
+    ],
+    "Correct Labels": [
+        "window",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "tree"
+    ]
+}

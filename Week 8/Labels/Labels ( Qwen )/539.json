@@ -1,0 +1,21 @@
+{
+    "Image Path": "539.jpg",
+    "Original Labels": [
+        "bart",
+        "homer",
+        "simpson",
+        "lisa",
+        "maggie",
+        "marge"
+    ],
+    "Correct Labels": [
+        "simpson",
+        "lisa"
+    ],
+    "Incorrect Labels": [
+        "bart",
+        "homer",
+        "maggie",
+        "marge"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "714.png",
+    "Original Labels": [
+        "ceiling light",
+        "shelf",
+        "paper",
+        "glasses",
+        "shirt",
+        "sweater",
+        "tie",
+        "watch",
+        "pen",
+        "paperclip"
+    ],
+    "Correct Labels": [
+        "ceiling light",
+        "glasses",
+        "shirt",
+        "shelf",
+        "sweater"
+    ],
+    "Incorrect Labels": [
+        "paper",
+        "tie",
+        "watch",
+        "pen",
+        "paperclip"
+    ]
+}

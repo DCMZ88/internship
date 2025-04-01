@@ -1,0 +1,29 @@
+{
+    "Image Path": "665.jpg",
+    "Original Labels": [
+        "wine glass",
+        "table",
+        "chair",
+        "dining table",
+        "man",
+        "woman",
+        "doorway",
+        "stairs",
+        "railing",
+        "balcony"
+    ],
+    "Correct Labels": [
+        "man",
+        "wine glass",
+        "woman",
+        "chair",
+        "dining table",
+        "doorway",
+        "railing",
+        "balcony"
+    ],
+    "Incorrect Labels": [
+        "table",
+        "stairs"
+    ]
+}

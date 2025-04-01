@@ -1,0 +1,29 @@
+{
+    "Image Path": "563.jpg",
+    "Original Labels": [
+        "pirate hat",
+        "sword",
+        "spear",
+        "water",
+        "sand",
+        "sky",
+        "clouds",
+        "people",
+        "shirt",
+        "pants"
+    ],
+    "Correct Labels": [
+        "sky",
+        "pirate hat",
+        "people",
+        "sword"
+    ],
+    "Incorrect Labels": [
+        "spear",
+        "water",
+        "sand",
+        "clouds",
+        "shirt",
+        "pants"
+    ]
+}

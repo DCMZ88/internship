@@ -1,0 +1,29 @@
+{
+    "Image Path": "719.png",
+    "Original Labels": [
+        "nose",
+        "shirt",
+        "hair",
+        "bow tie",
+        "mark hamill",
+        "mustache",
+        "beard",
+        "eyes",
+        "mouth",
+        "jacket"
+    ],
+    "Correct Labels": [
+        "hair",
+        "eyes",
+        "nose",
+        "mustache",
+        "mouth",
+        "beard",
+        "shirt",
+        "jacket"
+    ],
+    "Incorrect Labels": [
+        "bow tie",
+        "mark hamill"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Image Path": "518.jpg",
+    "Original Labels": [
+        "woman",
+        "wp",
+        "pap",
+        "cop",
+        "sm"
+    ],
+    "Correct Labels": [
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "wp",
+        "pap",
+        "cop",
+        "sm"
+    ]
+}

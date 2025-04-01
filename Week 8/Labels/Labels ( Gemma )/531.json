@@ -1,0 +1,19 @@
+{
+    "Image Path": "531.jpg",
+    "Original Labels": [
+        "card",
+        "hands",
+        "street",
+        "buildings",
+        "tree"
+    ],
+    "Correct Labels": [
+        "card",
+        "buildings",
+        "tree",
+        "street"
+    ],
+    "Incorrect Labels": [
+        "hands"
+    ]
+}

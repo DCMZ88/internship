@@ -1,0 +1,28 @@
+{
+    "Image Path": "577.jpg",
+    "Original Labels": [
+        "man",
+        "glasses",
+        "suit",
+        "tie",
+        "shirt",
+        "couch",
+        "plant",
+        "vase",
+        "books",
+        "horse figurine"
+    ],
+    "Correct Labels": [
+        "books",
+        "horse figurine",
+        "glasses",
+        "man",
+        "suit",
+        "tie",
+        "shirt",
+        "plant",
+        "couch",
+        "vase"
+    ],
+    "Incorrect Labels": []
+}

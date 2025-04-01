@@ -1,0 +1,45 @@
+{
+    "Image Path": "755.jpg",
+    "Original Labels": [
+        "cart",
+        "shopping baskets",
+        "people",
+        "shelves",
+        "products",
+        "chicken",
+        "man",
+        "woman",
+        "child",
+        "food",
+        "packaging",
+        "floor",
+        "store",
+        "mcdonald's",
+        "sign",
+        "table",
+        "chair",
+        "umbrella"
+    ],
+    "Correct Labels": [
+        "store",
+        "packaging",
+        "sign",
+        "people",
+        "cart",
+        "mcdonald's",
+        "woman",
+        "shopping baskets",
+        "floor",
+        "food"
+    ],
+    "Incorrect Labels": [
+        "shelves",
+        "products",
+        "chicken",
+        "man",
+        "child",
+        "table",
+        "chair",
+        "umbrella"
+    ]
+}

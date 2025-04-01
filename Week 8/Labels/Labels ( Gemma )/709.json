@@ -1,0 +1,15 @@
+{
+    "Image Path": "709.png",
+    "Original Labels": [
+        "spider-man",
+        "people",
+        "floor"
+    ],
+    "Correct Labels": [
+        "people",
+        "floor"
+    ],
+    "Incorrect Labels": [
+        "spider-man"
+    ]
+}

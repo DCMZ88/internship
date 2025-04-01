@@ -1,0 +1,35 @@
+{
+    "Image Path": "634.png",
+    "Original Labels": [
+        "recent",
+        "chairman",
+        "post",
+        "leave",
+        "ahpetc",
+        "cpib",
+        "audit committee",
+        "transport minister",
+        "sph media trust",
+        "khaw boon wan",
+        "s iswaran",
+        "pm lee",
+        "corruption probe"
+    ],
+    "Correct Labels": [
+        "sph media trust",
+        "audit committee",
+        "pm lee",
+        "recent"
+    ],
+    "Incorrect Labels": [
+        "chairman",
+        "post",
+        "leave",
+        "ahpetc",
+        "cpib",
+        "transport minister",
+        "khaw boon wan",
+        "s iswaran",
+        "corruption probe"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "683.png",
+    "Original Labels": [
+        "woman",
+        "cartoon",
+        "shirt",
+        "anime",
+        "ball",
+        "arm",
+        "table",
+        "finger",
+        "hand",
+        "dog"
+    ],
+    "Correct Labels": [
+        "anime",
+        "shirt",
+        "cartoon",
+        "hand"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "ball",
+        "arm",
+        "table",
+        "finger",
+        "dog"
+    ]
+}

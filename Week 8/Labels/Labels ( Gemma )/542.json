@@ -1,0 +1,33 @@
+{
+    "Image Path": "542.jpg",
+    "Original Labels": [
+        "desk",
+        "computer",
+        "stethoscope",
+        "telephone",
+        "chair",
+        "monitor",
+        "paperwork",
+        "counter",
+        "printer",
+        "cabinets",
+        "wall",
+        "floor."
+    ],
+    "Correct Labels": [
+        "monitor",
+        "telephone",
+        "stethoscope",
+        "printer",
+        "computer",
+        "desk",
+        "paperwork",
+        "chair"
+    ],
+    "Incorrect Labels": [
+        "counter",
+        "cabinets",
+        "wall",
+        "floor."
+    ]
+}

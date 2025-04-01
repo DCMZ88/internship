@@ -1,0 +1,29 @@
+{
+    "Image Path": "730.png",
+    "Original Labels": [
+        "cross",
+        "book",
+        "microphone",
+        "car",
+        "dragon",
+        "money",
+        "wine glass",
+        "church",
+        "people",
+        "light bulb"
+    ],
+    "Correct Labels": [
+        "book",
+        "cross",
+        "light bulb",
+        "people",
+        "dragon",
+        "car",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "money",
+        "wine glass",
+        "church"
+    ]
+}

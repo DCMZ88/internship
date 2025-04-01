@@ -1,0 +1,29 @@
+{
+    "Image Path": "589.JPG",
+    "Original Labels": [
+        "man",
+        "beard",
+        "mouth",
+        "teeth",
+        "hair",
+        "shirt",
+        "skin",
+        "microphone",
+        "background",
+        "text"
+    ],
+    "Correct Labels": [
+        "beard"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "mouth",
+        "teeth",
+        "hair",
+        "shirt",
+        "skin",
+        "microphone",
+        "background",
+        "text"
+    ]
+}

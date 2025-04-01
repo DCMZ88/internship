@@ -1,0 +1,29 @@
+{
+    "Image Path": "739.jpg",
+    "Original Labels": [
+        "chair",
+        "floor",
+        "door",
+        "shadow",
+        "person",
+        "window",
+        "light",
+        "ong ye kung",
+        "wall",
+        "ceiling"
+    ],
+    "Correct Labels": [
+        "wall",
+        "person",
+        "chair"
+    ],
+    "Incorrect Labels": [
+        "floor",
+        "door",
+        "shadow",
+        "window",
+        "light",
+        "ong ye kung",
+        "ceiling"
+    ]
+}

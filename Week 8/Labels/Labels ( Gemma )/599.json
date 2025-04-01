@@ -1,0 +1,23 @@
+{
+    "Image Path": "599.png",
+    "Original Labels": [
+        "speaker",
+        "podium",
+        "phone",
+        "screenshot",
+        "diploma",
+        "paper",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "podium",
+        "screenshot",
+        "phone"
+    ],
+    "Incorrect Labels": [
+        "speaker",
+        "diploma",
+        "paper"
+    ]
+}

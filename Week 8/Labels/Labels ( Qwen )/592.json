@@ -1,0 +1,23 @@
+{
+    "Image Path": "592.jpg",
+    "Original Labels": [
+        "door",
+        "floor",
+        "window",
+        "spiderman",
+        "wall",
+        "ceiling",
+        "van"
+    ],
+    "Correct Labels": [
+        "door",
+        "van",
+        "spiderman"
+    ],
+    "Incorrect Labels": [
+        "floor",
+        "window",
+        "wall",
+        "ceiling"
+    ]
+}

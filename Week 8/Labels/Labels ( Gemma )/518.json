@@ -1,0 +1,19 @@
+{
+    "Image Path": "518.jpg",
+    "Original Labels": [
+        "man",
+        "woman",
+        "woman",
+        "woman",
+        "room",
+        "floor"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "room",
+        "floor"
+    ]
+}

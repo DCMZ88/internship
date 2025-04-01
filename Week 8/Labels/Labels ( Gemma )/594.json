@@ -1,0 +1,15 @@
+{
+    "Image Path": "594.jpg",
+    "Original Labels": [
+        "man",
+        "video",
+        "eye"
+    ],
+    "Correct Labels": [
+        "man"
+    ],
+    "Incorrect Labels": [
+        "video",
+        "eye"
+    ]
+}

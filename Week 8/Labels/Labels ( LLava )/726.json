@@ -1,0 +1,29 @@
+{
+    "Image Path": "726.png",
+    "Original Labels": [
+        "man",
+        "car",
+        "phone",
+        "text",
+        "cross",
+        "word",
+        "image",
+        "red line",
+        "letter",
+        "number"
+    ],
+    "Correct Labels": [
+        "image",
+        "cross",
+        "man",
+        "car",
+        "text",
+        "red line"
+    ],
+    "Incorrect Labels": [
+        "phone",
+        "word",
+        "letter",
+        "number"
+    ]
+}

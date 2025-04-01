@@ -1,0 +1,29 @@
+{
+    "Image Path": "570.jpg",
+    "Original Labels": [
+        "knife",
+        "bamboo",
+        "ring",
+        "finger",
+        "wall",
+        "door",
+        "curtain",
+        "floor",
+        "person",
+        "logo"
+    ],
+    "Correct Labels": [
+        "bamboo",
+        "knife",
+        "curtain",
+        "logo",
+        "finger",
+        "ring",
+        "person"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "door",
+        "floor"
+    ]
+}

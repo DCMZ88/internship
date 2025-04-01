@@ -1,0 +1,29 @@
+{
+    "Image Path": "635.png",
+    "Original Labels": [
+        "person",
+        "logo",
+        "arrow",
+        "text box",
+        "image of a person",
+        "word \"cpb\"",
+        "arrow pointing to a person",
+        "arrow pointing to a text box",
+        "arrow pointing to a logo",
+        "arrow pointing to an image of a person"
+    ],
+    "Correct Labels": [
+        "word \"cpb\"",
+        "arrow",
+        "text box",
+        "arrow pointing to an image of a person",
+        "image of a person",
+        "logo"
+    ],
+    "Incorrect Labels": [
+        "person",
+        "arrow pointing to a person",
+        "arrow pointing to a text box",
+        "arrow pointing to a logo"
+    ]
+}

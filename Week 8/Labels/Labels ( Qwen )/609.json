@@ -1,0 +1,27 @@
+{
+    "Image Path": "609.jpg",
+    "Original Labels": [
+        "fireman",
+        "girl",
+        "fire hydrant",
+        "fire",
+        "ladder",
+        "fire alarm",
+        "fire hose",
+        "fire extinguisher",
+        "fire truck"
+    ],
+    "Correct Labels": [
+        "fire truck",
+        "fire",
+        "fireman",
+        "fire extinguisher",
+        "fire hydrant",
+        "girl",
+        "fire hose"
+    ],
+    "Incorrect Labels": [
+        "ladder",
+        "fire alarm"
+    ]
+}

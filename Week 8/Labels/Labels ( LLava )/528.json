@@ -1,0 +1,29 @@
+{
+    "Image Path": "528.jpg",
+    "Original Labels": [
+        "spider-man suit",
+        "train",
+        "street lamp",
+        "fire escape",
+        "building facade",
+        "man's face on the wall",
+        "water fountain",
+        "street sign",
+        "man's backpack",
+        "railing"
+    ],
+    "Correct Labels": [
+        "fire escape",
+        "spider-man suit",
+        "train",
+        "railing",
+        "man's face on the wall"
+    ],
+    "Incorrect Labels": [
+        "street lamp",
+        "building facade",
+        "water fountain",
+        "street sign",
+        "man's backpack"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Image Path": "714.png",
+    "Original Labels": [
+        "table",
+        "ceiling",
+        "lights",
+        "glasses",
+        "shirt",
+        "pants",
+        "coffee cup",
+        "counter"
+    ],
+    "Correct Labels": [
+        "ceiling",
+        "lights",
+        "glasses",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "table",
+        "pants",
+        "coffee cup",
+        "counter"
+    ]
+}

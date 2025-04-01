@@ -1,0 +1,21 @@
+{
+    "Image Path": "715.png",
+    "Original Labels": [
+        "stock market chart",
+        "tie",
+        "shirt",
+        "man",
+        "arrow",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "man",
+        "arrow",
+        "tie",
+        "stock market chart"
+    ],
+    "Incorrect Labels": [
+        "shirt"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "654.jpg",
+    "Original Labels": [
+        "door",
+        "spider-man suit",
+        "spider-man mask",
+        "spider-man web",
+        "spider-man gloves",
+        "spider-man boots",
+        "spider-man web shooter",
+        "spider-man eyes",
+        "spider-man hair",
+        "spider-man smile"
+    ],
+    "Correct Labels": [
+        "spider-man mask",
+        "door",
+        "spider-man gloves",
+        "spider-man suit",
+        "spider-man boots"
+    ],
+    "Incorrect Labels": [
+        "spider-man web",
+        "spider-man web shooter",
+        "spider-man eyes",
+        "spider-man hair",
+        "spider-man smile"
+    ]
+}

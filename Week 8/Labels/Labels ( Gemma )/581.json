@@ -1,0 +1,23 @@
+{
+    "Image Path": "581.jpg",
+    "Original Labels": [
+        "train",
+        "steam",
+        "coal",
+        "wheels",
+        "track",
+        "man",
+        "water"
+    ],
+    "Correct Labels": [
+        "train"
+    ],
+    "Incorrect Labels": [
+        "steam",
+        "coal",
+        "wheels",
+        "track",
+        "man",
+        "water"
+    ]
+}

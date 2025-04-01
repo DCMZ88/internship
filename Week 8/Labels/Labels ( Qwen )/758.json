@@ -1,0 +1,29 @@
+{
+    "Image Path": "758.jpg",
+    "Original Labels": [
+        "task failed successfully message",
+        "windows xp",
+        "command prompt window",
+        "camouflage uniform",
+        "ok button",
+        "monitor",
+        "text on screen",
+        "mouse",
+        "keyboard",
+        "computer screen"
+    ],
+    "Correct Labels": [
+        "monitor",
+        "task failed successfully message",
+        "computer screen"
+    ],
+    "Incorrect Labels": [
+        "windows xp",
+        "command prompt window",
+        "camouflage uniform",
+        "ok button",
+        "text on screen",
+        "mouse",
+        "keyboard"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Image Path": "642.jpg",
+    "Original Labels": [
+        "house",
+        "woman",
+        "post",
+        "social media account",
+        "ball",
+        "website",
+        "rule",
+        "dog"
+    ],
+    "Correct Labels": [
+        "social media account"
+    ],
+    "Incorrect Labels": [
+        "house",
+        "woman",
+        "post",
+        "ball",
+        "website",
+        "rule",
+        "dog"
+    ]
+}

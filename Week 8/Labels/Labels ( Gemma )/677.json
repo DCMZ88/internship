@@ -1,0 +1,12 @@
+{
+    "Image Path": "677.jpg",
+    "Original Labels": [
+        "pie chart",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "pie chart"
+    ],
+    "Incorrect Labels": []
+}

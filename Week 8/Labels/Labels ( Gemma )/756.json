@@ -1,0 +1,13 @@
+{
+    "Image Path": "756.jpg",
+    "Original Labels": [
+        "keyboard",
+        "button"
+    ],
+    "Correct Labels": [
+        "keyboard"
+    ],
+    "Incorrect Labels": [
+        "button"
+    ]
+}

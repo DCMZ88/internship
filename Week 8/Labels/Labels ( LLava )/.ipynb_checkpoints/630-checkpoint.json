@@ -1,0 +1,39 @@
+{
+    "Image Path": "630.jpg",
+    "Original Labels": [
+        "window",
+        "man",
+        "trees",
+        "sky",
+        "clouds",
+        "leaves",
+        "pine needles",
+        "frame",
+        "glass",
+        "window sill",
+        "wood",
+        "door",
+        "frame of door",
+        "glass of door",
+        "handle of door"
+    ],
+    "Correct Labels": [
+        "window",
+        "wood",
+        "man",
+        "window sill"
+    ],
+    "Incorrect Labels": [
+        "trees",
+        "sky",
+        "clouds",
+        "leaves",
+        "pine needles",
+        "frame",
+        "glass",
+        "door",
+        "frame of door",
+        "glass of door",
+        "handle of door"
+    ]
+}

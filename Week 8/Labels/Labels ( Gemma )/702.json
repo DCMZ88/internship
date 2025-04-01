@@ -1,0 +1,17 @@
+{
+    "Image Path": "702.png",
+    "Original Labels": [
+        "sheep",
+        "ram",
+        "skull",
+        "electricity symbol"
+    ],
+    "Correct Labels": [
+        "sheep",
+        "ram"
+    ],
+    "Incorrect Labels": [
+        "skull",
+        "electricity symbol"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "684.jpg",
+    "Original Labels": [
+        "woman",
+        "party",
+        "black",
+        "hat",
+        "man",
+        "third",
+        "green",
+        "blue",
+        "vote",
+        "white"
+    ],
+    "Correct Labels": [
+        "vote",
+        "hat",
+        "woman",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "party",
+        "black",
+        "third",
+        "green",
+        "blue",
+        "white"
+    ]
+}

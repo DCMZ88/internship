@@ -1,0 +1,19 @@
+{
+    "Image Path": "560.jpg",
+    "Original Labels": [
+        "flag",
+        "microphone",
+        "sign",
+        "man",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "flag",
+        "man",
+        "sign",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "microphone"
+    ]
+}

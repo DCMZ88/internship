@@ -1,0 +1,19 @@
+{
+    "Image Path": "666.jpg",
+    "Original Labels": [
+        "pink convertible",
+        "sunglasses",
+        "car",
+        "pink dress",
+        "pink sunglasses"
+    ],
+    "Correct Labels": [
+        "pink sunglasses",
+        "pink convertible",
+        "pink dress"
+    ],
+    "Incorrect Labels": [
+        "sunglasses",
+        "car"
+    ]
+}

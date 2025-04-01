@@ -1,0 +1,23 @@
+{
+    "Image Path": "582.png",
+    "Original Labels": [
+        "shirt",
+        "man",
+        "sign",
+        "train",
+        "camera",
+        "microphone",
+        "glasses"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "microphone",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "sign",
+        "train",
+        "camera"
+    ]
+}

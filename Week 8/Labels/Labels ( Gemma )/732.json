@@ -1,0 +1,18 @@
+{
+    "Image Path": "732.png",
+    "Original Labels": [
+        "man",
+        "thought bubble",
+        "shirt",
+        "glasses",
+        "hands"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "man",
+        "thought bubble",
+        "glasses",
+        "hands"
+    ],
+    "Incorrect Labels": []
+}

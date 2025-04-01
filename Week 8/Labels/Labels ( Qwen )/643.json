@@ -1,0 +1,25 @@
+{
+    "Image Path": "643.jpg",
+    "Original Labels": [
+        "social media",
+        "woman",
+        "post",
+        "angs",
+        "#swole",
+        "gym",
+        "bros",
+        "photos"
+    ],
+    "Correct Labels": [
+        "photos",
+        "#swole",
+        "social media"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "post",
+        "angs",
+        "gym",
+        "bros"
+    ]
+}

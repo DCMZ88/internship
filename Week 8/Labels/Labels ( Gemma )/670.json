@@ -1,0 +1,26 @@
+{
+    "Image Path": "670.jpg",
+    "Original Labels": [
+        "shoes",
+        "track",
+        "man",
+        "building",
+        "microphone",
+        "flowers",
+        "man",
+        "school logo",
+        "text"
+    ],
+    "Correct Labels": [
+        "building",
+        "shoes",
+        "man",
+        "microphone",
+        "school logo",
+        "flowers",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "track"
+    ]
+}

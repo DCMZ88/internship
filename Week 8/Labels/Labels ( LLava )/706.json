@@ -1,0 +1,29 @@
+{
+    "Image Path": "706.png",
+    "Original Labels": [
+        "microphone",
+        "tie",
+        "suit",
+        "flag pin",
+        "american flag",
+        "laptop",
+        "screen",
+        "stage",
+        "lights",
+        "audience"
+    ],
+    "Correct Labels": [
+        "screen",
+        "microphone",
+        "suit",
+        "flag pin",
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "american flag",
+        "laptop",
+        "stage",
+        "lights",
+        "audience"
+    ]
+}

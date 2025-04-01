@@ -1,0 +1,15 @@
+{
+    "Image Path": "613.png",
+    "Original Labels": [
+        "text",
+        "circle",
+        "arrow"
+    ],
+    "Correct Labels": [
+        "text",
+        "circle"
+    ],
+    "Incorrect Labels": [
+        "arrow"
+    ]
+}

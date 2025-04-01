@@ -1,0 +1,29 @@
+{
+    "Image Path": "690.png",
+    "Original Labels": [
+        "flag",
+        "glasses",
+        "tie",
+        "suit",
+        "microphone",
+        "crowd",
+        "camera",
+        "hair",
+        "ear",
+        "screen"
+    ],
+    "Correct Labels": [
+        "ear",
+        "suit",
+        "tie",
+        "flag",
+        "glasses",
+        "crowd"
+    ],
+    "Incorrect Labels": [
+        "microphone",
+        "camera",
+        "hair",
+        "screen"
+    ]
+}

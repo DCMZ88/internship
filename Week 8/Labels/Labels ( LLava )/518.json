@@ -1,0 +1,29 @@
+{
+    "Image Path": "518.jpg",
+    "Original Labels": [
+        "headband",
+        "crown",
+        "scarf",
+        "collar",
+        "cape",
+        "glove",
+        "ring",
+        "necklace",
+        "earring",
+        "bracelet"
+    ],
+    "Correct Labels": [
+        "headband",
+        "scarf"
+    ],
+    "Incorrect Labels": [
+        "crown",
+        "collar",
+        "cape",
+        "glove",
+        "ring",
+        "necklace",
+        "earring",
+        "bracelet"
+    ]
+}
