@@ -13,3 +13,4 @@
 - [Gemma-3-4B-it](https://huggingface.co/google/gemma-3-4b-it)
 - [Microsoft's-Florence-2-Base](https://huggingface.co/microsoft/Florence-2-base)
 - [Google's Gemma-3-4B-it](https://huggingface.co/google/gemma-3-4b-it)
+- [Llava's llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
