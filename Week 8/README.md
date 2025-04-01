@@ -69,7 +69,8 @@ Qwen2.5-VL-3B-Instruct : 39.0%
 - Ball
 ```
 - Other models would also struggle to comprehend the task prompted to them, resulting in alot of hallucinations or invalid answers . But when prompted a single task to detect the image,\
-it is able to generate a detailed caption of the image quite accurately. 
+it is able to generate a detailed caption of the image quite accurately.
+- For the Qwen model, I had to resize the images to a smaller scale as some of the images were too large which caused a memory error.
 ### Limitations 
 - Assume that Owlv2 is the "Ground Truth"
 - Some of the objects labelled by the VLMs may be too specific though correct which Owlv2 may not detect.
