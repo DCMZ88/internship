@@ -41,7 +41,7 @@ In order to achieve this, we will just iterate the dataset of images over each V
 
 **Results**
 
-256 Images were used for this results. (Images1)
+256 Images were used to attain these results. (Images1)
 
 Prompt used 
 ```
@@ -57,7 +57,7 @@ Google's Gemma-3-4b-it : 56.1%
 
 Llava's-hf one-vision : 50.5%
 
-
+Qwen2.5-VL-3B-Instruct : 39.0%
 
 ### Challenges 
 - I had initially tried to run both models simultaneously but the kernel crashed while processing the image through the Owlv2 thus I had to run both models separately, creating the need to save the labels from the VLM in a `json` file.
