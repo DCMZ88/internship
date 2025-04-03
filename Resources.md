@@ -16,8 +16,8 @@
 - [Google's Gemma-3-4B-it](https://huggingface.co/google/gemma-3-4b-it)
 - [Llava's llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 ### Object Detection Models 
-#### Open-Vocab Object Detection
+#### - Open-Vocab Object Detection
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/tree/main)
 - [Google's Owlv2](https://huggingface.co/google/owlv2-base-patch16-ensemble)
-#### Object Detection
+#### - Object Detection
 - [Hustvl-Yolos-Tiny](https://huggingface.co/hustvl/yolos-tiny)
