@@ -13,8 +13,8 @@
 
 #### Information
 VLM : Google's Gemma3-4b-it\
-Object Detector : GroundingDINO\
-Threshold value ( Object Detector ) : 0.4
+Object Detectors : GroundingDINO, Owlvl\
+Threshold value ( GroundingDINo ) : 0.4
 
 
  > I included each images' precision value in a `json` file.
@@ -27,8 +27,7 @@ Threshold value ( Object Detector ) : 0.4
 > Dataset consisted of 265 images
 
 Google's Gemma-3-4b-it:
-  - Precision ( Overall ) : 77.5%
-  - Recall ( Overall )
+  - Precision ( GroundingDINO ) : 77.5%
 
 # Research & Literature
 
