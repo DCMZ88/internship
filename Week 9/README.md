@@ -13,8 +13,8 @@
 
 #### Information
 VLM : Google's Gemma3-4b-it\
-Object Detectors : GroundingDINO, Owlvl\
-Threshold value ( GroundingDINo ) : 0.4
+Object Detectors : GroundingDINO, Owlv2\
+Threshold value ( GroundingDINO ) : 0.4
 
 
  > I included each images' precision value in a `json` file.
@@ -28,7 +28,7 @@ Threshold value ( GroundingDINo ) : 0.4
 
 Google's Gemma-3-4b-it:
   - Precision ( GroundingDINO ) : 77.5%
-  - Precision ( Owlvl ) : 55.8% 
+  - Precision ( Owlv2 ) : 55.8% 
 
 # Research & Literature
 
