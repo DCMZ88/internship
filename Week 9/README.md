@@ -28,6 +28,7 @@ Threshold value ( GroundingDINo ) : 0.4
 
 Google's Gemma-3-4b-it:
   - Precision ( GroundingDINO ) : 77.5%
+  - Precision ( Owlvl ) : 55.8% 
 
 # Research & Literature
 
