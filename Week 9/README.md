@@ -14,7 +14,7 @@
 #### Information
 VLM : Google's Gemma3-4b-it\
 Object Detector : GroundingDINO\
-Threshold value ( Object Detector ) : 0.4\
+Threshold value ( Object Detector ) : 0.4
 
 
  > I included each images' precision value in a `json` file.
