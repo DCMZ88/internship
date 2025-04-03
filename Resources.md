@@ -3,6 +3,7 @@
 - [Introduction to Machine Learning by Duke University](https://www.coursera.org/learn/machine-learning-duke) ( Coursera )
 - [Deep Learning by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1&pp=iAQB) ( Youtube )
 - [Attention is All You Need (2017)](https://arxiv.org/abs/1706.03762)
+- [Precision and Recall](#https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
 ## Models used for Question Generation
 - [Saved Visual Language Models](https://github.com/DCMZ88/internship/tree/main/Week%206/Models)
 ### Visual Language Models 
@@ -14,3 +15,9 @@
 - [Microsoft's-Florence-2-Base](https://huggingface.co/microsoft/Florence-2-base)
 - [Google's Gemma-3-4B-it](https://huggingface.co/google/gemma-3-4b-it)
 - [Llava's llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+### Object Detection Models 
+#### Open-Vocab Object Detection
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/tree/main)
+- [Google's Owlv2](https://huggingface.co/google/owlv2-base-patch16-ensemble)
+#### Object Detection
+- [Hustvl-Yolos-Tiny](https://huggingface.co/hustvl/yolos-tiny)
