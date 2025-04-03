@@ -24,7 +24,7 @@ Threshold value ( Object Detector ) : 0.4
 
 ### Results 
 
-Dataset consisted of 265 images
+> Dataset consisted of 265 images
 
 Google's Gemma-3-4b-it:
   - Precision ( Overall ) : 77.5%
