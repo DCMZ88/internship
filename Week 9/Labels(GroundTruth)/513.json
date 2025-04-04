@@ -1,0 +1,22 @@
+{
+    "Image Path": "513.jpg",
+    "Original Labels": [
+        "bus stop",
+        "bench",
+        "pipe",
+        "fish",
+        "man",
+        "street"
+    ],
+    "Correct Labels": [
+        "bus stop",
+        "bench",
+        "pipe",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "fish",
+        "street"
+    ],
+    "Precision": 0.6666666666666666
+}

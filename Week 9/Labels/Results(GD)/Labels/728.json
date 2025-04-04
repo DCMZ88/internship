@@ -1,0 +1,15 @@
+{
+    "Image Path": "728.png",
+    "Original Labels": [
+        "drake",
+        "housing",
+        "transport"
+    ],
+    "Correct Labels": [
+        "drake",
+        "housing",
+        "transport"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

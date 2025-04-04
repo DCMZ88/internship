@@ -1,0 +1,22 @@
+{
+    "Image Path": "673.png",
+    "Original Labels": [
+        "desk",
+        "computer",
+        "woman",
+        "man",
+        "papers",
+        "chair"
+    ],
+    "Correct Labels": [
+        "computer",
+        "woman",
+        "man",
+        "papers",
+        "chair"
+    ],
+    "Incorrect Labels": [
+        "desk"
+    ],
+    "Precision": 0.833
+}

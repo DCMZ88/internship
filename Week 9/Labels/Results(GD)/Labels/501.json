@@ -1,0 +1,19 @@
+{
+    "Image Path": "501.jpg",
+    "Original Labels": [
+        "ground",
+        "bucket",
+        "shovel",
+        "stick",
+        "cloud"
+    ],
+    "Correct Labels": [
+        "ground",
+        "bucket",
+        "shovel",
+        "stick",
+        "cloud"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

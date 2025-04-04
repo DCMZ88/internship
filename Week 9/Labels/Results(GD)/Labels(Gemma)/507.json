@@ -1,0 +1,20 @@
+{
+    "Image Path": "507.jpg",
+    "Original Labels": [
+        "green headband",
+        "water",
+        "background",
+        "bottle",
+        "brick"
+    ],
+    "Correct Labels": [
+        "green headband",
+        "background",
+        "bottle",
+        "brick"
+    ],
+    "Incorrect Labels": [
+        "water"
+    ],
+    "Precision": 0.8
+}

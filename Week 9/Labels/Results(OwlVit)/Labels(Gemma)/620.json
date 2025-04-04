@@ -1,0 +1,20 @@
+{
+    "Image Path": "620.png",
+    "Original Labels": [
+        "people",
+        "hands",
+        "red dress",
+        "microphone",
+        "woman"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "woman",
+        "red dress"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "hands"
+    ],
+    "Precision": 0.6
+}

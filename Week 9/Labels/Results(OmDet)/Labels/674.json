@@ -1,0 +1,34 @@
+{
+    "Image Path": "674.jpg",
+    "Original Labels": [
+        "beach",
+        "photo",
+        "man",
+        "building",
+        "sand",
+        "text",
+        "sign",
+        "turtle",
+        "water",
+        "woman",
+        "camera",
+        "logo"
+    ],
+    "Correct Labels": [
+        "woman",
+        "camera",
+        "beach",
+        "text",
+        "man",
+        "sand",
+        "sign",
+        "building"
+    ],
+    "Incorrect Labels": [
+        "photo",
+        "turtle",
+        "water",
+        "logo"
+    ],
+    "Precision": 0.667
+}

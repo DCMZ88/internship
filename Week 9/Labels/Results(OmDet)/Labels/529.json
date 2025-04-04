@@ -1,0 +1,22 @@
+{
+    "Image Path": "529.jpg",
+    "Original Labels": [
+        "sky",
+        "helmet",
+        "gun",
+        "keyboard",
+        "uniform",
+        "tree"
+    ],
+    "Correct Labels": [
+        "keyboard",
+        "helmet",
+        "uniform",
+        "gun"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "tree"
+    ],
+    "Precision": 0.667
+}

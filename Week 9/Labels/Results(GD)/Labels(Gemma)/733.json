@@ -1,0 +1,16 @@
+{
+    "Image Path": "733.jpg",
+    "Original Labels": [
+        "tape",
+        "bottle",
+        "hand"
+    ],
+    "Correct Labels": [
+        "hand"
+    ],
+    "Incorrect Labels": [
+        "tape",
+        "bottle"
+    ],
+    "Precision": 0.333
+}

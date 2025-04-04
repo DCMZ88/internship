@@ -1,0 +1,21 @@
+{
+    "Image Path": "638.jpg",
+    "Original Labels": [
+        "jewelry",
+        "microphone",
+        "screen",
+        "chair",
+        "seat",
+        "podium"
+    ],
+    "Correct Labels": [
+        "jewelry",
+        "microphone",
+        "screen",
+        "chair",
+        "seat",
+        "podium"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

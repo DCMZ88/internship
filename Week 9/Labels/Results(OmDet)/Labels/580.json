@@ -1,0 +1,17 @@
+{
+    "Image Path": "580.jpg",
+    "Original Labels": [
+        "rock",
+        "bush",
+        "spongebob",
+        "tree"
+    ],
+    "Correct Labels": [
+        "bush",
+        "spongebob",
+        "tree",
+        "rock"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

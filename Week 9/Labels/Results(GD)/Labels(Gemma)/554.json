@@ -1,0 +1,22 @@
+{
+    "Image Path": "554.jpg",
+    "Original Labels": [
+        "picture",
+        "man",
+        "music notes",
+        "text",
+        "wall",
+        "stadium"
+    ],
+    "Correct Labels": [
+        "man",
+        "music notes",
+        "wall",
+        "stadium"
+    ],
+    "Incorrect Labels": [
+        "picture",
+        "text"
+    ],
+    "Precision": 0.667
+}

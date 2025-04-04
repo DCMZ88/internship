@@ -1,0 +1,18 @@
+{
+    "Image Path": "658.jpg",
+    "Original Labels": [
+        "jacket",
+        "text",
+        "shoes",
+        "drake"
+    ],
+    "Correct Labels": [
+        "drake",
+        "jacket",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "shoes"
+    ],
+    "Precision": 0.75
+}

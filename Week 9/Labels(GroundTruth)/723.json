@@ -1,0 +1,20 @@
+{
+    "Image Path": "723.png",
+    "Original Labels": [
+        "lawyer",
+        "courtroom",
+        "desk",
+        "chair",
+        "suit"
+    ],
+    "Correct Labels": [
+        "lawyer",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "courtroom",
+        "desk",
+        "chair"
+    ],
+    "Precision": 0.4
+}

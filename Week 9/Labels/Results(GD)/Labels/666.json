@@ -1,0 +1,21 @@
+{
+    "Image Path": "666.jpg",
+    "Original Labels": [
+        "sunglasses",
+        "car",
+        "beach",
+        "pink",
+        "text",
+        "logo"
+    ],
+    "Correct Labels": [
+        "sunglasses",
+        "car",
+        "beach",
+        "pink",
+        "text",
+        "logo"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

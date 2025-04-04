@@ -1,0 +1,21 @@
+{
+    "Image Path": "749.jpg",
+    "Original Labels": [
+        "logo",
+        "woman",
+        "man",
+        "text",
+        "table",
+        "podium"
+    ],
+    "Correct Labels": [
+        "logo",
+        "woman",
+        "man",
+        "text",
+        "table",
+        "podium"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

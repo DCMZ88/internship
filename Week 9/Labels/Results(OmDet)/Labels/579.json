@@ -1,0 +1,17 @@
+{
+    "Image Path": "579.jpg",
+    "Original Labels": [
+        "tree",
+        "sky",
+        "woman",
+        "man"
+    ],
+    "Correct Labels": [
+        "man",
+        "sky",
+        "woman",
+        "tree"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

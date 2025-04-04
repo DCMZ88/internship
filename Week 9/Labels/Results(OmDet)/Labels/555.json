@@ -1,0 +1,28 @@
+{
+    "Image Path": "555.png",
+    "Original Labels": [
+        "waterfalls",
+        "city",
+        "trees",
+        "skyscrapers",
+        "buildings",
+        "bridge",
+        "landscape",
+        "river",
+        "mountains"
+    ],
+    "Correct Labels": [
+        "city",
+        "skyscrapers",
+        "landscape"
+    ],
+    "Incorrect Labels": [
+        "waterfalls",
+        "trees",
+        "buildings",
+        "bridge",
+        "river",
+        "mountains"
+    ],
+    "Precision": 0.333
+}

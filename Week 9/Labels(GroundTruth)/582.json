@@ -1,0 +1,24 @@
+{
+    "Image Path": "582.png",
+    "Original Labels": [
+        "train",
+        "glasses",
+        "camera",
+        "building",
+        "window",
+        "chair",
+        "table"
+    ],
+    "Correct Labels": [
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "train",
+        "camera",
+        "building",
+        "window",
+        "chair",
+        "table"
+    ],
+    "Precision": 0.14285714285714285
+}

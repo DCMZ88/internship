@@ -1,0 +1,18 @@
+{
+    "Image Path": "602.jpg",
+    "Original Labels": [
+        "mirror",
+        "frame",
+        "woman",
+        "man"
+    ],
+    "Correct Labels": [
+        "mirror",
+        "woman",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "frame"
+    ],
+    "Precision": 0.75
+}

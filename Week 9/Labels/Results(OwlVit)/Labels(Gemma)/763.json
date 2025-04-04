@@ -1,0 +1,24 @@
+{
+    "Image Path": "763.jpg",
+    "Original Labels": [
+        "briefcase",
+        "sign",
+        "door",
+        "desk",
+        "office",
+        "chair",
+        "computer"
+    ],
+    "Correct Labels": [
+        "computer",
+        "chair",
+        "desk",
+        "office"
+    ],
+    "Incorrect Labels": [
+        "briefcase",
+        "sign",
+        "door"
+    ],
+    "Precision": 0.5714285714285714
+}

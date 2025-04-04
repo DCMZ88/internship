@@ -1,0 +1,18 @@
+{
+    "Image Path": "746.jpg",
+    "Original Labels": [
+        "ruins",
+        "stone",
+        "woman",
+        "man"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman",
+        "stone"
+    ],
+    "Incorrect Labels": [
+        "ruins"
+    ],
+    "Precision": 0.75
+}

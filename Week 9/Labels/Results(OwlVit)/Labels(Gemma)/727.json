@@ -1,0 +1,20 @@
+{
+    "Image Path": "727.png",
+    "Original Labels": [
+        "suit",
+        "man",
+        "shirt",
+        "building",
+        "woman"
+    ],
+    "Correct Labels": [
+        "man",
+        "shirt",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "building",
+        "woman"
+    ],
+    "Precision": 0.6
+}

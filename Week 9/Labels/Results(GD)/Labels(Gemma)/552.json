@@ -1,0 +1,32 @@
+{
+    "Image Path": "552.jpg",
+    "Original Labels": [
+        "shirt",
+        "pants",
+        "microphone",
+        "man",
+        "flag",
+        "jacket",
+        "tie",
+        "chair",
+        "table",
+        "camera",
+        "podium"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "pants",
+        "microphone",
+        "man",
+        "jacket",
+        "tie",
+        "chair"
+    ],
+    "Incorrect Labels": [
+        "flag",
+        "table",
+        "camera",
+        "podium"
+    ],
+    "Precision": 0.636
+}

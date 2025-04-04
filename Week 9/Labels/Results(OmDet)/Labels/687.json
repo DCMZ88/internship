@@ -1,0 +1,20 @@
+{
+    "Image Path": "687.jpg",
+    "Original Labels": [
+        "phone",
+        "man",
+        "text",
+        "post",
+        "newspaper"
+    ],
+    "Correct Labels": [
+        "man",
+        "newspaper"
+    ],
+    "Incorrect Labels": [
+        "phone",
+        "text",
+        "post"
+    ],
+    "Precision": 0.4
+}

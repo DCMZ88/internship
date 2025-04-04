@@ -1,0 +1,15 @@
+{
+    "Image Path": "521.png",
+    "Original Labels": [
+        "ostrich",
+        "feather",
+        "sign"
+    ],
+    "Correct Labels": [
+        "ostrich",
+        "feather",
+        "sign"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

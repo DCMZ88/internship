@@ -1,0 +1,24 @@
+{
+    "Image Path": "565.jpg",
+    "Original Labels": [
+        "elevator",
+        "man",
+        "hallway",
+        "jacket",
+        "suit",
+        "door",
+        "tiles"
+    ],
+    "Correct Labels": [
+        "man",
+        "suit",
+        "hallway",
+        "door",
+        "elevator",
+        "jacket"
+    ],
+    "Incorrect Labels": [
+        "tiles"
+    ],
+    "Precision": 0.857
+}

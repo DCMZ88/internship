@@ -1,0 +1,16 @@
+{
+    "Image Path": "654.jpg",
+    "Original Labels": [
+        "spider-man",
+        "boxes",
+        "background"
+    ],
+    "Correct Labels": [
+        "spider-man"
+    ],
+    "Incorrect Labels": [
+        "boxes",
+        "background"
+    ],
+    "Precision": 0.25
+}

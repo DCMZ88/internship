@@ -1,0 +1,22 @@
+{
+    "Image Path": "707.png",
+    "Original Labels": [
+        "man",
+        "cafe",
+        "building",
+        "chart",
+        "numbers",
+        "text"
+    ],
+    "Correct Labels": [
+        "man",
+        "chart",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "cafe",
+        "building",
+        "numbers"
+    ],
+    "Precision": 0.5
+}

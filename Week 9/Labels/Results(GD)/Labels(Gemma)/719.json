@@ -1,0 +1,15 @@
+{
+    "Image Path": "719.png",
+    "Original Labels": [
+        "tree",
+        "light saber",
+        "man"
+    ],
+    "Correct Labels": [
+        "tree",
+        "light saber",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

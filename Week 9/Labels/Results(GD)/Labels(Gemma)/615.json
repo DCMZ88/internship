@@ -1,0 +1,30 @@
+{
+    "Image Path": "615.jpg",
+    "Original Labels": [
+        "turtle",
+        "beach",
+        "microphone",
+        "woman",
+        "sand",
+        "man",
+        "singapore",
+        "table",
+        "box",
+        "podium"
+    ],
+    "Correct Labels": [
+        "turtle",
+        "beach",
+        "woman",
+        "sand",
+        "man",
+        "podium"
+    ],
+    "Incorrect Labels": [
+        "microphone",
+        "singapore",
+        "table",
+        "box"
+    ],
+    "Precision": 0.6
+}

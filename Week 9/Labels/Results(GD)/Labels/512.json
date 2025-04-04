@@ -1,0 +1,15 @@
+{
+    "Image Path": "512.jpg",
+    "Original Labels": [
+        "computer screen",
+        "text",
+        "man"
+    ],
+    "Correct Labels": [
+        "computer screen",
+        "text",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

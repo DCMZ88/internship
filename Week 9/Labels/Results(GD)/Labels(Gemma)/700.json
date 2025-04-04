@@ -1,0 +1,20 @@
+{
+    "Image Path": "700.jpg",
+    "Original Labels": [
+        "building",
+        "man",
+        "office",
+        "camera",
+        "suit"
+    ],
+    "Correct Labels": [
+        "building",
+        "man",
+        "office",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "camera"
+    ],
+    "Precision": 0.8
+}

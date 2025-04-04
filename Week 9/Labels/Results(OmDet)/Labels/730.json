@@ -1,0 +1,26 @@
+{
+    "Image Path": "730.png",
+    "Original Labels": [
+        "cross",
+        "light bulb",
+        "man",
+        "store",
+        "coffee machine",
+        "book",
+        "dragon",
+        "woman"
+    ],
+    "Correct Labels": [
+        "man",
+        "book",
+        "dragon",
+        "woman",
+        "store",
+        "coffee machine",
+        "light bulb"
+    ],
+    "Incorrect Labels": [
+        "cross"
+    ],
+    "Precision": 0.875
+}

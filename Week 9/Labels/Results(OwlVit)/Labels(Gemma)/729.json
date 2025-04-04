@@ -1,0 +1,34 @@
+{
+    "Image Path": "729.jpg",
+    "Original Labels": [
+        "text box",
+        "card",
+        "briefcase",
+        "police car",
+        "suit",
+        "table",
+        "tie",
+        "window",
+        "man",
+        "building",
+        "woman",
+        "gun"
+    ],
+    "Correct Labels": [
+        "man",
+        "suit",
+        "card",
+        "tie",
+        "gun"
+    ],
+    "Incorrect Labels": [
+        "text box",
+        "briefcase",
+        "police car",
+        "table",
+        "window",
+        "building",
+        "woman"
+    ],
+    "Precision": 0.4166666666666667
+}

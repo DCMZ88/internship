@@ -1,0 +1,22 @@
+{
+    "Image Path": "515.jpg",
+    "Original Labels": [
+        "shower ",
+        "bathtub ",
+        "faucet",
+        "sink ",
+        "towel ",
+        "sponge "
+    ],
+    "Correct Labels": [
+        "faucet"
+    ],
+    "Incorrect Labels": [
+        "shower ",
+        "bathtub ",
+        "sink ",
+        "towel ",
+        "sponge "
+    ],
+    "Precision": 0.167
+}

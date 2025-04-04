@@ -1,0 +1,28 @@
+{
+    "Image Path": "551.jpg",
+    "Original Labels": [
+        "building",
+        "logo",
+        "microphone",
+        "woman",
+        "man",
+        "shield",
+        "car",
+        "politicians",
+        "superhero"
+    ],
+    "Correct Labels": [
+        "logo",
+        "microphone",
+        "woman",
+        "man",
+        "politicians",
+        "superhero"
+    ],
+    "Incorrect Labels": [
+        "building",
+        "shield",
+        "car"
+    ],
+    "Precision": 0.667
+}

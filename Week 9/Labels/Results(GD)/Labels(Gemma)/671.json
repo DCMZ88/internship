@@ -1,0 +1,17 @@
+{
+    "Image Path": "671.png",
+    "Original Labels": [
+        "window",
+        "glasses",
+        "poster",
+        "parliament"
+    ],
+    "Correct Labels": [
+        "window",
+        "glasses",
+        "poster",
+        "parliament"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

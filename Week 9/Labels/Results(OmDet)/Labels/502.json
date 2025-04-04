@@ -1,0 +1,24 @@
+{
+    "Image Path": "502.png",
+    "Original Labels": [
+        "tie",
+        "building",
+        "man",
+        "suit",
+        "microphone",
+        "greenery",
+        "camera"
+    ],
+    "Correct Labels": [
+        "tie",
+        "microphone",
+        "man",
+        "greenery",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "building",
+        "camera"
+    ],
+    "Precision": 0.714
+}

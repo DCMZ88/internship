@@ -1,0 +1,17 @@
+{
+    "Image Path": "745.jpg",
+    "Original Labels": [
+        "text",
+        "drawing",
+        "chicken",
+        "cloud"
+    ],
+    "Correct Labels": [
+        "text",
+        "drawing",
+        "chicken",
+        "cloud"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

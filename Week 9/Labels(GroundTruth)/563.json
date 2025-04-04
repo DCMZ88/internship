@@ -1,0 +1,16 @@
+{
+    "Image Path": "563.jpg",
+    "Original Labels": [
+        "pirate ",
+        "water",
+        "soldiers"
+    ],
+    "Correct Labels": [
+        "soldiers"
+    ],
+    "Incorrect Labels": [
+        "pirate ",
+        "water"
+    ],
+    "Precision": 0.3333333333333333
+}

@@ -1,0 +1,22 @@
+{
+    "Image Path": "528.jpg",
+    "Original Labels": [
+        "table",
+        "men",
+        "building",
+        "spider-man",
+        "chairs",
+        "man"
+    ],
+    "Correct Labels": [
+        "table",
+        "men",
+        "building",
+        "chairs",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "spider-man"
+    ],
+    "Precision": 0.833
+}

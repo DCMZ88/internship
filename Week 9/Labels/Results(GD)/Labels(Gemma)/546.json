@@ -1,0 +1,22 @@
+{
+    "Image Path": "546.jpg",
+    "Original Labels": [
+        "food tray",
+        "staff",
+        "napkin",
+        "rice",
+        "chicken",
+        "airplane"
+    ],
+    "Correct Labels": [
+        "food tray",
+        "staff",
+        "rice"
+    ],
+    "Incorrect Labels": [
+        "napkin",
+        "chicken",
+        "airplane"
+    ],
+    "Precision": 0.5
+}

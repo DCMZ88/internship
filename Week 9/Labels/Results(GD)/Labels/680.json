@@ -1,0 +1,21 @@
+{
+    "Image Path": "680.jpg",
+    "Original Labels": [
+        "people",
+        "table",
+        "video",
+        "image",
+        "driver",
+        "text"
+    ],
+    "Correct Labels": [
+        "people",
+        "table",
+        "video",
+        "image",
+        "driver",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

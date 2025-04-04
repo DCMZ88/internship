@@ -1,0 +1,15 @@
+{
+    "Image Path": "535.jpg",
+    "Original Labels": [
+        "room",
+        "man",
+        "text"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "room",
+        "man",
+        "text"
+    ],
+    "Precision": 0.0
+}

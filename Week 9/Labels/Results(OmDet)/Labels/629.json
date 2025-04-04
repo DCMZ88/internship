@@ -1,0 +1,17 @@
+{
+    "Image Path": "629.jpg",
+    "Original Labels": [
+        "chairs",
+        "table",
+        "glasses",
+        "men"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "men",
+        "chairs",
+        "table"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

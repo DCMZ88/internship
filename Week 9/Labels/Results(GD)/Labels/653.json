@@ -1,0 +1,19 @@
+{
+    "Image Path": "653.jpg",
+    "Original Labels": [
+        "car",
+        "window",
+        "grass",
+        "beer",
+        "man"
+    ],
+    "Correct Labels": [
+        "car",
+        "window",
+        "grass",
+        "beer",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

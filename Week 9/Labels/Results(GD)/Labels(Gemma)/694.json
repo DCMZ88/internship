@@ -1,0 +1,17 @@
+{
+    "Image Path": "694.jpg",
+    "Original Labels": [
+        "text",
+        "hand",
+        "beaker",
+        "liquid"
+    ],
+    "Correct Labels": [
+        "text",
+        "hand",
+        "beaker",
+        "liquid"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

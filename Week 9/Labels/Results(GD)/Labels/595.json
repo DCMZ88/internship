@@ -1,0 +1,17 @@
+{
+    "Image Path": "595.png",
+    "Original Labels": [
+        "eyes",
+        "hands",
+        "face",
+        "man"
+    ],
+    "Correct Labels": [
+        "eyes",
+        "hands",
+        "face",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

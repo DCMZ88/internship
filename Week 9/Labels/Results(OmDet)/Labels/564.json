@@ -1,0 +1,19 @@
+{
+    "Image Path": "564.jpg",
+    "Original Labels": [
+        "building",
+        "man",
+        "gun",
+        "people",
+        "wall"
+    ],
+    "Correct Labels": [
+        "man",
+        "gun",
+        "wall",
+        "building",
+        "people"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

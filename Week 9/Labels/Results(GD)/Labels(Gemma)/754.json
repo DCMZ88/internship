@@ -1,0 +1,22 @@
+{
+    "Image Path": "754.jpg",
+    "Original Labels": [
+        "man",
+        "screen",
+        "text",
+        "table",
+        "camera",
+        "box"
+    ],
+    "Correct Labels": [
+        "man",
+        "screen",
+        "text",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "camera",
+        "box"
+    ],
+    "Precision": 0.667
+}

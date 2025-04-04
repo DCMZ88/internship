@@ -1,0 +1,30 @@
+{
+    "Image Path": "597.png",
+    "Original Labels": [
+        "photograph",
+        "microphone",
+        "woman",
+        "man",
+        "door",
+        "chair",
+        "table",
+        "red packet",
+        "face mask",
+        "podium"
+    ],
+    "Correct Labels": [
+        "photograph",
+        "microphone",
+        "woman",
+        "man",
+        "door",
+        "table",
+        "red packet",
+        "face mask",
+        "podium"
+    ],
+    "Incorrect Labels": [
+        "chair"
+    ],
+    "Precision": 0.9
+}

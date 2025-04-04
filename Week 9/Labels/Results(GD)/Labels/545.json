@@ -1,0 +1,20 @@
+{
+    "Image Path": "545.jpg",
+    "Original Labels": [
+        "tuxedo",
+        "lights",
+        "text",
+        "stage",
+        "man"
+    ],
+    "Correct Labels": [
+        "tuxedo",
+        "text",
+        "stage",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "lights"
+    ],
+    "Precision": 0.8
+}

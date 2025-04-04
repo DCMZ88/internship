@@ -1,0 +1,20 @@
+{
+    "Image Path": "645.jpg",
+    "Original Labels": [
+        "building",
+        "grass",
+        "flag",
+        "man",
+        "sky"
+    ],
+    "Correct Labels": [
+        "building",
+        "grass",
+        "man",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "flag"
+    ],
+    "Precision": 0.8
+}

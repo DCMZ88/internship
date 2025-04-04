@@ -1,0 +1,20 @@
+{
+    "Image Path": "619.jpg",
+    "Original Labels": [
+        "table",
+        "parliament",
+        "clock",
+        "chair",
+        "man"
+    ],
+    "Correct Labels": [
+        "table",
+        "parliament",
+        "chair",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "clock"
+    ],
+    "Precision": 0.8
+}

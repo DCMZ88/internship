@@ -1,0 +1,25 @@
+{
+    "Image Path": "699.png",
+    "Original Labels": [
+        "tie",
+        "obama",
+        "suit",
+        "medal",
+        "gun",
+        "hand",
+        "room",
+        "wall"
+    ],
+    "Correct Labels": [
+        "room",
+        "gun",
+        "tie",
+        "hand",
+        "wall",
+        "suit",
+        "obama",
+        "medal"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

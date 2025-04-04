@@ -1,0 +1,19 @@
+{
+    "Image Path": "634.png",
+    "Original Labels": [
+        "photograph",
+        "man",
+        "text",
+        "logo",
+        "newspaper"
+    ],
+    "Correct Labels": [
+        "photograph",
+        "man",
+        "text",
+        "logo",
+        "newspaper"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "Image Path": "702.png",
+    "Original Labels": [
+        "electricity symbol",
+        "skull",
+        "sheep",
+        "ram"
+    ],
+    "Correct Labels": [
+        "electricity symbol",
+        "sheep",
+        "ram"
+    ],
+    "Incorrect Labels": [
+        "skull"
+    ],
+    "Precision": 0.75
+}

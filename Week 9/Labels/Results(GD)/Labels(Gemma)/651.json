@@ -1,0 +1,26 @@
+{
+    "Image Path": "651.jpg",
+    "Original Labels": [
+        "woman",
+        "fence",
+        "person",
+        "crowd",
+        "flag",
+        "chair",
+        "table",
+        "stadium"
+    ],
+    "Correct Labels": [
+        "woman",
+        "fence",
+        "person",
+        "crowd",
+        "flag",
+        "table",
+        "stadium"
+    ],
+    "Incorrect Labels": [
+        "chair"
+    ],
+    "Precision": 0.875
+}

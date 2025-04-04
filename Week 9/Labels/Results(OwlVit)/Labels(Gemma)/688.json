@@ -1,0 +1,26 @@
+{
+    "Image Path": "688.jpg",
+    "Original Labels": [
+        "cushions",
+        "man",
+        "microphone",
+        "tree",
+        "sofa",
+        "building",
+        "blanket",
+        "children"
+    ],
+    "Correct Labels": [
+        "man",
+        "microphone",
+        "children"
+    ],
+    "Incorrect Labels": [
+        "cushions",
+        "tree",
+        "sofa",
+        "building",
+        "blanket"
+    ],
+    "Precision": 0.375
+}

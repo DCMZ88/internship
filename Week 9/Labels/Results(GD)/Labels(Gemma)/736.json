@@ -1,0 +1,19 @@
+{
+    "Image Path": "736.jpg",
+    "Original Labels": [
+        "men",
+        "galaxy",
+        "office",
+        "infinity symbol",
+        "women"
+    ],
+    "Correct Labels": [
+        "men",
+        "galaxy",
+        "office",
+        "infinity symbol",
+        "women"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

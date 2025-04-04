@@ -1,0 +1,28 @@
+{
+    "Image Path": "598.jpg",
+    "Original Labels": [
+        "shovel",
+        "white shirt",
+        "white helmet",
+        "pants",
+        "ground",
+        "flowers",
+        "greenery",
+        "background",
+        "signage"
+    ],
+    "Correct Labels": [
+        "shovel",
+        "white shirt",
+        "white helmet",
+        "pants"
+    ],
+    "Incorrect Labels": [
+        "ground",
+        "flowers",
+        "greenery",
+        "background",
+        "signage"
+    ],
+    "Precision": 0.4444444444444444
+}

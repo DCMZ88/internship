@@ -1,0 +1,20 @@
+{
+    "Image Path": "644.jpg",
+    "Original Labels": [
+        "man",
+        "poster",
+        "text",
+        "yellow object",
+        "table"
+    ],
+    "Correct Labels": [
+        "man",
+        "poster",
+        "yellow object",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "table"
+    ],
+    "Precision": 0.8
+}

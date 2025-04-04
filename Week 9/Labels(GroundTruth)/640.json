@@ -1,0 +1,11 @@
+{
+    "Image Path": "640.jpg",
+    "Original Labels": [
+        "flag"
+    ],
+    "Correct Labels": [
+        "flag"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

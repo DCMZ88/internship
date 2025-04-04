@@ -1,0 +1,18 @@
+{
+    "Image Path": "622.jpg",
+    "Original Labels": [
+        "ostrich",
+        "cityscape",
+        "buildings",
+        "grass"
+    ],
+    "Correct Labels": [
+        "cityscape",
+        "ostrich",
+        "grass"
+    ],
+    "Incorrect Labels": [
+        "buildings"
+    ],
+    "Precision": 0.75
+}

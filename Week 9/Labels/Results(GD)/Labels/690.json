@@ -1,0 +1,17 @@
+{
+    "Image Path": "690.png",
+    "Original Labels": [
+        "flags",
+        "text",
+        "crowd",
+        "man"
+    ],
+    "Correct Labels": [
+        "flags",
+        "text",
+        "crowd",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

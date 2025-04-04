@@ -1,0 +1,30 @@
+{
+    "Image Path": "633.png",
+    "Original Labels": [
+        "table",
+        "cushions",
+        "iron",
+        "tiles",
+        "books",
+        "rugs",
+        "shirt",
+        "toys",
+        "chair",
+        "pants"
+    ],
+    "Correct Labels": [
+        "iron",
+        "chair",
+        "table",
+        "rugs"
+    ],
+    "Incorrect Labels": [
+        "cushions",
+        "tiles",
+        "books",
+        "shirt",
+        "toys",
+        "pants"
+    ],
+    "Precision": 0.4
+}

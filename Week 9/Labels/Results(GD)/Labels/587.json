@@ -1,0 +1,21 @@
+{
+    "Image Path": "587.png",
+    "Original Labels": [
+        "car",
+        "building",
+        "dog",
+        "text",
+        "logo",
+        "man"
+    ],
+    "Correct Labels": [
+        "car",
+        "building",
+        "dog",
+        "text",
+        "logo",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

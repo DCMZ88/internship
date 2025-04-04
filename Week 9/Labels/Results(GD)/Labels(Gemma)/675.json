@@ -1,0 +1,20 @@
+{
+    "Image Path": "675.jpg",
+    "Original Labels": [
+        "desk",
+        "judge",
+        "orange jumpsuit",
+        "chair",
+        "courtroom"
+    ],
+    "Correct Labels": [
+        "judge",
+        "orange jumpsuit",
+        "courtroom"
+    ],
+    "Incorrect Labels": [
+        "desk",
+        "chair"
+    ],
+    "Precision": 0.6
+}

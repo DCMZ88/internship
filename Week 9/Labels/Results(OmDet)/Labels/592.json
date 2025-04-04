@@ -1,0 +1,18 @@
+{
+    "Image Path": "592.jpg",
+    "Original Labels": [
+        "table",
+        "spider-man",
+        "wall",
+        "police car"
+    ],
+    "Correct Labels": [
+        "spider-man",
+        "wall",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "police car"
+    ],
+    "Precision": 0.75
+}

@@ -1,0 +1,19 @@
+{
+    "Image Path": "643.jpg",
+    "Original Labels": [
+        "bed",
+        "photograph",
+        "bedroom",
+        "blanket",
+        "man"
+    ],
+    "Correct Labels": [
+        "bed",
+        "photograph",
+        "bedroom",
+        "blanket",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

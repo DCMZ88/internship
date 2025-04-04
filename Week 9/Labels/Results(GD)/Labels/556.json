@@ -1,0 +1,15 @@
+{
+    "Image Path": "556.jpg",
+    "Original Labels": [
+        "text",
+        "logo",
+        "yellow jacket"
+    ],
+    "Correct Labels": [
+        "text",
+        "logo",
+        "yellow jacket"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

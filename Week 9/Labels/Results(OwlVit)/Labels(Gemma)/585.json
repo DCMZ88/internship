@@ -1,0 +1,22 @@
+{
+    "Image Path": "585.jpg",
+    "Original Labels": [
+        "people",
+        "table",
+        "window",
+        "man",
+        "glass",
+        "chair"
+    ],
+    "Correct Labels": [
+        "man",
+        "glass",
+        "chair",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "window"
+    ],
+    "Precision": 0.6666666666666666
+}

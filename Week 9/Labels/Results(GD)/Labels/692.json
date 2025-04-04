@@ -1,0 +1,15 @@
+{
+    "Image Path": "692.jpg",
+    "Original Labels": [
+        "map",
+        "text",
+        "countries"
+    ],
+    "Correct Labels": [
+        "map",
+        "text",
+        "countries"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

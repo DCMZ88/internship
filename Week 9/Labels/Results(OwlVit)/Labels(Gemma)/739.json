@@ -1,0 +1,20 @@
+{
+    "Image Path": "739.jpg",
+    "Original Labels": [
+        "wall",
+        "shoes",
+        "socks",
+        "man",
+        "pants"
+    ],
+    "Correct Labels": [
+        "man",
+        "pants",
+        "socks"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "shoes"
+    ],
+    "Precision": 0.6
+}

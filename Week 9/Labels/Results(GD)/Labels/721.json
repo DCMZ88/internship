@@ -1,0 +1,13 @@
+{
+    "Image Path": "721.png",
+    "Original Labels": [
+        "image",
+        "man"
+    ],
+    "Correct Labels": [
+        "image",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

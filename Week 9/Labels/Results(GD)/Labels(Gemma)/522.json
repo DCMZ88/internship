@@ -1,0 +1,15 @@
+{
+    "Image Path": "522.jpg",
+    "Original Labels": [
+        "tree",
+        "building",
+        "monkey"
+    ],
+    "Correct Labels": [
+        "tree",
+        "building",
+        "monkey"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

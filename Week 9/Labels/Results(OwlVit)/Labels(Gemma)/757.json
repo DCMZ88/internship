@@ -1,0 +1,22 @@
+{
+    "Image Path": "757.jpg",
+    "Original Labels": [
+        "people",
+        "hand",
+        "grass",
+        "ground",
+        "stick",
+        "clothing"
+    ],
+    "Correct Labels": [
+        "grass",
+        "people",
+        "ground",
+        "stick"
+    ],
+    "Incorrect Labels": [
+        "hand",
+        "clothing"
+    ],
+    "Precision": 0.6666666666666666
+}

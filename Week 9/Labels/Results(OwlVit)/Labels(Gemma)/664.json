@@ -1,0 +1,20 @@
+{
+    "Image Path": "664.jpg",
+    "Original Labels": [
+        "sweater",
+        "gift",
+        "lights",
+        "man",
+        "tree"
+    ],
+    "Correct Labels": [
+        "man",
+        "sweater"
+    ],
+    "Incorrect Labels": [
+        "gift",
+        "lights",
+        "tree"
+    ],
+    "Precision": 0.4
+}

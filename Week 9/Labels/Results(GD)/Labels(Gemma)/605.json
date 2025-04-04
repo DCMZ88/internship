@@ -1,0 +1,23 @@
+{
+    "Image Path": "605.png",
+    "Original Labels": [
+        "judge",
+        "document",
+        "tie",
+        "chair",
+        "courtroom",
+        "gavel",
+        "suit"
+    ],
+    "Correct Labels": [
+        "judge",
+        "document",
+        "tie",
+        "chair",
+        "courtroom",
+        "gavel",
+        "suit"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

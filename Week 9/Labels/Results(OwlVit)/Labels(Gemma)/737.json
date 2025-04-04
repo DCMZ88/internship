@@ -1,0 +1,22 @@
+{
+    "Image Path": "737.jpg",
+    "Original Labels": [
+        "floor",
+        "cell",
+        "metal bars",
+        "door",
+        "orange shirts",
+        "walls"
+    ],
+    "Correct Labels": [
+        "orange shirts"
+    ],
+    "Incorrect Labels": [
+        "floor",
+        "cell",
+        "metal bars",
+        "door",
+        "walls"
+    ],
+    "Precision": 0.16666666666666666
+}

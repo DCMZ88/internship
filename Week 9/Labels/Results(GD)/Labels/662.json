@@ -1,0 +1,24 @@
+{
+    "Image Path": "662.jpg",
+    "Original Labels": [
+        "candidate ",
+        "grid",
+        "rectangle",
+        "face ",
+        "text",
+        "banner",
+        "logo"
+    ],
+    "Correct Labels": [
+        "grid",
+        "rectangle",
+        "text",
+        "banner",
+        "logo"
+    ],
+    "Incorrect Labels": [
+        "candidate ",
+        "face "
+    ],
+    "Precision": 0.714
+}

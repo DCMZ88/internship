@@ -1,0 +1,20 @@
+{
+    "Image Path": "609.jpg",
+    "Original Labels": [
+        "building",
+        "street",
+        "sign",
+        "woman",
+        "tree"
+    ],
+    "Correct Labels": [
+        "woman",
+        "building",
+        "street",
+        "sign"
+    ],
+    "Incorrect Labels": [
+        "tree"
+    ],
+    "Precision": 0.8
+}

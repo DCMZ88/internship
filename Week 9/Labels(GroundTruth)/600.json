@@ -1,0 +1,28 @@
+{
+    "Image Path": "600.jpg",
+    "Original Labels": [
+        "table",
+        "chairs",
+        "man",
+        "woman",
+        "photo",
+        "screen",
+        "image",
+        "lights",
+        "people"
+    ],
+    "Correct Labels": [
+        "table",
+        "man",
+        "lights",
+        "people"
+    ],
+    "Incorrect Labels": [
+        "chairs",
+        "woman",
+        "photo",
+        "screen",
+        "image"
+    ],
+    "Precision": 0.4444444444444444
+}

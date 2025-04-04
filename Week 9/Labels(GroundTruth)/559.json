@@ -1,0 +1,22 @@
+{
+    "Image Path": "559.jpg",
+    "Original Labels": [
+        "spray can",
+        "ant",
+        "man",
+        "cloud",
+        "flowers",
+        "dots"
+    ],
+    "Correct Labels": [
+        "man"
+    ],
+    "Incorrect Labels": [
+        "spray can",
+        "ant",
+        "cloud",
+        "flowers",
+        "dots"
+    ],
+    "Precision": 0.16666666666666666
+}

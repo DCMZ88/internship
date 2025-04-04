@@ -1,0 +1,21 @@
+{
+    "Image Path": "536.png",
+    "Original Labels": [
+        "tie",
+        "suit",
+        "grass",
+        "yellow flowers",
+        "watch",
+        "man"
+    ],
+    "Correct Labels": [
+        "tie",
+        "suit",
+        "grass",
+        "yellow flowers",
+        "watch",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}
