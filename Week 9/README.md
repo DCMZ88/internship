@@ -15,6 +15,7 @@
 VLM : Google's Gemma3-4b-it\
 Object Detectors : GroundingDINO, Owlv2\
 Threshold value ( GroundingDINO ) : 0.4
+Threshold value ( Omdet ) : 0.25
 
 
  > I included each images' precision value in a `json` file.
@@ -28,9 +29,20 @@ Threshold value ( GroundingDINO ) : 0.4
 
 Google's Gemma-3-4b-it:
   - Precision ( GroundingDINO ) : 77.5%
-  - Precision ( Owlv2 ) : 55.8% 
+  - Precision ( Owlv2 ) : 55.8%
+  - Precision ( Omdet ) : 76.1%
 
 # Research & Literature
 
 ## Precision - Recall 
 Precision-Recall is a useful measure of success of prediction when the classes are very imbalanced. In information retrieval, precision is a measure of the fraction of relevant items among actually returned items while recall is a measure of the fraction of items that were returned among all items that should have been returned. ‘Relevancy’ here refers to items that are postively labeled, i.e., true positives and false negatives.
+
+Precision is calculated by:
+
+$$\frac{T_p}{T_p+F_p}$$
+
+Recall is calculated by
+
+$$\frac{T_p}{T_p+F_n}$$
+
+where $T_p$ represents True Postives, $F_p$ represents False Postives, $F_n$ represents False Negatives 
