@@ -49,7 +49,7 @@ Precision is calculated by:
 
 $$\frac{T_p}{T_p+F_p}$$
 
-Recall is calculated by
+Recall is calculated by:
 
 $$\frac{T_p}{T_p+F_n}$$
 
