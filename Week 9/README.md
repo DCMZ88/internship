@@ -22,7 +22,7 @@ Threshold value ( For all models ) : 0.25
 ### Challenges and Limitations
 - One Limitation is that each 'Ground Truth' for each VLM wil be different due to the fact that the labels generated from the image might slightly differ.
 - Some of the object detector models vary alot in determining the VLM's precision when the threshold value is set to 0.25.\
-  This causes the 'Ground Truth' produced to be limited, as seen from the results, Gemma's precision using Owlv2 is significantly lesser than that of the other models.\
+  This causes the 'Ground Truth' produced to be limited due to the labels identified correctly is lesser , as seen from the results, Gemma's precision using Owlv2 is significantly lesser than that of the other models.\
   I decided to find the 'Ground Truth' using 2 methods\
     1 - Using all 3 models\
     2 - Using only GroundingDINO,OmDet\
