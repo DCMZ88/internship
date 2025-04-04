@@ -2,7 +2,7 @@
 
 ## Evaluation of VLMs on dataset (cont.)
 
-**Aim** : Evaluate the dataset by generating the ground truth from different Object Detection models.
+**Aim** : Evaluate the dataset by generating the ground truth from different zero-shot Object Detection models.
 
 ### Methodology
 1. Using a VLM to generate the labels of the objects detected in the image.
@@ -12,11 +12,15 @@
 5. We then calculate the precision value of the VLM.
 
 However, to calculate the recall value, we have to obtain the False Negatives. This is because our 'Ground Truth' in this case is obtained from the output of the VLM.\
-This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM. 
+This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM. \
+
+Hence, to obtain the False Negatives ( $F_n$ ), I will run the dataset over a standard Object Detection model.
+
 #### Information
 VLM : Google's Gemma3-4b-it\
-Object Detectors : GroundingDINO, Owlv2, OmDet\
+Zero-Shot Object Detectors : GroundingDINO, Owlv2, OmDet\
 Threshold value ( For all models ) : 0.25
+Object Detector : Florence-2
 
 
  > I included each images' precision value in a `json` file.
