@@ -13,23 +13,24 @@
 
 #### Information
 VLM : Google's Gemma3-4b-it\
-Object Detectors : GroundingDINO, Owlv2\
-Threshold value ( GroundingDINO ) : 0.4
-Threshold value ( Omdet ) : 0.25
+Object Detectors : GroundingDINO, Owlv2, OmDet\
+Threshold value ( GroundingDINO ) : 0.25\
+Threshold value ( Omdet ) : 0.25\
+Threshold value ( Owlv2 ) : 0.25
 
 
  > I included each images' precision value in a `json` file.
 
 ### Challenges and Limitations
 - One Limitation is that each 'Ground Truth' for each VLM wil be different due to the fact that the labels generated from the image might slightly differ.
-
+- Some of the object detector models vary alot in determining the VLM's precision when the threshold value is set to 0.25.
 ### Results 
 
 > Dataset consisted of 265 images
 
 Google's Gemma-3-4b-it:
   - Precision ( GroundingDINO ) : 77.5%
-  - Precision ( Owlv2 ) : 55.8%
+  - Precision ( Owlv2 ) : 48.0%
   - Precision ( Omdet ) : 76.1%
 
 # Research & Literature
