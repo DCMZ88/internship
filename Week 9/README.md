@@ -20,6 +20,7 @@ Hence, to obtain the False Negatives ( $F_n$ ),
 3. Calculate the recall values.
 > Note: Precision values remains the same as it is only dependent on the output of the VLM.
 
+
 #### Information
 VLM : Google's Gemma3-4b-it\
 Zero-Shot Object Detectors : GroundingDINO, Owlv2, OmDet\
