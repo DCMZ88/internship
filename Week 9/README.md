@@ -15,8 +15,9 @@
 
 1.
 2. [Evaluation](https://github.com/DCMZ88/internship/tree/main/Week%209/Evaluation)
-3. [Ground_Truth]
-4. [Comparison+Calculation]
+3. [Ground_Truth](https://github.com/DCMZ88/internship/blob/main/Week%209/GroundTruth.ipynb)
+4. [Comparison+Calculation](https://github.com/DCMZ88/internship/blob/main/Week%209/Eval(GroundTruth).ipynb)
+
 However, to calculate the recall value, we have to obtain the False Negatives. This is because our 'Ground Truth' in this case is obtained from the output of the VLM.\
 This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
 
