@@ -19,7 +19,7 @@ Hence, to obtain the False Negatives ( $F_n$ ), I will run the dataset over a st
 #### Information
 VLM : Google's Gemma3-4b-it\
 Zero-Shot Object Detectors : GroundingDINO, Owlv2, OmDet\
-Threshold value ( For all models ) : 0.25
+Threshold value ( For all models ) : 0.25\
 Object Detector : Florence-2
 
 
