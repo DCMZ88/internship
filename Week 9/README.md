@@ -18,7 +18,7 @@ Hence, to obtain the False Negatives ( $F_n$ ),
 1. I will run the dataset over a standard Object Detection model to obtain the labels.
 2. Run the labels through the 'Ground Truths' to filter out the False Negatives.
 3. Calculate the recall values.
-> Note: Precision values remains the same as it is dependent on the output of the VLM.
+> Note: Precision values remains the same as it is onlt dependent on the output of the VLM.
 
 #### Information
 VLM : Google's Gemma3-4b-it\
