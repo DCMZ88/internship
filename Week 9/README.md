@@ -12,9 +12,9 @@
 5. We then calculate the precision value of the VLM.
 
 However, to calculate the recall value, we have to obtain the False Negatives. This is because our 'Ground Truth' in this case is obtained from the output of the VLM.\
-This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM. \
+This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
 
-Hence, to obtain the False Negatives ( $F_n$ ), I will run the dataset over a standard Object Detection model.
+Hence, to obtain the False Negatives ( $F_n$ ), I will run the dataset over a standard Object Detection model. 
 
 #### Information
 VLM : Google's Gemma3-4b-it\
