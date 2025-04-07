@@ -14,7 +14,11 @@
 However, to calculate the recall value, we have to obtain the False Negatives. This is because our 'Ground Truth' in this case is obtained from the output of the VLM.\
 This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
 
-Hence, to obtain the False Negatives ( $F_n$ ), I will run the dataset over a standard Object Detection model. 
+Hence, to obtain the False Negatives ( $F_n$ ), 
+1. I will run the dataset over a standard Object Detection model to obtain the labels.
+2. Run the labels through the 'Ground Truths' to filter out the False Negatives.
+3. Calculate the recall values.
+> Note: Precision values remains the same as it is dependent on the output of the VLM.
 
 #### Information
 VLM : Google's Gemma3-4b-it\
@@ -23,7 +27,7 @@ Threshold value ( For all models ) : 0.25\
 Object Detector : Florence-2
 
 
- > I included each images' precision value in a `json` file.
+ > Note: I included each images' precision value in a `json` file.
 
 ### Challenges and Limitations
 - One Limitation is that each 'Ground Truth' for each VLM wil be different due to the fact that the labels generated from the image might slightly differ.
@@ -33,6 +37,7 @@ Object Detector : Florence-2
     1 - Using all 3 models\
     2 - Using only GroundingDINO,OmDet\
   and caluclate the precision values respectively.
+- Note: I tried using Microsoft's Florence as a 
 ### Results 
 
 > Dataset consisted of 265 images
