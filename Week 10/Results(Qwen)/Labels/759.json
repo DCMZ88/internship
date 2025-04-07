@@ -1,0 +1,29 @@
+{
+    "Image Path": "759.jpg",
+    "Original Labels": [
+        "game show",
+        "man",
+        "speech bubble",
+        "text",
+        "numbers",
+        "chinese characters",
+        "cartoon character",
+        "background",
+        "text",
+        "title"
+    ],
+    "Correct Labels": [
+        "game show",
+        "speech bubble",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "numbers",
+        "chinese characters",
+        "cartoon character",
+        "background",
+        "title"
+    ],
+    "Precision": 0.3
+}

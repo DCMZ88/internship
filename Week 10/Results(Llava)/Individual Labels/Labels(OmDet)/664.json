@@ -1,0 +1,30 @@
+{
+    "Image Path": "664.jpg",
+    "Original Labels": [
+        "laugh",
+        "cityscape",
+        "light",
+        "tie",
+        "watch",
+        "christmas tree",
+        "shirt",
+        "window",
+        "sweater",
+        "smile"
+    ],
+    "Correct Labels": [
+        "watch",
+        "shirt",
+        "sweater",
+        "tie",
+        "window",
+        "cityscape",
+        "christmas tree"
+    ],
+    "Incorrect Labels": [
+        "laugh",
+        "light",
+        "smile"
+    ],
+    "Precision": 0.7
+}

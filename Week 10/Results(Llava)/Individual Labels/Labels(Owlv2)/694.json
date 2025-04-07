@@ -1,0 +1,30 @@
+{
+    "Image Path": "694.jpg",
+    "Original Labels": [
+        "glass handle",
+        "shadow",
+        "table",
+        "text",
+        "water",
+        "hand",
+        "fingers",
+        "star",
+        "urine",
+        "glass"
+    ],
+    "Correct Labels": [
+        "hand",
+        "star",
+        "glass",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "glass handle",
+        "shadow",
+        "table",
+        "water",
+        "fingers",
+        "urine"
+    ],
+    "Precision": 0.4
+}

@@ -1,0 +1,14 @@
+{
+    "Image Path": "554.jpg",
+    "Original Labels": [
+        "here we go again.",
+        "ah shit"
+    ],
+    "Correct Labels": [
+        "ah shit"
+    ],
+    "Incorrect Labels": [
+        "here we go again."
+    ],
+    "Precision": 0.5
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "626.jpg",
+    "Original Labels": [
+        "man",
+        "wall",
+        "boss",
+        "brick",
+        "teeth",
+        "shirt",
+        "mouth",
+        "eyes",
+        "face",
+        "nose"
+    ],
+    "Correct Labels": [
+        "eyes",
+        "nose",
+        "face",
+        "man",
+        "mouth",
+        "teeth"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "boss",
+        "brick",
+        "shirt"
+    ],
+    "Precision": 0.6
+}

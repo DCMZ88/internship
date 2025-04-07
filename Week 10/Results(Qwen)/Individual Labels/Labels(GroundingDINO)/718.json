@@ -1,0 +1,29 @@
+{
+    "Image Path": "718.png",
+    "Original Labels": [
+        "man",
+        "people",
+        "shirt",
+        "background",
+        "jacket",
+        "glove",
+        "car",
+        "hand",
+        "suit",
+        "text"
+    ],
+    "Correct Labels": [
+        "man",
+        "people",
+        "shirt",
+        "background",
+        "jacket",
+        "glove",
+        "car",
+        "hand",
+        "suit",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

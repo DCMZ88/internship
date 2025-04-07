@@ -1,0 +1,30 @@
+{
+    "Image Path": "551.jpg",
+    "Original Labels": [
+        "tv",
+        "black panther",
+        "captain america",
+        "batman",
+        "spider-man",
+        "superman",
+        "iron man",
+        "hulk",
+        "wonder woman",
+        "thor"
+    ],
+    "Correct Labels": [
+        "thor",
+        "captain america",
+        "batman",
+        "wonder woman",
+        "iron man",
+        "superman"
+    ],
+    "Incorrect Labels": [
+        "tv",
+        "black panther",
+        "spider-man",
+        "hulk"
+    ],
+    "Precision": 0.6
+}

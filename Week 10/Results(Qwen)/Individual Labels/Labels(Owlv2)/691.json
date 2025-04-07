@@ -1,0 +1,30 @@
+{
+    "Image Path": "691.jpg",
+    "Original Labels": [
+        "stones",
+        "background",
+        "text",
+        "caption",
+        "hair",
+        "skin",
+        "mouth",
+        "eyes",
+        "face",
+        "nose"
+    ],
+    "Correct Labels": [
+        "caption",
+        "face"
+    ],
+    "Incorrect Labels": [
+        "stones",
+        "background",
+        "text",
+        "hair",
+        "skin",
+        "mouth",
+        "eyes",
+        "nose"
+    ],
+    "Precision": 0.2
+}

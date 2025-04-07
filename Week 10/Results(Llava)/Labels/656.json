@@ -1,0 +1,30 @@
+{
+    "Image Path": "656.jpg",
+    "Original Labels": [
+        "door",
+        "staircase",
+        "railing",
+        "floor",
+        "wall",
+        "corner",
+        "ceiling",
+        "light fixture",
+        "paint",
+        "mask"
+    ],
+    "Correct Labels": [
+        "door",
+        "railing",
+        "floor",
+        "ceiling",
+        "light fixture",
+        "mask"
+    ],
+    "Incorrect Labels": [
+        "staircase",
+        "wall",
+        "corner",
+        "paint"
+    ],
+    "Precision": 0.6
+}

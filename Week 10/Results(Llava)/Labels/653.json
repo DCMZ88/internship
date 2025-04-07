@@ -1,0 +1,28 @@
+{
+    "Image Path": "653.jpg",
+    "Original Labels": [
+        "truck",
+        "man",
+        "ring",
+        "beard",
+        "hair",
+        "pipe",
+        "ring",
+        "truck",
+        "man",
+        "ring"
+    ],
+    "Correct Labels": [
+        "ring"
+    ],
+    "Incorrect Labels": [
+        "truck",
+        "man",
+        "beard",
+        "hair",
+        "pipe",
+        "truck",
+        "man"
+    ],
+    "Precision": 0.1
+}

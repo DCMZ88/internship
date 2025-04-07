@@ -1,0 +1,29 @@
+{
+    "Image Path": "522.jpg",
+    "Original Labels": [
+        "monkey",
+        "grass",
+        "shirt",
+        "eyes",
+        "tree",
+        "water",
+        "scarf",
+        "pants",
+        "hair",
+        "sky"
+    ],
+    "Correct Labels": [
+        "monkey",
+        "grass",
+        "shirt",
+        "eyes",
+        "tree",
+        "water",
+        "scarf",
+        "pants",
+        "hair",
+        "sky"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

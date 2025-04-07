@@ -1,0 +1,30 @@
+{
+    "Image Path": "725.jpg",
+    "Original Labels": [
+        "field",
+        "grass",
+        "sky",
+        "clouds",
+        "water",
+        "man",
+        "sun",
+        "woman",
+        "mountains",
+        "trees"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman",
+        "field",
+        "grass"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "clouds",
+        "water",
+        "sun",
+        "mountains",
+        "trees"
+    ],
+    "Precision": 0.4
+}

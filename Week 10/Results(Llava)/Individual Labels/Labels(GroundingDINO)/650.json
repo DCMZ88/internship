@@ -1,0 +1,29 @@
+{
+    "Image Path": "650.jpg",
+    "Original Labels": [
+        "culture",
+        "factory",
+        "screen",
+        "breaking",
+        "shit",
+        "news",
+        "show",
+        "vault",
+        "tech",
+        "phone"
+    ],
+    "Correct Labels": [
+        "culture",
+        "factory",
+        "screen",
+        "breaking",
+        "shit",
+        "news",
+        "show",
+        "vault",
+        "tech",
+        "phone"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

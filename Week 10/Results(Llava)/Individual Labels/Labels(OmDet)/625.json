@@ -1,0 +1,11 @@
+{
+    "Image Path": "625.png",
+    "Original Labels": [
+        "cartoon character"
+    ],
+    "Correct Labels": [
+        "cartoon character"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

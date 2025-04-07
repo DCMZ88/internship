@@ -1,0 +1,30 @@
+{
+    "Image Path": "695.jpg",
+    "Original Labels": [
+        "car",
+        "traffic light",
+        "people",
+        "signboard",
+        "motorcycle",
+        "trees",
+        "vehicle",
+        "sky",
+        "road",
+        "bridge"
+    ],
+    "Correct Labels": [
+        "traffic light",
+        "road",
+        "car",
+        "signboard",
+        "vehicle",
+        "motorcycle"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "trees",
+        "sky",
+        "bridge"
+    ],
+    "Precision": 0.6
+}

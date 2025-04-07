@@ -1,0 +1,30 @@
+{
+    "Image Path": "683.png",
+    "Original Labels": [
+        "character's pants",
+        "character's shorts",
+        "character's watch",
+        "character's shirt",
+        "character's tie",
+        "character's shoes",
+        "character's glasses",
+        "character's hair",
+        "character's socks",
+        "character's belt"
+    ],
+    "Correct Labels": [
+        "character's pants",
+        "character's shorts",
+        "character's tie",
+        "character's belt",
+        "character's shirt"
+    ],
+    "Incorrect Labels": [
+        "character's watch",
+        "character's shoes",
+        "character's glasses",
+        "character's hair",
+        "character's socks"
+    ],
+    "Precision": 0.5
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "684.jpg",
+    "Original Labels": [
+        "green background",
+        "man",
+        "green text",
+        "checkmark",
+        "black text",
+        "woman",
+        "white text",
+        "hat",
+        "white background",
+        "text"
+    ],
+    "Correct Labels": [
+        "green background",
+        "man",
+        "green text",
+        "checkmark",
+        "black text",
+        "woman",
+        "white text",
+        "hat",
+        "white background",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

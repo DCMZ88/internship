@@ -1,0 +1,18 @@
+{
+    "Image Path": "637.jpg",
+    "Original Labels": [
+        "girlfriend",
+        "green flag",
+        "red flag",
+        "singapore's minister"
+    ],
+    "Correct Labels": [
+        "girlfriend",
+        "green flag",
+        "red flag"
+    ],
+    "Incorrect Labels": [
+        "singapore's minister"
+    ],
+    "Precision": 0.75
+}

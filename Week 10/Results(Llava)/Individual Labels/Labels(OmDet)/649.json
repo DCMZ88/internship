@@ -1,0 +1,30 @@
+{
+    "Image Path": "649.jpg",
+    "Original Labels": [
+        "eyelashes hair",
+        "mouth",
+        "eyeball",
+        "eyelashes",
+        "eyebrow hair",
+        "eyebrow",
+        "forehead",
+        "head",
+        "nose",
+        "hair"
+    ],
+    "Correct Labels": [
+        "hair",
+        "head"
+    ],
+    "Incorrect Labels": [
+        "eyelashes hair",
+        "mouth",
+        "eyeball",
+        "eyelashes",
+        "eyebrow hair",
+        "eyebrow",
+        "forehead",
+        "nose"
+    ],
+    "Precision": 0.2
+}

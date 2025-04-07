@@ -1,0 +1,30 @@
+{
+    "Image Path": "512.jpg",
+    "Original Labels": [
+        "keyboard",
+        "now",
+        "chatgpt",
+        "number",
+        "capacity",
+        "computer monitor",
+        "mouse",
+        "s'pore",
+        "right",
+        "man"
+    ],
+    "Correct Labels": [
+        "now",
+        "computer monitor",
+        "right"
+    ],
+    "Incorrect Labels": [
+        "keyboard",
+        "chatgpt",
+        "number",
+        "capacity",
+        "mouse",
+        "s'pore",
+        "man"
+    ],
+    "Precision": 0.3
+}

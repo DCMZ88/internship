@@ -1,0 +1,16 @@
+{
+    "Image Path": "708.png",
+    "Original Labels": [
+        "singaporeans",
+        "clarke quay",
+        "penguin"
+    ],
+    "Correct Labels": [
+        "penguin",
+        "singaporeans"
+    ],
+    "Incorrect Labels": [
+        "clarke quay"
+    ],
+    "Precision": 0.667
+}

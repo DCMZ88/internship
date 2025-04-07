@@ -1,0 +1,11 @@
+{
+    "Image Path": "596.jpg",
+    "Original Labels": [
+        "soldier"
+    ],
+    "Correct Labels": [
+        "soldier"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,25 @@
+{
+    "Image Path": "535.jpg",
+    "Original Labels": [
+        "man",
+        "room",
+        "facilities",
+        "help",
+        "single",
+        "low income singles",
+        "shared",
+        "not like that"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "man",
+        "room",
+        "facilities",
+        "help",
+        "single",
+        "low income singles",
+        "shared",
+        "not like that"
+    ],
+    "Precision": 0.0
+}

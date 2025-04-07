@@ -1,0 +1,30 @@
+{
+    "Image Path": "534.jpg",
+    "Original Labels": [
+        "tiles",
+        "wall",
+        "floor",
+        "character",
+        "hair",
+        "clothing",
+        "logo",
+        "text",
+        "number",
+        "word"
+    ],
+    "Correct Labels": [
+        "character",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "tiles",
+        "wall",
+        "floor",
+        "hair",
+        "clothing",
+        "logo",
+        "number",
+        "word"
+    ],
+    "Precision": 0.2
+}

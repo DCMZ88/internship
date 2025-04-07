@@ -1,0 +1,29 @@
+{
+    "Image Path": "707.png",
+    "Original Labels": [
+        "orange",
+        "teal",
+        "cafe",
+        "chee soon juan",
+        "politician",
+        "restaurateur",
+        "marina square",
+        "stock market",
+        "politician",
+        "restaurateur"
+    ],
+    "Correct Labels": [
+        "politician",
+        "stock market"
+    ],
+    "Incorrect Labels": [
+        "orange",
+        "teal",
+        "cafe",
+        "chee soon juan",
+        "restaurateur",
+        "marina square",
+        "restaurateur"
+    ],
+    "Precision": 0.2
+}

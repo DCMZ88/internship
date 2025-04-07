@@ -1,0 +1,29 @@
+{
+    "Image Path": "580.jpg",
+    "Original Labels": [
+        "spongebob squarepants",
+        "sun",
+        "sky",
+        "water",
+        "cloud",
+        "tree",
+        "rock",
+        "starfish",
+        "flower",
+        "grass"
+    ],
+    "Correct Labels": [
+        "spongebob squarepants",
+        "sun",
+        "sky",
+        "water",
+        "cloud",
+        "tree",
+        "rock",
+        "starfish",
+        "flower",
+        "grass"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

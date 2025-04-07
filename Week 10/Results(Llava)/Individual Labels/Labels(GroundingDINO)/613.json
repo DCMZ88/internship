@@ -1,0 +1,30 @@
+{
+    "Image Path": "613.png",
+    "Original Labels": [
+        "arrow",
+        "circle",
+        "populist",
+        "fucking",
+        "word",
+        "color",
+        "red",
+        "problem",
+        "blue",
+        "text"
+    ],
+    "Correct Labels": [
+        "arrow",
+        "circle",
+        "populist",
+        "fucking",
+        "word",
+        "color",
+        "problem",
+        "blue",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "red"
+    ],
+    "Precision": 0.9
+}

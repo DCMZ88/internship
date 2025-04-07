@@ -1,0 +1,30 @@
+{
+    "Image Path": "507.jpg",
+    "Original Labels": [
+        "starfish",
+        "krabby patty",
+        "squidward tentacles",
+        "anchor",
+        "spongebob squarepants",
+        "patrick star",
+        "plankton",
+        "jellyfish",
+        "sandy cheeks",
+        "mr. krabs"
+    ],
+    "Correct Labels": [
+        "plankton",
+        "patrick star",
+        "spongebob squarepants",
+        "mr. krabs",
+        "jellyfish"
+    ],
+    "Incorrect Labels": [
+        "starfish",
+        "krabby patty",
+        "squidward tentacles",
+        "anchor",
+        "sandy cheeks"
+    ],
+    "Precision": 0.5
+}

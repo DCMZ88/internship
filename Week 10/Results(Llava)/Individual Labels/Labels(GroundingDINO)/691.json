@@ -1,0 +1,30 @@
+{
+    "Image Path": "691.jpg",
+    "Original Labels": [
+        "image",
+        "words",
+        "screen",
+        "background",
+        "caption",
+        "character",
+        "font",
+        "color",
+        "subtitle",
+        "text"
+    ],
+    "Correct Labels": [
+        "image",
+        "words",
+        "screen",
+        "background",
+        "caption",
+        "character",
+        "color",
+        "subtitle",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "font"
+    ],
+    "Precision": 0.9
+}

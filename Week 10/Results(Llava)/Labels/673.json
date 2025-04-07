@@ -1,0 +1,30 @@
+{
+    "Image Path": "673.png",
+    "Original Labels": [
+        "woman",
+        "man",
+        "office chair",
+        "desk",
+        "computer monitor",
+        "papers",
+        "pen",
+        "suit",
+        "tie",
+        "smile"
+    ],
+    "Correct Labels": [
+        "woman",
+        "man",
+        "office chair",
+        "computer monitor",
+        "papers",
+        "suit",
+        "smile"
+    ],
+    "Incorrect Labels": [
+        "desk",
+        "pen",
+        "tie"
+    ],
+    "Precision": 0.7
+}

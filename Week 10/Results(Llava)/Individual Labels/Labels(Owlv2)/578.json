@@ -1,0 +1,30 @@
+{
+    "Image Path": "578.jpg",
+    "Original Labels": [
+        "child",
+        "door",
+        "window",
+        "table",
+        "cup",
+        "bowl",
+        "woman",
+        "glass",
+        "plant",
+        "man"
+    ],
+    "Correct Labels": [
+        "child",
+        "cup"
+    ],
+    "Incorrect Labels": [
+        "door",
+        "window",
+        "table",
+        "bowl",
+        "woman",
+        "glass",
+        "plant",
+        "man"
+    ],
+    "Precision": 0.2
+}

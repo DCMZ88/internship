@@ -1,0 +1,29 @@
+{
+    "Image Path": "502.png",
+    "Original Labels": [
+        "background",
+        "suit",
+        "text",
+        "thumb",
+        "hand gesture",
+        "microphone",
+        "tie",
+        "shirt",
+        "finger",
+        "hand"
+    ],
+    "Correct Labels": [
+        "tie",
+        "shirt",
+        "background",
+        "microphone",
+        "suit",
+        "finger",
+        "hand",
+        "text",
+        "hand gesture",
+        "thumb"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

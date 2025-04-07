@@ -1,0 +1,22 @@
+{
+    "Image Path": "645.jpg",
+    "Original Labels": [
+        "edwin tong",
+        "@yishunpeopleoffice",
+        "tickets",
+        "green flag",
+        "taylor swift's concert",
+        "red flag"
+    ],
+    "Correct Labels": [
+        "edwin tong",
+        "tickets",
+        "green flag",
+        "red flag"
+    ],
+    "Incorrect Labels": [
+        "@yishunpeopleoffice",
+        "taylor swift's concert"
+    ],
+    "Precision": 0.667
+}

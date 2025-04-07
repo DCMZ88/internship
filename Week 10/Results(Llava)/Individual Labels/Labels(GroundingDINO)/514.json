@@ -1,0 +1,29 @@
+{
+    "Image Path": "514.png",
+    "Original Labels": [
+        "man in red shirt",
+        "man in black pants",
+        "man in black shoes",
+        "man in black hat",
+        "man in black glasses",
+        "man in swim trunks",
+        "swimming pool",
+        "man in black shirt",
+        "man in black sunglasses",
+        "man in black shorts"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "man in red shirt",
+        "man in black pants",
+        "man in black shoes",
+        "man in black hat",
+        "man in black glasses",
+        "man in swim trunks",
+        "swimming pool",
+        "man in black shirt",
+        "man in black sunglasses",
+        "man in black shorts"
+    ],
+    "Precision": 0.0
+}

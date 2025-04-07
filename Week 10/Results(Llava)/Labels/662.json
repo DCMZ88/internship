@@ -1,0 +1,30 @@
+{
+    "Image Path": "662.jpg",
+    "Original Labels": [
+        "map",
+        "logo",
+        "text",
+        "picture of people",
+        "graphic design",
+        "political party symbol",
+        "geographical location marker",
+        "political candidate name",
+        "political party name",
+        "political campaign slogan"
+    ],
+    "Correct Labels": [
+        "map",
+        "logo",
+        "text",
+        "political party symbol"
+    ],
+    "Incorrect Labels": [
+        "picture of people",
+        "graphic design",
+        "geographical location marker",
+        "political candidate name",
+        "political party name",
+        "political campaign slogan"
+    ],
+    "Precision": 0.4
+}

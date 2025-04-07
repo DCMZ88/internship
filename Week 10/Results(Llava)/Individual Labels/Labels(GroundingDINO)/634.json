@@ -1,0 +1,30 @@
+{
+    "Image Path": "634.png",
+    "Original Labels": [
+        "clouds",
+        "white",
+        "date",
+        "letter",
+        "person",
+        "number",
+        "blue",
+        "black",
+        "text",
+        "sky"
+    ],
+    "Correct Labels": [
+        "clouds",
+        "date",
+        "letter",
+        "person",
+        "number",
+        "blue",
+        "text",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "white",
+        "black"
+    ],
+    "Precision": 0.8
+}

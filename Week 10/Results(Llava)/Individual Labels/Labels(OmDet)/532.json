@@ -1,0 +1,30 @@
+{
+    "Image Path": "532.jpg",
+    "Original Labels": [
+        "elbow pad",
+        "sweatband",
+        "sneakers",
+        "ropes",
+        "ceiling lights",
+        "metal beams",
+        "knee pad",
+        "spectators",
+        "shorts",
+        "ring"
+    ],
+    "Correct Labels": [
+        "sweatband",
+        "elbow pad",
+        "ceiling lights",
+        "knee pad"
+    ],
+    "Incorrect Labels": [
+        "sneakers",
+        "ropes",
+        "metal beams",
+        "spectators",
+        "shorts",
+        "ring"
+    ],
+    "Precision": 0.4
+}

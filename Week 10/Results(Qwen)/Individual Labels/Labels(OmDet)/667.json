@@ -1,0 +1,24 @@
+{
+    "Image Path": "667.png",
+    "Original Labels": [
+        "presidential",
+        "cat",
+        "independence",
+        "singaporean",
+        "hopefuls",
+        "record",
+        "hair"
+    ],
+    "Correct Labels": [
+        "cat",
+        "record"
+    ],
+    "Incorrect Labels": [
+        "presidential",
+        "independence",
+        "singaporean",
+        "hopefuls",
+        "hair"
+    ],
+    "Precision": 0.286
+}

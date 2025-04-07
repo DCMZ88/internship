@@ -1,0 +1,30 @@
+{
+    "Image Path": "595.png",
+    "Original Labels": [
+        "accommodations",
+        "$20k",
+        "taxpayer",
+        "money",
+        "spent",
+        "bribery",
+        "minister",
+        "sleep",
+        "renovations",
+        "personal"
+    ],
+    "Correct Labels": [
+        "taxpayer",
+        "personal",
+        "money",
+        "accommodations",
+        "sleep",
+        "spent"
+    ],
+    "Incorrect Labels": [
+        "$20k",
+        "bribery",
+        "minister",
+        "renovations"
+    ],
+    "Precision": 0.6
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "661.png",
+    "Original Labels": [
+        "sand",
+        "rose",
+        "man",
+        "beach",
+        "sunset",
+        "sky",
+        "water",
+        "ocean",
+        "rose petals",
+        "beach sand"
+    ],
+    "Correct Labels": [
+        "sand",
+        "rose",
+        "man",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "beach",
+        "sunset",
+        "water",
+        "ocean",
+        "rose petals",
+        "beach sand"
+    ],
+    "Precision": 0.4
+}

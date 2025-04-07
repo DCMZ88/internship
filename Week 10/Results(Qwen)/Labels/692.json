@@ -1,0 +1,29 @@
+{
+    "Image Path": "692.jpg",
+    "Original Labels": [
+        "indonesia",
+        "myanmar",
+        "thailand",
+        "vietnam",
+        "malaysia",
+        "philippines",
+        "laos",
+        "cambodia",
+        "east timor",
+        "singapore"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "indonesia",
+        "myanmar",
+        "thailand",
+        "vietnam",
+        "malaysia",
+        "philippines",
+        "laos",
+        "cambodia",
+        "east timor",
+        "singapore"
+    ],
+    "Precision": 0.0
+}

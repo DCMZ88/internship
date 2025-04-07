@@ -1,0 +1,20 @@
+{
+    "Image Path": "686.png",
+    "Original Labels": [
+        "kenneth jeyaretnam",
+        "m ravi",
+        "lim tean",
+        "the online citizen",
+        "lee hsien yang"
+    ],
+    "Correct Labels": [
+        "lee hsien yang",
+        "lim tean",
+        "kenneth jeyaretnam",
+        "m ravi"
+    ],
+    "Incorrect Labels": [
+        "the online citizen"
+    ],
+    "Precision": 0.8
+}

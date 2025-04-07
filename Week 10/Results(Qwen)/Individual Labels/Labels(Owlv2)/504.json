@@ -1,0 +1,29 @@
+{
+    "Image Path": "504.jpg",
+    "Original Labels": [
+        "parliament",
+        "issues",
+        "sla",
+        "k shan",
+        "land",
+        "safety",
+        "free",
+        "pmo report",
+        "health",
+        "minister shanmugam"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "parliament",
+        "issues",
+        "sla",
+        "k shan",
+        "land",
+        "safety",
+        "free",
+        "pmo report",
+        "health",
+        "minister shanmugam"
+    ],
+    "Precision": 0.0
+}

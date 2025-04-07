@@ -1,0 +1,30 @@
+{
+    "Image Path": "605.png",
+    "Original Labels": [
+        "sign",
+        "suit",
+        "judge",
+        "microphone",
+        "paper",
+        "tie",
+        "chair",
+        "podium",
+        "pen",
+        "text"
+    ],
+    "Correct Labels": [
+        "tie",
+        "judge",
+        "microphone",
+        "suit",
+        "sign",
+        "chair",
+        "text",
+        "paper",
+        "pen"
+    ],
+    "Incorrect Labels": [
+        "podium"
+    ],
+    "Precision": 0.9
+}

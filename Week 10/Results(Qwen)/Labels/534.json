@@ -1,0 +1,30 @@
+{
+    "Image Path": "534.jpg",
+    "Original Labels": [
+        "woman",
+        "ball",
+        "boat",
+        "man",
+        "dog",
+        "shirt",
+        "sunglasses",
+        "hat",
+        "umbrella",
+        "chair"
+    ],
+    "Correct Labels": [
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "ball",
+        "boat",
+        "man",
+        "dog",
+        "sunglasses",
+        "hat",
+        "umbrella",
+        "chair"
+    ],
+    "Precision": 0.1
+}

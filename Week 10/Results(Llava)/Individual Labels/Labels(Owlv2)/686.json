@@ -1,0 +1,30 @@
+{
+    "Image Path": "686.png",
+    "Original Labels": [
+        "sky",
+        "collar",
+        "rope",
+        "water",
+        "clouds",
+        "text",
+        "boat",
+        "hair",
+        "shirt",
+        "man"
+    ],
+    "Correct Labels": [
+        "hair",
+        "man",
+        "collar",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "rope",
+        "water",
+        "clouds",
+        "text",
+        "boat"
+    ],
+    "Precision": 0.4
+}

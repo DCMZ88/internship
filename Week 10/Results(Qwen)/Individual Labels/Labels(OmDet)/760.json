@@ -1,0 +1,27 @@
+{
+    "Image Path": "760.jpg",
+    "Original Labels": [
+        "chatbot",
+        "advice",
+        "jamie",
+        "today",
+        "condom",
+        "covid-19",
+        "positive",
+        "singapore",
+        "test"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "chatbot",
+        "advice",
+        "jamie",
+        "today",
+        "condom",
+        "covid-19",
+        "positive",
+        "singapore",
+        "test"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "588.JPG",
+    "Original Labels": [
+        "fire extinguisher",
+        "chair",
+        "fire",
+        "hat",
+        "table",
+        "mug",
+        "microphone",
+        "desk",
+        "speaker",
+        "dog"
+    ],
+    "Correct Labels": [
+        "chair",
+        "fire",
+        "hat",
+        "table",
+        "mug",
+        "microphone",
+        "desk",
+        "dog"
+    ],
+    "Incorrect Labels": [
+        "fire extinguisher",
+        "speaker"
+    ],
+    "Precision": 0.8
+}

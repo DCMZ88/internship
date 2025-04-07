@@ -1,0 +1,23 @@
+{
+    "Image Path": "550.png",
+    "Original Labels": [
+        "senior minister teo chee hean",
+        "microphone",
+        "podium",
+        "pm lee",
+        "red curtain",
+        "checklist",
+        "text"
+    ],
+    "Correct Labels": [
+        "senior minister teo chee hean",
+        "microphone",
+        "podium",
+        "pm lee",
+        "red curtain",
+        "checklist",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

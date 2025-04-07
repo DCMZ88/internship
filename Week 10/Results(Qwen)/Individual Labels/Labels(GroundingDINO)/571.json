@@ -1,0 +1,30 @@
+{
+    "Image Path": "571.jpg",
+    "Original Labels": [
+        "bench",
+        "door",
+        "jersey",
+        "ball",
+        "basketball",
+        "woman",
+        "socks",
+        "floor",
+        "sign",
+        "wall"
+    ],
+    "Correct Labels": [
+        "door",
+        "jersey",
+        "ball",
+        "basketball",
+        "woman",
+        "floor",
+        "sign",
+        "wall"
+    ],
+    "Incorrect Labels": [
+        "bench",
+        "socks"
+    ],
+    "Precision": 0.8
+}

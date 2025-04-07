@@ -1,0 +1,30 @@
+{
+    "Image Path": "659.jpg",
+    "Original Labels": [
+        "bookshelf",
+        "monitor",
+        "curtain",
+        "chair",
+        "keyboard",
+        "picture frame",
+        "office chair",
+        "desk",
+        "mouse",
+        "books"
+    ],
+    "Correct Labels": [
+        "bookshelf",
+        "monitor",
+        "curtain",
+        "chair",
+        "keyboard",
+        "picture frame",
+        "office chair",
+        "desk",
+        "books"
+    ],
+    "Incorrect Labels": [
+        "mouse"
+    ],
+    "Precision": 0.9
+}

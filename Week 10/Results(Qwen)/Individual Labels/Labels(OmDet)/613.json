@@ -1,0 +1,11 @@
+{
+    "Image Path": "613.png",
+    "Original Labels": [
+        "fucking populist"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "fucking populist"
+    ],
+    "Precision": 0.0
+}

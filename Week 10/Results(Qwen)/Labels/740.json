@@ -1,0 +1,29 @@
+{
+    "Image Path": "740.jpg",
+    "Original Labels": [
+        "ronald mcdonald",
+        "clown",
+        "michael fassbender",
+        "hat",
+        "comic book",
+        "man",
+        "clown",
+        "perfection",
+        "building",
+        "sign"
+    ],
+    "Correct Labels": [
+        "clown",
+        "hat",
+        "man",
+        "sign"
+    ],
+    "Incorrect Labels": [
+        "ronald mcdonald",
+        "michael fassbender",
+        "comic book",
+        "perfection",
+        "building"
+    ],
+    "Precision": 0.4
+}

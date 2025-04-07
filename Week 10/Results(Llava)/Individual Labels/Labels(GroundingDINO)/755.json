@@ -1,0 +1,30 @@
+{
+    "Image Path": "755.jpg",
+    "Original Labels": [
+        "sandals",
+        "shirt",
+        "backpack",
+        "mcdonald's sign",
+        "shopping cart",
+        "handbag",
+        "t-shirt",
+        "pants",
+        "mask",
+        "sneakers"
+    ],
+    "Correct Labels": [
+        "sandals",
+        "shirt",
+        "backpack",
+        "handbag",
+        "pants",
+        "mask",
+        "sneakers"
+    ],
+    "Incorrect Labels": [
+        "mcdonald's sign",
+        "shopping cart",
+        "t-shirt"
+    ],
+    "Precision": 0.7
+}

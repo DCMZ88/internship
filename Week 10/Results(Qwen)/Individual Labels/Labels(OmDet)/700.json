@@ -1,0 +1,23 @@
+{
+    "Image Path": "700.jpg",
+    "Original Labels": [
+        "sunglasses",
+        "man",
+        "microphone stand",
+        "microphone",
+        "tie",
+        "podium",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "sunglasses",
+        "tie",
+        "man",
+        "shirt",
+        "podium",
+        "microphone",
+        "microphone stand"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

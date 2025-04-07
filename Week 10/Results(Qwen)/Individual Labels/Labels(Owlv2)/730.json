@@ -1,0 +1,26 @@
+{
+    "Image Path": "730.png",
+    "Original Labels": [
+        "demon",
+        "church",
+        "pastor",
+        "money",
+        "china wine",
+        "cross",
+        "salt light",
+        "harvey norman"
+    ],
+    "Correct Labels": [
+        "harvey norman",
+        "cross",
+        "demon",
+        "pastor"
+    ],
+    "Incorrect Labels": [
+        "church",
+        "money",
+        "china wine",
+        "salt light"
+    ],
+    "Precision": 0.5
+}

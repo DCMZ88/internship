@@ -1,0 +1,30 @@
+{
+    "Image Path": "745.jpg",
+    "Original Labels": [
+        "million",
+        "sticker",
+        "bye",
+        "export",
+        "arrow",
+        "cartoon",
+        "insta",
+        "direction",
+        "chicken",
+        "chinese character"
+    ],
+    "Correct Labels": [
+        "sticker",
+        "chinese character",
+        "insta",
+        "cartoon",
+        "million",
+        "arrow",
+        "chicken",
+        "bye"
+    ],
+    "Incorrect Labels": [
+        "export",
+        "direction"
+    ],
+    "Precision": 0.8
+}

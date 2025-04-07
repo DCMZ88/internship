@@ -1,0 +1,30 @@
+{
+    "Image Path": "561.png",
+    "Original Labels": [
+        "eye",
+        "glasses",
+        "pants",
+        "mouth",
+        "shirt",
+        "nose",
+        "man",
+        "hair",
+        "background",
+        "ear"
+    ],
+    "Correct Labels": [
+        "man",
+        "hair",
+        "nose",
+        "background",
+        "shirt",
+        "eye",
+        "mouth",
+        "ear",
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "pants"
+    ],
+    "Precision": 0.9
+}

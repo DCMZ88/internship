@@ -1,0 +1,40 @@
+{
+    "Image Path": "690.png",
+    "Original Labels": [
+        "lee kuan yew",
+        "crowd",
+        "flag",
+        "text",
+        "sick bed",
+        "grave",
+        "get up",
+        "leader",
+        "transition",
+        "corona virus",
+        "beer virus",
+        "zombie lee",
+        "oppo party",
+        "son",
+        "degenerates on youtube"
+    ],
+    "Correct Labels": [
+        "crowd",
+        "flag",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "lee kuan yew",
+        "sick bed",
+        "grave",
+        "get up",
+        "leader",
+        "transition",
+        "corona virus",
+        "beer virus",
+        "zombie lee",
+        "oppo party",
+        "son",
+        "degenerates on youtube"
+    ],
+    "Precision": 0.2
+}

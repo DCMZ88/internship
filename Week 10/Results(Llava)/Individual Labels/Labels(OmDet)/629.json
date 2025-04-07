@@ -1,0 +1,30 @@
+{
+    "Image Path": "629.jpg",
+    "Original Labels": [
+        "man wearing a shirt",
+        "man wearing a jacket",
+        "man wearing glasses",
+        "man wearing a suit",
+        "man wearing a tie clip",
+        "man wearing a tie",
+        "man wearing a watch",
+        "man wearing a pair of pants",
+        "man wearing a pair of shoes",
+        "man wearing a belt"
+    ],
+    "Correct Labels": [
+        "man wearing glasses",
+        "man wearing a shirt",
+        "man wearing a tie",
+        "man wearing a watch",
+        "man wearing a jacket"
+    ],
+    "Incorrect Labels": [
+        "man wearing a suit",
+        "man wearing a tie clip",
+        "man wearing a pair of pants",
+        "man wearing a pair of shoes",
+        "man wearing a belt"
+    ],
+    "Precision": 0.5
+}

@@ -1,0 +1,18 @@
+{
+    "Image Path": "568.jpg",
+    "Original Labels": [
+        "parti liyani's trial",
+        "judge",
+        "changi airport group chairman",
+        "karl liew"
+    ],
+    "Correct Labels": [
+        "judge"
+    ],
+    "Incorrect Labels": [
+        "parti liyani's trial",
+        "changi airport group chairman",
+        "karl liew"
+    ],
+    "Precision": 0.25
+}

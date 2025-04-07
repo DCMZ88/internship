@@ -1,0 +1,30 @@
+{
+    "Image Path": "666.jpg",
+    "Original Labels": [
+        "hair",
+        "steering wheel",
+        "shorts",
+        "shirt",
+        "mirror",
+        "seat belt",
+        "sunglasses",
+        "car",
+        "window",
+        "necklace"
+    ],
+    "Correct Labels": [
+        "car",
+        "sunglasses",
+        "necklace",
+        "shirt",
+        "seat belt",
+        "window",
+        "hair"
+    ],
+    "Incorrect Labels": [
+        "steering wheel",
+        "shorts",
+        "mirror"
+    ],
+    "Precision": 0.7
+}

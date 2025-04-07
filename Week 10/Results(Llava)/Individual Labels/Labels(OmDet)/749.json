@@ -1,0 +1,30 @@
+{
+    "Image Path": "749.jpg",
+    "Original Labels": [
+        "text",
+        "hill",
+        "sky",
+        "grass",
+        "microphone",
+        "logo",
+        "trees",
+        "television screen",
+        "man",
+        "podium"
+    ],
+    "Correct Labels": [
+        "podium",
+        "grass",
+        "man",
+        "logo",
+        "sky",
+        "television screen",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "hill",
+        "microphone",
+        "trees"
+    ],
+    "Precision": 0.7
+}

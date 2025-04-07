@@ -1,0 +1,30 @@
+{
+    "Image Path": "756.jpg",
+    "Original Labels": [
+        "screen",
+        "key",
+        "button",
+        "keyboard",
+        "excuse",
+        "speaker",
+        "season",
+        "cut-off time",
+        "upgrade button",
+        "finger"
+    ],
+    "Correct Labels": [
+        "keyboard",
+        "upgrade button",
+        "key",
+        "screen",
+        "button",
+        "finger"
+    ],
+    "Incorrect Labels": [
+        "excuse",
+        "speaker",
+        "season",
+        "cut-off time"
+    ],
+    "Precision": 0.6
+}

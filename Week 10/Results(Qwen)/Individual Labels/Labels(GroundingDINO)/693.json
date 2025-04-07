@@ -1,0 +1,26 @@
+{
+    "Image Path": "693.jpg",
+    "Original Labels": [
+        "wooden desk",
+        "toy",
+        "floor",
+        "glasses",
+        "desk",
+        "cat",
+        "wooden floor",
+        "lightning bolt"
+    ],
+    "Correct Labels": [
+        "wooden desk",
+        "toy",
+        "floor",
+        "glasses",
+        "desk",
+        "cat",
+        "wooden floor"
+    ],
+    "Incorrect Labels": [
+        "lightning bolt"
+    ],
+    "Precision": 0.875
+}

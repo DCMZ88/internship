@@ -1,0 +1,23 @@
+{
+    "Image Path": "583.jpg",
+    "Original Labels": [
+        "singapore",
+        "boomers",
+        "imh launches nationwide study to assess state of mental health among young people in singapore",
+        "study",
+        "young people",
+        "imh",
+        "pathetic"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "singapore",
+        "boomers",
+        "imh launches nationwide study to assess state of mental health among young people in singapore",
+        "study",
+        "young people",
+        "imh",
+        "pathetic"
+    ],
+    "Precision": 0.0
+}

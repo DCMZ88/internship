@@ -1,0 +1,29 @@
+{
+    "Image Path": "646.jpg",
+    "Original Labels": [
+        "tie",
+        "shirt",
+        "tie",
+        "shirt",
+        "tie",
+        "shirt",
+        "tie",
+        "shirt",
+        "tie",
+        "shirt",
+        "tie",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "shirt",
+        "shirt",
+        "shirt",
+        "shirt",
+        "shirt",
+        "shirt"
+    ],
+    "Precision": 0.08333333333333333
+}

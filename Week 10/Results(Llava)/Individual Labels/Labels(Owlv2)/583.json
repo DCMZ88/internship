@@ -1,0 +1,30 @@
+{
+    "Image Path": "583.jpg",
+    "Original Labels": [
+        "glasses",
+        "jacket",
+        "light",
+        "ceiling",
+        "hair",
+        "shirt",
+        "mustache",
+        "pants",
+        "wall",
+        "man"
+    ],
+    "Correct Labels": [
+        "mustache",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "glasses",
+        "jacket",
+        "light",
+        "ceiling",
+        "hair",
+        "shirt",
+        "pants",
+        "wall"
+    ],
+    "Precision": 0.2
+}

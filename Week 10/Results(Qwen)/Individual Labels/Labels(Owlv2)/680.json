@@ -1,0 +1,19 @@
+{
+    "Image Path": "680.jpg",
+    "Original Labels": [
+        "pcj",
+        "nicole leong",
+        "lisa lee",
+        "pm lee",
+        "tjc"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "pcj",
+        "nicole leong",
+        "lisa lee",
+        "pm lee",
+        "tjc"
+    ],
+    "Precision": 0.0
+}

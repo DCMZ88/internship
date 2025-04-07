@@ -1,0 +1,30 @@
+{
+    "Image Path": "758.jpg",
+    "Original Labels": [
+        "screen",
+        "text",
+        "computer",
+        "window",
+        "taskbar",
+        "icons",
+        "button",
+        "message",
+        "dialogue box",
+        "cursor"
+    ],
+    "Correct Labels": [
+        "screen",
+        "dialogue box"
+    ],
+    "Incorrect Labels": [
+        "text",
+        "computer",
+        "window",
+        "taskbar",
+        "icons",
+        "button",
+        "message",
+        "cursor"
+    ],
+    "Precision": 0.2
+}

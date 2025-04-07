@@ -1,0 +1,30 @@
+{
+    "Image Path": "530.jpg",
+    "Original Labels": [
+        "man in white shirt and black shoes",
+        "man in black jacket and blue jeans",
+        "man in white shirt",
+        "man in black jacket and black pants",
+        "man in black suit",
+        "man in black jacket",
+        "man in white shirt and black pants",
+        "man in white shirt and tie",
+        "man in black jacket and tie",
+        "man in white shirt and blue jeans"
+    ],
+    "Correct Labels": [
+        "man in black jacket",
+        "man in black jacket and tie",
+        "man in black jacket and blue jeans",
+        "man in black jacket and black pants",
+        "man in white shirt",
+        "man in white shirt and black shoes",
+        "man in white shirt and black pants",
+        "man in black suit",
+        "man in white shirt and tie"
+    ],
+    "Incorrect Labels": [
+        "man in white shirt and blue jeans"
+    ],
+    "Precision": 0.9
+}

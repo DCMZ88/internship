@@ -1,0 +1,30 @@
+{
+    "Image Path": "694.jpg",
+    "Original Labels": [
+        "hand holding glass",
+        "water",
+        "yellow stars",
+        "text on screen",
+        "glass",
+        "blue background",
+        "subtitles",
+        "hand",
+        "clear liquid",
+        "text"
+    ],
+    "Correct Labels": [
+        "glass",
+        "blue background",
+        "hand holding glass",
+        "yellow stars",
+        "clear liquid",
+        "text",
+        "water",
+        "subtitles"
+    ],
+    "Incorrect Labels": [
+        "text on screen",
+        "hand"
+    ],
+    "Precision": 0.8
+}

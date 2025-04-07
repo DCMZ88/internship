@@ -1,0 +1,28 @@
+{
+    "Image Path": "711.png",
+    "Original Labels": [
+        "box",
+        "screenshot",
+        "new",
+        "chat",
+        "star rating",
+        "panadol",
+        "price",
+        "make offer",
+        "singapore"
+    ],
+    "Correct Labels": [
+        "box",
+        "screenshot",
+        "new",
+        "make offer",
+        "panadol",
+        "chat"
+    ],
+    "Incorrect Labels": [
+        "star rating",
+        "price",
+        "singapore"
+    ],
+    "Precision": 0.667
+}

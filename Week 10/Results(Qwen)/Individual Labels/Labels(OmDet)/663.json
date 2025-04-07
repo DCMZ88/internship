@@ -1,0 +1,26 @@
+{
+    "Image Path": "663.jpg",
+    "Original Labels": [
+        "man",
+        "book",
+        "mood",
+        "woman",
+        "love",
+        "the",
+        "4k",
+        "in"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman",
+        "book",
+        "mood"
+    ],
+    "Incorrect Labels": [
+        "love",
+        "the",
+        "4k",
+        "in"
+    ],
+    "Precision": 0.5
+}

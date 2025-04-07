@@ -1,0 +1,29 @@
+{
+    "Image Path": "618.jpg",
+    "Original Labels": [
+        "image",
+        "letters",
+        "graphic",
+        "words",
+        "screen",
+        "picture",
+        "font",
+        "content",
+        "color",
+        "text"
+    ],
+    "Correct Labels": [
+        "image",
+        "letters",
+        "graphic",
+        "words",
+        "screen",
+        "picture",
+        "font",
+        "content",
+        "color",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

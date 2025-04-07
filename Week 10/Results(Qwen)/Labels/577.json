@@ -1,0 +1,30 @@
+{
+    "Image Path": "577.jpg",
+    "Original Labels": [
+        "chair",
+        "table",
+        "vase",
+        "plant",
+        "couch",
+        "laptop",
+        "laptop keyboard",
+        "laptop screen",
+        "laptop mouse",
+        "laptop webcam"
+    ],
+    "Correct Labels": [
+        "table",
+        "vase",
+        "couch"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "plant",
+        "laptop",
+        "laptop keyboard",
+        "laptop screen",
+        "laptop mouse",
+        "laptop webcam"
+    ],
+    "Precision": 0.3
+}

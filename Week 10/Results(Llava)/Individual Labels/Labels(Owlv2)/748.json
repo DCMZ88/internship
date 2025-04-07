@@ -1,0 +1,11 @@
+{
+    "Image Path": "748.jpg",
+    "Original Labels": [
+        "office workers, retail workers, non-essential, artists, mouth,"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "office workers, retail workers, non-essential, artists, mouth,"
+    ],
+    "Precision": 0.0
+}

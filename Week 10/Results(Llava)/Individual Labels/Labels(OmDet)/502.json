@@ -1,0 +1,13 @@
+{
+    "Image Path": "502.png",
+    "Original Labels": [
+        "microphone",
+        "man's hand"
+    ],
+    "Correct Labels": [
+        "man's hand",
+        "microphone"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

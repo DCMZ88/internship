@@ -1,0 +1,30 @@
+{
+    "Image Path": "523.jpg",
+    "Original Labels": [
+        "man",
+        "ball",
+        "sign",
+        "wild boars",
+        "leaf",
+        "meme",
+        "dog",
+        "woman",
+        "tree",
+        "national parks"
+    ],
+    "Correct Labels": [
+        "man",
+        "ball",
+        "sign",
+        "wild boars",
+        "leaf",
+        "dog",
+        "woman",
+        "tree",
+        "national parks"
+    ],
+    "Incorrect Labels": [
+        "meme"
+    ],
+    "Precision": 0.9
+}

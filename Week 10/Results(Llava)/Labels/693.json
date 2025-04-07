@@ -1,0 +1,30 @@
+{
+    "Image Path": "693.jpg",
+    "Original Labels": [
+        "cat",
+        "man's face",
+        "lightning bolt",
+        "wooden table",
+        "floor",
+        "wall",
+        "doorway",
+        "man's glasses",
+        "man's hair",
+        "man's shirt"
+    ],
+    "Correct Labels": [
+        "cat",
+        "floor"
+    ],
+    "Incorrect Labels": [
+        "man's face",
+        "lightning bolt",
+        "wooden table",
+        "wall",
+        "doorway",
+        "man's glasses",
+        "man's hair",
+        "man's shirt"
+    ],
+    "Precision": 0.2
+}

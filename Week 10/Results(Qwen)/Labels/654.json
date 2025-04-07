@@ -1,0 +1,30 @@
+{
+    "Image Path": "654.jpg",
+    "Original Labels": [
+        "car",
+        "door",
+        "window",
+        "spiderman",
+        "man",
+        "woman",
+        "ball",
+        "dog",
+        "car",
+        "door"
+    ],
+    "Correct Labels": [
+        "spiderman"
+    ],
+    "Incorrect Labels": [
+        "car",
+        "door",
+        "window",
+        "man",
+        "woman",
+        "ball",
+        "dog",
+        "car",
+        "door"
+    ],
+    "Precision": 0.1
+}

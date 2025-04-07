@@ -1,0 +1,27 @@
+{
+    "Image Path": "619.jpg",
+    "Original Labels": [
+        "parliament",
+        "high and mighty",
+        "debate",
+        "questions",
+        "grcs",
+        "leong mun wai",
+        "ot",
+        "wp",
+        "kevin hart"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "parliament",
+        "high and mighty",
+        "debate",
+        "questions",
+        "grcs",
+        "leong mun wai",
+        "ot",
+        "wp",
+        "kevin hart"
+    ],
+    "Precision": 0.0
+}

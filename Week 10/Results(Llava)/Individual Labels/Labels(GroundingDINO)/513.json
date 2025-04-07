@@ -1,0 +1,30 @@
+{
+    "Image Path": "513.jpg",
+    "Original Labels": [
+        "fish",
+        "character's shirt",
+        "character's mouth",
+        "character's hair",
+        "character's pants",
+        "bench",
+        "character",
+        "character's tie",
+        "character's glasses",
+        "sign"
+    ],
+    "Correct Labels": [
+        "fish",
+        "bench",
+        "character",
+        "sign"
+    ],
+    "Incorrect Labels": [
+        "character's shirt",
+        "character's mouth",
+        "character's hair",
+        "character's pants",
+        "character's tie",
+        "character's glasses"
+    ],
+    "Precision": 0.4
+}

@@ -1,0 +1,28 @@
+{
+    "Image Path": "558.jpg",
+    "Original Labels": [
+        "judge's wig",
+        "judge's desk",
+        "judge's gavel",
+        "courtroom",
+        "judge's robe",
+        "ken lim",
+        "judge's chair",
+        "judge",
+        "judge's bench"
+    ],
+    "Correct Labels": [
+        "courtroom",
+        "ken lim",
+        "judge"
+    ],
+    "Incorrect Labels": [
+        "judge's wig",
+        "judge's desk",
+        "judge's gavel",
+        "judge's robe",
+        "judge's chair",
+        "judge's bench"
+    ],
+    "Precision": 0.333
+}

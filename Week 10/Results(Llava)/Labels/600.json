@@ -1,0 +1,30 @@
+{
+    "Image Path": "600.jpg",
+    "Original Labels": [
+        "glass",
+        "wine glass",
+        "man",
+        "woman",
+        "speaker",
+        "microphone",
+        "text",
+        "image",
+        "words",
+        "letter"
+    ],
+    "Correct Labels": [
+        "wine glass",
+        "man",
+        "speaker",
+        "words"
+    ],
+    "Incorrect Labels": [
+        "glass",
+        "woman",
+        "microphone",
+        "text",
+        "image",
+        "letter"
+    ],
+    "Precision": 0.4
+}

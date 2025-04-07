@@ -1,0 +1,30 @@
+{
+    "Image Path": "641.jpg",
+    "Original Labels": [
+        "flowers",
+        "man",
+        "roses",
+        "boxes",
+        "table",
+        "pavement",
+        "buildings",
+        "sky",
+        "clouds",
+        "trees"
+    ],
+    "Correct Labels": [
+        "flowers",
+        "man",
+        "boxes",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "roses",
+        "pavement",
+        "buildings",
+        "sky",
+        "clouds",
+        "trees"
+    ],
+    "Precision": 0.4
+}

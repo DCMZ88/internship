@@ -1,0 +1,30 @@
+{
+    "Image Path": "537.jpg",
+    "Original Labels": [
+        "driver",
+        "lodges police report",
+        "grass",
+        "lodges",
+        "run",
+        "culprit",
+        "hit",
+        "bicycle",
+        "police report",
+        "road"
+    ],
+    "Correct Labels": [
+        "bicycle",
+        "driver",
+        "lodges police report",
+        "lodges"
+    ],
+    "Incorrect Labels": [
+        "grass",
+        "run",
+        "culprit",
+        "hit",
+        "police report",
+        "road"
+    ],
+    "Precision": 0.4
+}

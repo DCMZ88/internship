@@ -1,0 +1,30 @@
+{
+    "Image Path": "711.png",
+    "Original Labels": [
+        "color",
+        "text",
+        "number",
+        "star rating",
+        "button",
+        "brand name",
+        "logo",
+        "pillow",
+        "caplet",
+        "box"
+    ],
+    "Correct Labels": [
+        "box",
+        "brand name",
+        "text",
+        "logo",
+        "number",
+        "button"
+    ],
+    "Incorrect Labels": [
+        "color",
+        "star rating",
+        "pillow",
+        "caplet"
+    ],
+    "Precision": 0.6
+}

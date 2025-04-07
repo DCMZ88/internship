@@ -1,0 +1,30 @@
+{
+    "Image Path": "672.png",
+    "Original Labels": [
+        "cup",
+        "chair",
+        "paper",
+        "computer",
+        "keyboard",
+        "mouse",
+        "desk",
+        "bottle",
+        "monitor",
+        "pen"
+    ],
+    "Correct Labels": [
+        "cup",
+        "mouse",
+        "desk",
+        "bottle",
+        "monitor",
+        "pen"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "paper",
+        "computer",
+        "keyboard"
+    ],
+    "Precision": 0.6
+}

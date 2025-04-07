@@ -1,0 +1,30 @@
+{
+    "Image Path": "510.png",
+    "Original Labels": [
+        "ball",
+        "flag",
+        "computer monitor",
+        "dog",
+        "woman",
+        "keyboard",
+        "television",
+        "mouse",
+        "bookshelf",
+        "refrigerator"
+    ],
+    "Correct Labels": [
+        "flag",
+        "computer monitor",
+        "dog",
+        "woman",
+        "television",
+        "bookshelf",
+        "refrigerator"
+    ],
+    "Incorrect Labels": [
+        "ball",
+        "keyboard",
+        "mouse"
+    ],
+    "Precision": 0.7
+}

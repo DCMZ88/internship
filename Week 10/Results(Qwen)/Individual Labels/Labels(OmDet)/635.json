@@ -1,0 +1,28 @@
+{
+    "Image Path": "635.png",
+    "Original Labels": [
+        "cpb",
+        "man",
+        "committee",
+        "offense",
+        "acq",
+        "woman",
+        "misconduct",
+        "investigation",
+        "court"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman",
+        "offense",
+        "cpb",
+        "misconduct",
+        "acq"
+    ],
+    "Incorrect Labels": [
+        "committee",
+        "investigation",
+        "court"
+    ],
+    "Precision": 0.667
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "705.jpg",
+    "Original Labels": [
+        "paintbrush",
+        "skin",
+        "muscle",
+        "color",
+        "artwork",
+        "paint",
+        "brushstroke",
+        "arm",
+        "canvas",
+        "portrait"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "paintbrush",
+        "skin",
+        "muscle",
+        "color",
+        "artwork",
+        "paint",
+        "brushstroke",
+        "arm",
+        "canvas",
+        "portrait"
+    ],
+    "Precision": 0.0
+}

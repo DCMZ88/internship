@@ -1,0 +1,30 @@
+{
+    "Image Path": "505.jpg",
+    "Original Labels": [
+        "text",
+        "mouth",
+        "hand",
+        "squinting",
+        "shirt",
+        "eyes",
+        "nose",
+        "man",
+        "hair",
+        "sweater"
+    ],
+    "Correct Labels": [
+        "text",
+        "shirt",
+        "hand",
+        "mouth",
+        "man",
+        "sweater",
+        "hair",
+        "eyes",
+        "nose"
+    ],
+    "Incorrect Labels": [
+        "squinting"
+    ],
+    "Precision": 0.9
+}

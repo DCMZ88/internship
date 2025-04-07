@@ -1,0 +1,30 @@
+{
+    "Image Path": "529.jpg",
+    "Original Labels": [
+        "glasses",
+        "nose",
+        "keyboard",
+        "mouth",
+        "uniform",
+        "elbow",
+        "ear",
+        "hat",
+        "gun",
+        "shoulder"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "nose",
+        "keyboard",
+        "mouth",
+        "uniform",
+        "elbow",
+        "hat",
+        "gun",
+        "shoulder"
+    ],
+    "Incorrect Labels": [
+        "ear"
+    ],
+    "Precision": 0.9
+}

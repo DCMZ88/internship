@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "tiles",
+        "wall",
+        "floor",
+        "character",
+        "hair",
+        "clothing",
+        "logo",
+        "text",
+        "number",
+        "word"
+    ]
+}

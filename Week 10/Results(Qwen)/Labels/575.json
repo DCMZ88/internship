@@ -1,0 +1,27 @@
+{
+    "Image Path": "575.jpg",
+    "Original Labels": [
+        "f5",
+        "button",
+        "hand",
+        "person",
+        "button",
+        "hand",
+        "person",
+        "button",
+        "hand",
+        "person",
+        "button",
+        "hand",
+        "person"
+    ],
+    "Correct Labels": [
+        "button",
+        "hand",
+        "person"
+    ],
+    "Incorrect Labels": [
+        "f5"
+    ],
+    "Precision": 0.23076923076923078
+}

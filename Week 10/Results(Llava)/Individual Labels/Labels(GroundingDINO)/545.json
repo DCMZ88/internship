@@ -1,0 +1,29 @@
+{
+    "Image Path": "545.jpg",
+    "Original Labels": [
+        "curtain",
+        "shirt",
+        "audience",
+        "tie",
+        "jacket",
+        "spotlight",
+        "suit",
+        "microphone",
+        "stage",
+        "text"
+    ],
+    "Correct Labels": [
+        "curtain",
+        "shirt",
+        "audience",
+        "tie",
+        "jacket",
+        "spotlight",
+        "suit",
+        "microphone",
+        "stage",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

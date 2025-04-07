@@ -1,0 +1,30 @@
+{
+    "Image Path": "709.png",
+    "Original Labels": [
+        "amk sers",
+        "citizens by registration",
+        "petition",
+        "parliament",
+        "ns",
+        "5 signatures",
+        "leong mun wai",
+        "spider-man",
+        "hero",
+        "suspended"
+    ],
+    "Correct Labels": [
+        "hero",
+        "5 signatures",
+        "citizens by registration",
+        "amk sers"
+    ],
+    "Incorrect Labels": [
+        "petition",
+        "parliament",
+        "ns",
+        "leong mun wai",
+        "spider-man",
+        "suspended"
+    ],
+    "Precision": 0.4
+}

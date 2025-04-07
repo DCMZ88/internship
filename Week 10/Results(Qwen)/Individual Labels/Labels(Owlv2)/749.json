@@ -1,0 +1,20 @@
+{
+    "Image Path": "749.jpg",
+    "Original Labels": [
+        "podium",
+        "man",
+        "microphone",
+        "screen",
+        "text"
+    ],
+    "Correct Labels": [
+        "podium"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "microphone",
+        "screen",
+        "text"
+    ],
+    "Precision": 0.1
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "761.jpg",
+    "Original Labels": [
+        "icon",
+        "video thumbnail",
+        "text",
+        "video player interface",
+        "image",
+        "text box",
+        "video play button",
+        "button",
+        "menu",
+        "screen"
+    ],
+    "Correct Labels": [
+        "text box",
+        "icon",
+        "text",
+        "image"
+    ],
+    "Incorrect Labels": [
+        "video thumbnail",
+        "video player interface",
+        "video play button",
+        "button",
+        "menu",
+        "screen"
+    ],
+    "Precision": 0.4
+}

@@ -1,0 +1,28 @@
+{
+    "Image Path": "721.png",
+    "Original Labels": [
+        "sph media titles",
+        "singapore",
+        "sph",
+        "daily circulation numbers",
+        "copies",
+        "printed",
+        "counted",
+        "destroyed",
+        "you have become the very thing you swore to destroy"
+    ],
+    "Correct Labels": [
+        "sph media titles"
+    ],
+    "Incorrect Labels": [
+        "singapore",
+        "sph",
+        "daily circulation numbers",
+        "copies",
+        "printed",
+        "counted",
+        "destroyed",
+        "you have become the very thing you swore to destroy"
+    ],
+    "Precision": 0.1111111111111111
+}

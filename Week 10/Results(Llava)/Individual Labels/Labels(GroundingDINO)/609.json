@@ -1,0 +1,29 @@
+{
+    "Image Path": "609.jpg",
+    "Original Labels": [
+        "fire hydrant",
+        "windows",
+        "smoke",
+        "door",
+        "trees",
+        "firefighter",
+        "fire hose",
+        "fire truck",
+        "sky",
+        "house"
+    ],
+    "Correct Labels": [
+        "fire hydrant",
+        "windows",
+        "smoke",
+        "door",
+        "trees",
+        "firefighter",
+        "fire hose",
+        "fire truck",
+        "sky",
+        "house"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

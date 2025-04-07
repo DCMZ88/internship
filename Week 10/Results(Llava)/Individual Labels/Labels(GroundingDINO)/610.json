@@ -1,0 +1,30 @@
+{
+    "Image Path": "610.jpg",
+    "Original Labels": [
+        "chair",
+        "iron",
+        "ironing board",
+        "ironing shirt pocket",
+        "ironing shirt cuff",
+        "ironing shirt",
+        "table",
+        "ironing iron",
+        "ironing board cover",
+        "ironing shirt collar"
+    ],
+    "Correct Labels": [
+        "chair",
+        "iron",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "ironing board",
+        "ironing shirt pocket",
+        "ironing shirt cuff",
+        "ironing shirt",
+        "ironing iron",
+        "ironing board cover",
+        "ironing shirt collar"
+    ],
+    "Precision": 0.3
+}

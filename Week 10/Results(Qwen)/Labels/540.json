@@ -1,0 +1,30 @@
+{
+    "Image Path": "540.jpg",
+    "Original Labels": [
+        "desk",
+        "chair",
+        "paper",
+        "pen",
+        "table",
+        "person",
+        "cartoon",
+        "comic",
+        "money",
+        "price tag"
+    ],
+    "Correct Labels": [
+        "desk",
+        "paper",
+        "cartoon",
+        "price tag"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "pen",
+        "table",
+        "person",
+        "comic",
+        "money"
+    ],
+    "Precision": 0.4
+}

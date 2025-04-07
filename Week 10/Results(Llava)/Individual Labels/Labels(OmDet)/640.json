@@ -1,0 +1,30 @@
+{
+    "Image Path": "640.jpg",
+    "Original Labels": [
+        "color",
+        "text font",
+        "text",
+        "flagpole",
+        "image background",
+        "flag",
+        "letter",
+        "lettering",
+        "word",
+        "color contrast"
+    ],
+    "Correct Labels": [
+        "flag",
+        "text font",
+        "text",
+        "lettering",
+        "flagpole",
+        "color",
+        "image background",
+        "letter"
+    ],
+    "Incorrect Labels": [
+        "word",
+        "color contrast"
+    ],
+    "Precision": 0.8
+}

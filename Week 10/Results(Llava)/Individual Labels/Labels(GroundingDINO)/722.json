@@ -1,0 +1,30 @@
+{
+    "Image Path": "722.png",
+    "Original Labels": [
+        "cityscape",
+        "cat",
+        "clouds",
+        "orange",
+        "hat",
+        "buildings",
+        "sunset",
+        "red",
+        "text",
+        "sky"
+    ],
+    "Correct Labels": [
+        "cityscape",
+        "cat",
+        "clouds",
+        "hat",
+        "buildings",
+        "sunset",
+        "text",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "orange",
+        "red"
+    ],
+    "Precision": 0.8
+}

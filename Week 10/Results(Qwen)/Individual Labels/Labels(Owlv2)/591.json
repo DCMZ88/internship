@@ -1,0 +1,30 @@
+{
+    "Image Path": "591.jpg",
+    "Original Labels": [
+        "table",
+        "leon perera",
+        "cheng li hui",
+        "nicole seah",
+        "flag",
+        "chessboard",
+        "chess pieces",
+        "chair",
+        "tan chuan jin",
+        "clock"
+    ],
+    "Correct Labels": [
+        "chess pieces",
+        "chessboard"
+    ],
+    "Incorrect Labels": [
+        "table",
+        "leon perera",
+        "cheng li hui",
+        "nicole seah",
+        "flag",
+        "chair",
+        "tan chuan jin",
+        "clock"
+    ],
+    "Precision": 0.2
+}

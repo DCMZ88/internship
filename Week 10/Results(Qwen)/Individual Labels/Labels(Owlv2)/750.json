@@ -1,0 +1,30 @@
+{
+    "Image Path": "750.jpg",
+    "Original Labels": [
+        "rice",
+        "spoon",
+        "bow tie",
+        "bow",
+        "chopsticks",
+        "glasses",
+        "shirt",
+        "ariel",
+        "bowl",
+        "hat"
+    ],
+    "Correct Labels": [
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "rice",
+        "spoon",
+        "bow tie",
+        "bow",
+        "chopsticks",
+        "shirt",
+        "ariel",
+        "bowl",
+        "hat"
+    ],
+    "Precision": 0.1
+}

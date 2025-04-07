@@ -1,0 +1,29 @@
+{
+    "Image Path": "602.jpg",
+    "Original Labels": [
+        "nose",
+        "curtain",
+        "mouth",
+        "eyes",
+        "tie",
+        "collar",
+        "ear",
+        "hand",
+        "suit",
+        "hair"
+    ],
+    "Correct Labels": [
+        "nose",
+        "curtain",
+        "mouth",
+        "eyes",
+        "tie",
+        "collar",
+        "ear",
+        "hand",
+        "suit",
+        "hair"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

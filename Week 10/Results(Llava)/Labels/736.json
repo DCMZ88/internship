@@ -1,0 +1,30 @@
+{
+    "Image Path": "736.jpg",
+    "Original Labels": [
+        "infinity symbol",
+        "galaxy",
+        "man in black turtleneck",
+        "man in black turtleneck",
+        "man in black turtleneck",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "man in black turtleneck"
+    ],
+    "Correct Labels": [
+        "infinity symbol"
+    ],
+    "Incorrect Labels": [
+        "galaxy",
+        "man in black turtleneck",
+        "man in black turtleneck",
+        "man in black turtleneck",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "woman in blue shirt",
+        "man in black turtleneck"
+    ],
+    "Precision": 0.1
+}

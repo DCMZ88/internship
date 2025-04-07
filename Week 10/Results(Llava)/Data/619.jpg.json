@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "text",
+        "image",
+        "man",
+        "smile",
+        "frown",
+        "mouth",
+        "nose",
+        "eyes",
+        "ear",
+        "hair"
+    ]
+}

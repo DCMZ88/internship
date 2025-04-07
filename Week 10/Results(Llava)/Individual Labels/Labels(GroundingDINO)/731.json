@@ -1,0 +1,30 @@
+{
+    "Image Path": "731.jpg",
+    "Original Labels": [
+        "cone",
+        "drawing",
+        "candle",
+        "logo",
+        "card",
+        "table",
+        "letter",
+        "number",
+        "can opener",
+        "can"
+    ],
+    "Correct Labels": [
+        "drawing",
+        "logo",
+        "card",
+        "table",
+        "letter",
+        "number",
+        "can"
+    ],
+    "Incorrect Labels": [
+        "cone",
+        "candle",
+        "can opener"
+    ],
+    "Precision": 0.7
+}

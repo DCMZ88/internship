@@ -1,0 +1,30 @@
+{
+    "Image Path": "516.jpg",
+    "Original Labels": [
+        "bed",
+        "comic book",
+        "wolverine",
+        "temperature",
+        "weather",
+        "cny",
+        "hand",
+        "umbrella",
+        "hat",
+        "suitcase"
+    ],
+    "Correct Labels": [
+        "comic book",
+        "hand",
+        "umbrella"
+    ],
+    "Incorrect Labels": [
+        "bed",
+        "wolverine",
+        "temperature",
+        "weather",
+        "cny",
+        "hat",
+        "suitcase"
+    ],
+    "Precision": 0.3
+}

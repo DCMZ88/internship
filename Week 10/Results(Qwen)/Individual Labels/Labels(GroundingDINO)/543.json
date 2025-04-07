@@ -1,0 +1,28 @@
+{
+    "Image Path": "543.jpg",
+    "Original Labels": [
+        "person",
+        "lanyard",
+        "anxiety",
+        "may i have a seat please?",
+        "speech bubble",
+        "monkey",
+        "seat",
+        "public transport",
+        "text"
+    ],
+    "Correct Labels": [
+        "person",
+        "lanyard",
+        "anxiety",
+        "speech bubble",
+        "monkey",
+        "seat",
+        "public transport",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "may i have a seat please?"
+    ],
+    "Precision": 0.889
+}

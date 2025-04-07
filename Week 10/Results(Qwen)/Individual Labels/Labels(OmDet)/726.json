@@ -1,0 +1,22 @@
+{
+    "Image Path": "726.png",
+    "Original Labels": [
+        "just creepy",
+        "creepy",
+        "patriot",
+        "pap stooge 2",
+        "christian stoooge",
+        "singapore"
+    ],
+    "Correct Labels": [
+        "pap stooge 2",
+        "patriot",
+        "christian stoooge",
+        "creepy"
+    ],
+    "Incorrect Labels": [
+        "just creepy",
+        "singapore"
+    ],
+    "Precision": 0.667
+}

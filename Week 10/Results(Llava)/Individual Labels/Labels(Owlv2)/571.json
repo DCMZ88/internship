@@ -1,0 +1,30 @@
+{
+    "Image Path": "571.jpg",
+    "Original Labels": [
+        "shoes",
+        "wall",
+        "door",
+        "number",
+        "jersey",
+        "stairs",
+        "basketball",
+        "sign",
+        "ball",
+        "court"
+    ],
+    "Correct Labels": [
+        "basketball",
+        "jersey",
+        "stairs",
+        "court"
+    ],
+    "Incorrect Labels": [
+        "shoes",
+        "wall",
+        "door",
+        "number",
+        "sign",
+        "ball"
+    ],
+    "Precision": 0.4
+}

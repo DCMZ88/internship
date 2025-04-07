@@ -1,0 +1,33 @@
+{
+    "Image Path": "675.jpg",
+    "Original Labels": [
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom",
+        "judge",
+        "lawyer",
+        "courtroom"
+    ],
+    "Precision": 0.0
+}

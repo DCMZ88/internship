@@ -1,0 +1,30 @@
+{
+    "Image Path": "675.jpg",
+    "Original Labels": [
+        "paper",
+        "chair",
+        "seal",
+        "screen",
+        "pen",
+        "microphone",
+        "judge's robe",
+        "desk",
+        "clock",
+        "phone"
+    ],
+    "Correct Labels": [
+        "chair",
+        "screen",
+        "pen",
+        "microphone",
+        "desk"
+    ],
+    "Incorrect Labels": [
+        "paper",
+        "seal",
+        "judge's robe",
+        "clock",
+        "phone"
+    ],
+    "Precision": 0.5
+}

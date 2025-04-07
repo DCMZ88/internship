@@ -1,0 +1,20 @@
+{
+    "Image Path": "528.jpg",
+    "Original Labels": [
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train"
+    ],
+    "Correct Labels": [
+        "train"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 0.1
+}

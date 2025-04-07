@@ -1,0 +1,30 @@
+{
+    "Image Path": "644.jpg",
+    "Original Labels": [
+        "tie",
+        "poster",
+        "microphone",
+        "text",
+        "glasses",
+        "letter",
+        "color",
+        "shirt",
+        "flag",
+        "man"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "man",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "poster",
+        "text",
+        "letter",
+        "color",
+        "shirt",
+        "flag"
+    ],
+    "Precision": 0.3
+}

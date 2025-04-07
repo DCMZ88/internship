@@ -1,0 +1,29 @@
+{
+    "Image Path": "733.jpg",
+    "Original Labels": [
+        "man",
+        "words",
+        "bottle",
+        "hand",
+        "water",
+        "glass",
+        "tap",
+        "water bottle",
+        "label",
+        "text"
+    ],
+    "Correct Labels": [
+        "man",
+        "words",
+        "bottle",
+        "hand",
+        "water",
+        "glass",
+        "tap",
+        "water bottle",
+        "label",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

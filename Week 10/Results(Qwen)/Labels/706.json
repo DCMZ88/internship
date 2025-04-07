@@ -1,0 +1,29 @@
+{
+    "Image Path": "706.png",
+    "Original Labels": [
+        "trump",
+        "microphone",
+        "podium",
+        "suit",
+        "tie",
+        "flag",
+        "text",
+        "quote",
+        "background",
+        "text"
+    ],
+    "Correct Labels": [
+        "trump",
+        "microphone",
+        "suit",
+        "tie",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "podium",
+        "flag",
+        "quote",
+        "background"
+    ],
+    "Precision": 0.5
+}

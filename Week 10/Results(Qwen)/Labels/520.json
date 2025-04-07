@@ -1,0 +1,30 @@
+{
+    "Image Path": "520.jpg",
+    "Original Labels": [
+        "book",
+        "tie",
+        "shirt",
+        "man",
+        "book cover",
+        "tie knot",
+        "shirt collar",
+        "man's face",
+        "man's hand",
+        "man's arm"
+    ],
+    "Correct Labels": [
+        "tie",
+        "shirt",
+        "man",
+        "book cover",
+        "tie knot",
+        "shirt collar"
+    ],
+    "Incorrect Labels": [
+        "book",
+        "man's face",
+        "man's hand",
+        "man's arm"
+    ],
+    "Precision": 0.6
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "519.jpg",
+    "Original Labels": [
+        "dog",
+        "chair",
+        "table",
+        "fire",
+        "cup",
+        "hat",
+        "smoke",
+        "fireplace",
+        "fire extinguisher",
+        "fire hydrant"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "dog",
+        "chair",
+        "table",
+        "fire",
+        "cup",
+        "hat",
+        "smoke",
+        "fireplace",
+        "fire extinguisher",
+        "fire hydrant"
+    ],
+    "Precision": 0.0
+}

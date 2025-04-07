@@ -1,0 +1,30 @@
+{
+    "Image Path": "722.png",
+    "Original Labels": [
+        "cat",
+        "hat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat"
+    ],
+    "Correct Labels": [
+        "hat"
+    ],
+    "Incorrect Labels": [
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat"
+    ],
+    "Precision": 0.1
+}

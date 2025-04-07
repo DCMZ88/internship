@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "flag",
+        "text",
+        "symbol",
+        "letter",
+        "number",
+        "punctuation",
+        "color",
+        "word",
+        "emoji",
+        "icon"
+    ]
+}

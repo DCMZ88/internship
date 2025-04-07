@@ -1,0 +1,30 @@
+{
+    "Image Path": "703.jpg",
+    "Original Labels": [
+        "easel",
+        "marker",
+        "paper",
+        "character",
+        "office",
+        "desk",
+        "wall",
+        "character's hand",
+        "character's face",
+        "character's hair"
+    ],
+    "Correct Labels": [
+        "character"
+    ],
+    "Incorrect Labels": [
+        "easel",
+        "marker",
+        "paper",
+        "office",
+        "desk",
+        "wall",
+        "character's hand",
+        "character's face",
+        "character's hair"
+    ],
+    "Precision": 0.1
+}

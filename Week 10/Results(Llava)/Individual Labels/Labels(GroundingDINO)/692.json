@@ -1,0 +1,30 @@
+{
+    "Image Path": "692.jpg",
+    "Original Labels": [
+        "flag",
+        "graphic",
+        "border",
+        "letter",
+        "map",
+        "icon",
+        "country name",
+        "number",
+        "distance measurement",
+        "text"
+    ],
+    "Correct Labels": [
+        "graphic",
+        "border",
+        "letter",
+        "map",
+        "icon",
+        "country name",
+        "number",
+        "distance measurement",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "flag"
+    ],
+    "Precision": 0.9
+}

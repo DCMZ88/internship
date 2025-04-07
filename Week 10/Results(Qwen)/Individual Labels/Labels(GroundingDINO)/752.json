@@ -1,0 +1,26 @@
+{
+    "Image Path": "752.jpg",
+    "Original Labels": [
+        "support",
+        "police",
+        "permit",
+        "card",
+        "hawkers",
+        "oprah winfrey",
+        "mp",
+        "placard"
+    ],
+    "Correct Labels": [
+        "support",
+        "police",
+        "permit",
+        "hawkers",
+        "oprah winfrey",
+        "mp",
+        "placard"
+    ],
+    "Incorrect Labels": [
+        "card"
+    ],
+    "Precision": 0.875
+}

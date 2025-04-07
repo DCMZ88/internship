@@ -1,0 +1,29 @@
+{
+    "Image Path": "630.jpg",
+    "Original Labels": [
+        "window",
+        "man",
+        "door",
+        "window sill",
+        "floor lamp",
+        "laptop",
+        "floor",
+        "tree",
+        "wall",
+        "ceiling"
+    ],
+    "Correct Labels": [
+        "window",
+        "man",
+        "door",
+        "window sill",
+        "floor lamp",
+        "laptop",
+        "floor",
+        "tree",
+        "wall",
+        "ceiling"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

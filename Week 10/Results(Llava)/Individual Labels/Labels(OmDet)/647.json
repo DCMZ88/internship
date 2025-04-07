@@ -1,0 +1,30 @@
+{
+    "Image Path": "647.jpg",
+    "Original Labels": [
+        "mouth",
+        "finger",
+        "hand",
+        "eyes",
+        "nose",
+        "mustache",
+        "man",
+        "hood",
+        "jacket",
+        "beard"
+    ],
+    "Correct Labels": [
+        "jacket",
+        "man",
+        "hand",
+        "hood",
+        "finger",
+        "beard",
+        "mustache",
+        "eyes",
+        "mouth"
+    ],
+    "Incorrect Labels": [
+        "nose"
+    ],
+    "Precision": 0.9
+}

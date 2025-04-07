@@ -1,0 +1,30 @@
+{
+    "Image Path": "727.png",
+    "Original Labels": [
+        "eyes",
+        "tie",
+        "ear",
+        "microphone",
+        "suit",
+        "mouth",
+        "desk",
+        "hair",
+        "chair",
+        "nose"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "chair",
+        "hair",
+        "eyes",
+        "suit",
+        "desk"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "ear",
+        "mouth",
+        "nose"
+    ],
+    "Precision": 0.6
+}

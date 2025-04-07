@@ -1,0 +1,29 @@
+{
+    "Image Path": "527.jpg",
+    "Original Labels": [
+        "shirt",
+        "tie",
+        "wall",
+        "percentage",
+        "door",
+        "character",
+        "word",
+        "number",
+        "text",
+        "vest"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "tie",
+        "wall",
+        "percentage",
+        "door",
+        "character",
+        "word",
+        "number",
+        "text",
+        "vest"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

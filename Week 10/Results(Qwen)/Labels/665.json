@@ -1,0 +1,30 @@
+{
+    "Image Path": "665.jpg",
+    "Original Labels": [
+        "dog",
+        "woman",
+        "ball",
+        "wine glass",
+        "table",
+        "chair",
+        "hand",
+        "leg",
+        "door",
+        "wall"
+    ],
+    "Correct Labels": [
+        "wine glass",
+        "chair",
+        "door"
+    ],
+    "Incorrect Labels": [
+        "dog",
+        "woman",
+        "ball",
+        "table",
+        "hand",
+        "leg",
+        "wall"
+    ],
+    "Precision": 0.3
+}

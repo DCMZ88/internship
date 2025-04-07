@@ -1,0 +1,26 @@
+{
+    "Image Path": "581.jpg",
+    "Original Labels": [
+        "thomas",
+        "train",
+        "hell",
+        "ass",
+        "ai",
+        "demand",
+        "engine",
+        "train timings"
+    ],
+    "Correct Labels": [
+        "thomas",
+        "train"
+    ],
+    "Incorrect Labels": [
+        "hell",
+        "ass",
+        "ai",
+        "demand",
+        "engine",
+        "train timings"
+    ],
+    "Precision": 0.25
+}

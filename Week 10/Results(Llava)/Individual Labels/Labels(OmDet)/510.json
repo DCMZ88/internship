@@ -1,0 +1,30 @@
+{
+    "Image Path": "510.png",
+    "Original Labels": [
+        "door",
+        "shelf",
+        "television",
+        "screen",
+        "flag",
+        "cup",
+        "bottle",
+        "hair",
+        "necklace",
+        "wall"
+    ],
+    "Correct Labels": [
+        "cup",
+        "television",
+        "necklace",
+        "bottle",
+        "shelf",
+        "screen",
+        "door",
+        "flag",
+        "wall"
+    ],
+    "Incorrect Labels": [
+        "hair"
+    ],
+    "Precision": 0.9
+}

@@ -1,0 +1,28 @@
+{
+    "Image Path": "682.png",
+    "Original Labels": [
+        "man",
+        "shirt",
+        "beard",
+        "jacket",
+        "yellow background",
+        "text",
+        "conclusion",
+        "own yourself",
+        "draw your own conclusions"
+    ],
+    "Correct Labels": [
+        "man",
+        "beard",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "shirt",
+        "jacket",
+        "yellow background",
+        "conclusion",
+        "own yourself",
+        "draw your own conclusions"
+    ],
+    "Precision": 0.3333333333333333
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "529.jpg",
+    "Original Labels": [
+        "military",
+        "soldier",
+        "uniform",
+        "gun",
+        "formation",
+        "hat",
+        "camouflage",
+        "keyboard",
+        "stance",
+        "glasses"
+    ],
+    "Correct Labels": [
+        "hat",
+        "keyboard",
+        "military",
+        "camouflage",
+        "soldier",
+        "uniform",
+        "glasses",
+        "formation"
+    ],
+    "Incorrect Labels": [
+        "gun",
+        "stance"
+    ],
+    "Precision": 0.8
+}

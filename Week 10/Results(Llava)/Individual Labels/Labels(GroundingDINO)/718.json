@@ -1,0 +1,30 @@
+{
+    "Image Path": "718.png",
+    "Original Labels": [
+        "blurred background",
+        "blurred vehicles",
+        "tie",
+        "man",
+        "text",
+        "car",
+        "suit",
+        "road",
+        "blurred people",
+        "watch"
+    ],
+    "Correct Labels": [
+        "blurred vehicles",
+        "tie",
+        "man",
+        "text",
+        "car",
+        "suit",
+        "road",
+        "watch"
+    ],
+    "Incorrect Labels": [
+        "blurred background",
+        "blurred people"
+    ],
+    "Precision": 0.8
+}

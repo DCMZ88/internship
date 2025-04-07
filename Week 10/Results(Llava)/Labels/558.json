@@ -1,0 +1,29 @@
+{
+    "Image Path": "558.jpg",
+    "Original Labels": [
+        "elevator buttons",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "elevator buttons",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face",
+        "cartoon character's face"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "wall",
+        "fence",
+        "street",
+        "sidewalk",
+        "building",
+        "tree",
+        "sky",
+        "ground",
+        "person",
+        "tank top"
+    ]
+}

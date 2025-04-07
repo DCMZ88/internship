@@ -1,0 +1,29 @@
+{
+    "Image Path": "737.jpg",
+    "Original Labels": [
+        "prisoners",
+        "orange jumpsuits",
+        "jail cell",
+        "chain link fence",
+        "cell door",
+        "wall",
+        "ceiling",
+        "floor",
+        "window",
+        "door"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "prisoners",
+        "orange jumpsuits",
+        "jail cell",
+        "chain link fence",
+        "cell door",
+        "wall",
+        "ceiling",
+        "floor",
+        "window",
+        "door"
+    ],
+    "Precision": 0.0
+}

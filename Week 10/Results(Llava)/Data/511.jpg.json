@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "man",
+        "woman",
+        "robot",
+        "camera",
+        "airport",
+        "sign",
+        "seat",
+        "floor",
+        "wall",
+        "door"
+    ]
+}

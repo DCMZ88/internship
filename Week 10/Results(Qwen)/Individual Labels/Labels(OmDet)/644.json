@@ -1,0 +1,16 @@
+{
+    "Image Path": "644.jpg",
+    "Original Labels": [
+        "green flag",
+        "pritam singh",
+        "red flag"
+    ],
+    "Correct Labels": [
+        "red flag",
+        "green flag"
+    ],
+    "Incorrect Labels": [
+        "pritam singh"
+    ],
+    "Precision": 0.667
+}

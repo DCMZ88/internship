@@ -1,0 +1,30 @@
+{
+    "Image Path": "509.jpg",
+    "Original Labels": [
+        "television",
+        "tie",
+        "character",
+        "suit",
+        "text",
+        "news",
+        "gears",
+        "grinds",
+        "singaporeans",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "text",
+        "news",
+        "character",
+        "television",
+        "suit",
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "gears",
+        "grinds",
+        "singaporeans",
+        "shirt"
+    ],
+    "Precision": 0.6
+}

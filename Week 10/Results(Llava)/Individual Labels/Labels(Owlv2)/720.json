@@ -1,0 +1,30 @@
+{
+    "Image Path": "720.png",
+    "Original Labels": [
+        "comforter",
+        "mattress",
+        "pillow",
+        "pillowcase",
+        "sheets",
+        "pillow with floral pattern",
+        "blanket",
+        "blanket with floral pattern",
+        "bed",
+        "mattress cover"
+    ],
+    "Correct Labels": [
+        "pillow",
+        "bed",
+        "sheets"
+    ],
+    "Incorrect Labels": [
+        "comforter",
+        "mattress",
+        "pillowcase",
+        "pillow with floral pattern",
+        "blanket",
+        "blanket with floral pattern",
+        "mattress cover"
+    ],
+    "Precision": 0.3
+}

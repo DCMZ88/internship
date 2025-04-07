@@ -1,0 +1,26 @@
+{
+    "Image Path": "585.jpg",
+    "Original Labels": [
+        "judge's gavel",
+        "judge's robe",
+        "podium",
+        "judge",
+        "courtroom",
+        "microphone",
+        "judge's wig",
+        "judge's bench"
+    ],
+    "Correct Labels": [
+        "judge",
+        "judge's robe",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "judge's gavel",
+        "podium",
+        "courtroom",
+        "judge's wig",
+        "judge's bench"
+    ],
+    "Precision": 0.3
+}

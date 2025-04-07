@@ -1,0 +1,30 @@
+{
+    "Image Path": "719.png",
+    "Original Labels": [
+        "man",
+        "beard",
+        "glasses",
+        "shirt",
+        "jacket",
+        "hair",
+        "mustache",
+        "blurred background",
+        "lighting",
+        "text"
+    ],
+    "Correct Labels": [
+        "man",
+        "beard",
+        "shirt",
+        "jacket",
+        "hair",
+        "mustache",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "glasses",
+        "blurred background",
+        "lighting"
+    ],
+    "Precision": 0.7
+}

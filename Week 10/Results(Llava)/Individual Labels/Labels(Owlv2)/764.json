@@ -1,0 +1,30 @@
+{
+    "Image Path": "764.jpg",
+    "Original Labels": [
+        "sky",
+        "suit",
+        "clouds",
+        "glasses",
+        "woman",
+        "hair",
+        "skyscraper",
+        "building",
+        "fire",
+        "man"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "man",
+        "clouds",
+        "sky",
+        "skyscraper",
+        "fire",
+        "woman",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "hair",
+        "building"
+    ],
+    "Precision": 0.8
+}

@@ -1,0 +1,22 @@
+{
+    "Image Path": "517.jpg",
+    "Original Labels": [
+        "restaurant",
+        "policy",
+        "forum",
+        "water",
+        "free",
+        "straw"
+    ],
+    "Correct Labels": [
+        "restaurant",
+        "policy",
+        "forum",
+        "water",
+        "straw"
+    ],
+    "Incorrect Labels": [
+        "free"
+    ],
+    "Precision": 0.833
+}

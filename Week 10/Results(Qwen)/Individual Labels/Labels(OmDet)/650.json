@@ -1,0 +1,30 @@
+{
+    "Image Path": "650.jpg",
+    "Original Labels": [
+        "screen",
+        "phone",
+        "website",
+        "video",
+        "logo",
+        "headline",
+        "article",
+        "image",
+        "finger",
+        "text"
+    ],
+    "Correct Labels": [
+        "screen",
+        "finger",
+        "article",
+        "text",
+        "video",
+        "image",
+        "website",
+        "logo"
+    ],
+    "Incorrect Labels": [
+        "phone",
+        "headline"
+    ],
+    "Precision": 0.8
+}

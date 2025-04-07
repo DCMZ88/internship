@@ -1,0 +1,30 @@
+{
+    "Image Path": "755.jpg",
+    "Original Labels": [
+        "woman",
+        "shopping cart",
+        "ball",
+        "mask",
+        "basket",
+        "food items",
+        "dog",
+        "trolley",
+        "person",
+        "cart"
+    ],
+    "Correct Labels": [
+        "person",
+        "mask",
+        "cart",
+        "basket",
+        "food items",
+        "trolley",
+        "shopping cart"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "ball",
+        "dog"
+    ],
+    "Precision": 0.7
+}

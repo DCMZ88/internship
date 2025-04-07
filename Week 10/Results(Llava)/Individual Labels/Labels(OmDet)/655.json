@@ -1,0 +1,30 @@
+{
+    "Image Path": "655.png",
+    "Original Labels": [
+        "probe",
+        "light",
+        "hand",
+        "head",
+        "star",
+        "fire",
+        "robot",
+        "cat",
+        "lightning",
+        "brain"
+    ],
+    "Correct Labels": [
+        "star",
+        "head",
+        "brain",
+        "hand"
+    ],
+    "Incorrect Labels": [
+        "probe",
+        "light",
+        "fire",
+        "robot",
+        "cat",
+        "lightning"
+    ],
+    "Precision": 0.4
+}

@@ -1,0 +1,25 @@
+{
+    "Image Path": "729.jpg",
+    "Original Labels": [
+        "shanmugam",
+        "raseelah khan",
+        "police station",
+        "confidentiality",
+        "investigation",
+        "claims",
+        "victim's",
+        "interview"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "shanmugam",
+        "raseelah khan",
+        "police station",
+        "confidentiality",
+        "investigation",
+        "claims",
+        "victim's",
+        "interview"
+    ],
+    "Precision": 0.0
+}

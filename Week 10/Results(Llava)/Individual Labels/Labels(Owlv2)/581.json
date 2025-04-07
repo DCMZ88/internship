@@ -1,0 +1,30 @@
+{
+    "Image Path": "581.jpg",
+    "Original Labels": [
+        "train",
+        "sky",
+        "steam",
+        "clouds",
+        "track",
+        "engine",
+        "grass",
+        "wheel",
+        "piston",
+        "smoke"
+    ],
+    "Correct Labels": [
+        "train"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "steam",
+        "clouds",
+        "track",
+        "engine",
+        "grass",
+        "wheel",
+        "piston",
+        "smoke"
+    ],
+    "Precision": 0.1
+}

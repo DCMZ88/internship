@@ -1,0 +1,30 @@
+{
+    "Image Path": "712.png",
+    "Original Labels": [
+        "person",
+        "chair",
+        "wall",
+        "floor",
+        "ceiling",
+        "light",
+        "screen",
+        "speaker",
+        "microphone",
+        "cable"
+    ],
+    "Correct Labels": [
+        "person"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "wall",
+        "floor",
+        "ceiling",
+        "light",
+        "screen",
+        "speaker",
+        "microphone",
+        "cable"
+    ],
+    "Precision": 0.1
+}

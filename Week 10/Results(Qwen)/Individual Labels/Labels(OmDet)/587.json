@@ -1,0 +1,28 @@
+{
+    "Image Path": "587.png",
+    "Original Labels": [
+        "speech bubble",
+        "background",
+        "character",
+        "ball",
+        "woman",
+        "dog",
+        "comic strip",
+        "caption",
+        "text"
+    ],
+    "Correct Labels": [
+        "background",
+        "text",
+        "woman",
+        "dog",
+        "speech bubble",
+        "caption"
+    ],
+    "Incorrect Labels": [
+        "character",
+        "ball",
+        "comic strip"
+    ],
+    "Precision": 0.667
+}

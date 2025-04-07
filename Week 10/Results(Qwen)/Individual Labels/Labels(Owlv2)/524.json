@@ -1,0 +1,17 @@
+{
+    "Image Path": "524.jpg",
+    "Original Labels": [
+        "lui tuck yew",
+        "yew",
+        "tuck yew understand!",
+        "no"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "lui tuck yew",
+        "yew",
+        "tuck yew understand!",
+        "no"
+    ],
+    "Precision": 0.0
+}

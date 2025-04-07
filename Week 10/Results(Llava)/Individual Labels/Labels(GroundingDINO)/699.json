@@ -1,0 +1,29 @@
+{
+    "Image Path": "699.png",
+    "Original Labels": [
+        "curtain",
+        "tie",
+        "wall",
+        "man",
+        "picture frame",
+        "door",
+        "light switch",
+        "gun",
+        "suit",
+        "flag"
+    ],
+    "Correct Labels": [
+        "curtain",
+        "tie",
+        "wall",
+        "man",
+        "picture frame",
+        "door",
+        "light switch",
+        "gun",
+        "suit",
+        "flag"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

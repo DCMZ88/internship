@@ -1,0 +1,28 @@
+{
+    "Image Path": "667.png",
+    "Original Labels": [
+        "text",
+        "picture frame",
+        "talking",
+        "independence",
+        "hopefuls",
+        "hair",
+        "cat",
+        "president",
+        "record"
+    ],
+    "Correct Labels": [
+        "text",
+        "cat"
+    ],
+    "Incorrect Labels": [
+        "picture frame",
+        "talking",
+        "independence",
+        "hopefuls",
+        "hair",
+        "president",
+        "record"
+    ],
+    "Precision": 0.2
+}

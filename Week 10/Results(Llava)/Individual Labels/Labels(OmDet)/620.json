@@ -1,0 +1,30 @@
+{
+    "Image Path": "620.png",
+    "Original Labels": [
+        "woman's hair",
+        "stage",
+        "screen",
+        "microphone",
+        "watch",
+        "camera",
+        "television screen",
+        "audience",
+        "woman's red dress",
+        "lights"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "woman's hair",
+        "audience",
+        "woman's red dress",
+        "watch",
+        "screen",
+        "camera",
+        "stage"
+    ],
+    "Incorrect Labels": [
+        "television screen",
+        "lights"
+    ],
+    "Precision": 0.8
+}

@@ -1,0 +1,38 @@
+{
+    "Image Path": "662.jpg",
+    "Original Labels": [
+        "malaysia",
+        "work",
+        "shrinking",
+        "candidates",
+        "cia",
+        "need",
+        "aljunied",
+        "population",
+        "tampines",
+        "marine parade",
+        "ge 2020",
+        "grc",
+        "east coast plan",
+        "east coast"
+    ],
+    "Correct Labels": [
+        "malaysia",
+        "population",
+        "cia"
+    ],
+    "Incorrect Labels": [
+        "work",
+        "shrinking",
+        "candidates",
+        "need",
+        "aljunied",
+        "tampines",
+        "marine parade",
+        "ge 2020",
+        "grc",
+        "east coast plan",
+        "east coast"
+    ],
+    "Precision": 0.214
+}

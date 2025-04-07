@@ -1,0 +1,30 @@
+{
+    "Image Path": "701.jpg",
+    "Original Labels": [
+        "woman",
+        "man",
+        "plate",
+        "food",
+        "glasses",
+        "tablecloth",
+        "chair",
+        "table",
+        "wineglass",
+        "fork"
+    ],
+    "Correct Labels": [
+        "plate",
+        "food",
+        "glasses",
+        "fork"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "man",
+        "tablecloth",
+        "chair",
+        "table",
+        "wineglass"
+    ],
+    "Precision": 0.4
+}

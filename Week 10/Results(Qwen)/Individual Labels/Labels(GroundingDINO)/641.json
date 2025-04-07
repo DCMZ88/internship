@@ -1,0 +1,28 @@
+{
+    "Image Path": "641.jpg",
+    "Original Labels": [
+        "quite calm when lee hsien loong was being irritating in parliament",
+        "vulgar",
+        "tan chuan jin",
+        "flowers",
+        "sense of humor",
+        "red flag",
+        "not mp anymore",
+        "can be rough buddy",
+        "aunties destroyer"
+    ],
+    "Correct Labels": [
+        "vulgar",
+        "tan chuan jin",
+        "flowers",
+        "red flag",
+        "aunties destroyer"
+    ],
+    "Incorrect Labels": [
+        "quite calm when lee hsien loong was being irritating in parliament",
+        "sense of humor",
+        "not mp anymore",
+        "can be rough buddy"
+    ],
+    "Precision": 0.556
+}

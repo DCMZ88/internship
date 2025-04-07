@@ -1,0 +1,42 @@
+{
+    "Image Path": "535.jpg",
+    "Original Labels": [
+        "character",
+        "text box",
+        "speech bubble",
+        "word \"low\"",
+        "word \"income\"",
+        "word \"singles\"",
+        "word \"need\"",
+        "word \"housing\"",
+        "word \"help\"",
+        "word \"single\"",
+        "word \"room\"",
+        "word \"shared\"",
+        "word \"facilities\"",
+        "word \"not\"",
+        "word \"like\"",
+        "word \"that\""
+    ],
+    "Correct Labels": [
+        "character"
+    ],
+    "Incorrect Labels": [
+        "text box",
+        "speech bubble",
+        "word \"low\"",
+        "word \"income\"",
+        "word \"singles\"",
+        "word \"need\"",
+        "word \"housing\"",
+        "word \"help\"",
+        "word \"single\"",
+        "word \"room\"",
+        "word \"shared\"",
+        "word \"facilities\"",
+        "word \"not\"",
+        "word \"like\"",
+        "word \"that\""
+    ],
+    "Precision": 0.0625
+}

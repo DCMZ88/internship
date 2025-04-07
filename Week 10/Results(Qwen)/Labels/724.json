@@ -1,0 +1,27 @@
+{
+    "Image Path": "724.jpg",
+    "Original Labels": [
+        "leong mun wai",
+        "minister",
+        "psp",
+        "chief of psp",
+        "star wars",
+        "jedi",
+        "luke skywalker",
+        "leia",
+        "han solo"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "leong mun wai",
+        "minister",
+        "psp",
+        "chief of psp",
+        "star wars",
+        "jedi",
+        "luke skywalker",
+        "leia",
+        "han solo"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,28 @@
+{
+    "Image Path": "511.jpg",
+    "Original Labels": [
+        "police uniform",
+        "yellow jacket",
+        "man",
+        "police officer",
+        "robot",
+        "man with beard",
+        "yellow background",
+        "man with red hoodie",
+        "police patrol robot"
+    ],
+    "Correct Labels": [
+        "police uniform",
+        "yellow jacket",
+        "man",
+        "police officer",
+        "robot",
+        "yellow background",
+        "police patrol robot"
+    ],
+    "Incorrect Labels": [
+        "man with beard",
+        "man with red hoodie"
+    ],
+    "Precision": 0.778
+}

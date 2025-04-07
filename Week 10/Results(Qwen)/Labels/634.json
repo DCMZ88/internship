@@ -1,0 +1,30 @@
+{
+    "Image Path": "634.png",
+    "Original Labels": [
+        "khaw boon wan",
+        "sph media trust",
+        "transport minister s iswaran",
+        "ahpetc",
+        "hara-kiri",
+        "circulation data",
+        "audit committee",
+        "pm lee",
+        "cpib",
+        "leave"
+    ],
+    "Correct Labels": [
+        "sph media trust",
+        "pm lee"
+    ],
+    "Incorrect Labels": [
+        "khaw boon wan",
+        "transport minister s iswaran",
+        "ahpetc",
+        "hara-kiri",
+        "circulation data",
+        "audit committee",
+        "cpib",
+        "leave"
+    ],
+    "Precision": 0.2
+}

@@ -1,0 +1,28 @@
+{
+    "Image Path": "754.jpg",
+    "Original Labels": [
+        "screen",
+        "man",
+        "cnn",
+        "table",
+        "microphone",
+        "camera",
+        "chair",
+        "monitor",
+        "laptop"
+    ],
+    "Correct Labels": [
+        "man",
+        "microphone",
+        "chair",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "screen",
+        "cnn",
+        "camera",
+        "monitor",
+        "laptop"
+    ],
+    "Precision": 0.444
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "587.png",
+    "Original Labels": [
+        "dog",
+        "word \"ah?\"",
+        "word \"sia\"",
+        "flag",
+        "word \"dam\"",
+        "word \"populist\"",
+        "word \"captain\"",
+        "speech bubble",
+        "word \"fucking\"",
+        "character"
+    ],
+    "Correct Labels": [
+        "flag",
+        "word \"ah?\"",
+        "dog",
+        "word \"fucking\"",
+        "word \"captain\"",
+        "character"
+    ],
+    "Incorrect Labels": [
+        "word \"sia\"",
+        "word \"dam\"",
+        "word \"populist\"",
+        "speech bubble"
+    ],
+    "Precision": 0.6
+}

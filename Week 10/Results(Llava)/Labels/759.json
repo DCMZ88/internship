@@ -1,0 +1,30 @@
+{
+    "Image Path": "759.jpg",
+    "Original Labels": [
+        "microphone",
+        "man",
+        "speech bubble",
+        "text",
+        "television screen",
+        "stage",
+        "lights",
+        "sign",
+        "chinese characters",
+        "colorful display"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "speech bubble",
+        "text",
+        "stage",
+        "sign"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "television screen",
+        "lights",
+        "chinese characters",
+        "colorful display"
+    ],
+    "Precision": 0.5
+}

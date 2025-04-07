@@ -1,0 +1,30 @@
+{
+    "Image Path": "524.jpg",
+    "Original Labels": [
+        "door",
+        "ceiling",
+        "clock",
+        "table",
+        "television",
+        "chair",
+        "floor",
+        "man",
+        "woman",
+        "wall"
+    ],
+    "Correct Labels": [
+        "television",
+        "man",
+        "chair",
+        "woman",
+        "wall",
+        "clock",
+        "door",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "ceiling",
+        "floor"
+    ],
+    "Precision": 0.8
+}

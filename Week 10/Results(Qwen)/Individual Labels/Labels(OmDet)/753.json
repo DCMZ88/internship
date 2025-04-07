@@ -1,0 +1,30 @@
+{
+    "Image Path": "753.jpg",
+    "Original Labels": [
+        "police officer",
+        "man",
+        "face mask",
+        "support sign",
+        "woman",
+        "please refrain sign",
+        "cardboard box",
+        "thank you sign",
+        "street sign",
+        "child"
+    ],
+    "Correct Labels": [
+        "face mask",
+        "child",
+        "woman",
+        "support sign",
+        "man",
+        "please refrain sign",
+        "thank you sign",
+        "cardboard box"
+    ],
+    "Incorrect Labels": [
+        "police officer",
+        "street sign"
+    ],
+    "Precision": 0.8
+}

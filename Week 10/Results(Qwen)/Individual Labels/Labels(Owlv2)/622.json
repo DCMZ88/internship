@@ -1,0 +1,30 @@
+{
+    "Image Path": "622.jpg",
+    "Original Labels": [
+        "people",
+        "hands",
+        "hill",
+        "legs",
+        "cityscape",
+        "faces",
+        "cow",
+        "grass",
+        "arms",
+        "text"
+    ],
+    "Correct Labels": [
+        "faces",
+        "cityscape",
+        "grass"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "hands",
+        "hill",
+        "legs",
+        "cow",
+        "arms",
+        "text"
+    ],
+    "Precision": 0.3
+}

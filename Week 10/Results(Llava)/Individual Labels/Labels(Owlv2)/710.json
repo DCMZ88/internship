@@ -1,0 +1,30 @@
+{
+    "Image Path": "710.png",
+    "Original Labels": [
+        "crown",
+        "collar",
+        "cloak",
+        "gown",
+        "earring",
+        "hair",
+        "mask",
+        "glove",
+        "necklace",
+        "scarf"
+    ],
+    "Correct Labels": [
+        "scarf"
+    ],
+    "Incorrect Labels": [
+        "crown",
+        "collar",
+        "cloak",
+        "gown",
+        "earring",
+        "hair",
+        "mask",
+        "glove",
+        "necklace"
+    ],
+    "Precision": 0.1
+}

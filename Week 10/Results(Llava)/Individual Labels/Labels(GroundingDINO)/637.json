@@ -1,0 +1,29 @@
+{
+    "Image Path": "637.jpg",
+    "Original Labels": [
+        "flag",
+        "symbol",
+        "emoji",
+        "punctuation",
+        "letter",
+        "icon",
+        "word",
+        "number",
+        "color",
+        "text"
+    ],
+    "Correct Labels": [
+        "flag",
+        "symbol",
+        "emoji",
+        "punctuation",
+        "letter",
+        "icon",
+        "word",
+        "number",
+        "color",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,27 @@
+{
+    "Image Path": "542.jpg",
+    "Original Labels": [
+        "chair",
+        "phone",
+        "stethoscope",
+        "computer keyboard",
+        "computer monitor",
+        "pen holder",
+        "desk",
+        "computer mouse",
+        "pen"
+    ],
+    "Correct Labels": [
+        "chair",
+        "phone",
+        "stethoscope",
+        "computer keyboard",
+        "computer monitor",
+        "pen holder",
+        "desk",
+        "computer mouse",
+        "pen"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

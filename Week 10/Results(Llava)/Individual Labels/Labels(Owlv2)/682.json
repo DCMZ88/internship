@@ -1,0 +1,30 @@
+{
+    "Image Path": "682.png",
+    "Original Labels": [
+        "hoodie",
+        "beard",
+        "ear",
+        "collar",
+        "drawing",
+        "hand",
+        "jacket",
+        "hair",
+        "mustache",
+        "man"
+    ],
+    "Correct Labels": [
+        "drawing",
+        "mustache",
+        "beard",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "hoodie",
+        "ear",
+        "collar",
+        "hand",
+        "jacket",
+        "hair"
+    ],
+    "Precision": 0.4
+}

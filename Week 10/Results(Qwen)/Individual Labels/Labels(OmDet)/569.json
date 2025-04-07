@@ -1,0 +1,24 @@
+{
+    "Image Path": "569.jpg",
+    "Original Labels": [
+        "former",
+        "judge",
+        "singapore idol",
+        "charged",
+        "molestation",
+        "glasses",
+        "ken lim"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "judge",
+        "singapore idol",
+        "former"
+    ],
+    "Incorrect Labels": [
+        "charged",
+        "molestation",
+        "ken lim"
+    ],
+    "Precision": 0.571
+}

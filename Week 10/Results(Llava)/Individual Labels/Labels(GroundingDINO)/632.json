@@ -1,0 +1,29 @@
+{
+    "Image Path": "632.png",
+    "Original Labels": [
+        "shirt",
+        "tie",
+        "coat",
+        "jacket",
+        "pocket square",
+        "shoes",
+        "suit",
+        "pants",
+        "belt",
+        "watch"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "tie",
+        "coat",
+        "jacket",
+        "pocket square",
+        "shoes",
+        "suit",
+        "pants",
+        "belt",
+        "watch"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

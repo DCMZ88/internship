@@ -1,0 +1,29 @@
+{
+    "Image Path": "700.jpg",
+    "Original Labels": [
+        "text",
+        "glasses",
+        "words",
+        "blurred background",
+        "tie",
+        "shirt",
+        "image",
+        "suit",
+        "lights",
+        "smile"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "tie",
+        "suit",
+        "text",
+        "words",
+        "shirt",
+        "blurred background",
+        "lights",
+        "smile",
+        "image"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

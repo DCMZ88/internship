@@ -1,0 +1,30 @@
+{
+    "Image Path": "574.png",
+    "Original Labels": [
+        "baking equipment",
+        "baking pan",
+        "baking tray",
+        "bread",
+        "baking utensils",
+        "baking sheet",
+        "baking tools",
+        "baking ingredients",
+        "glove",
+        "baking oven"
+    ],
+    "Correct Labels": [
+        "glove",
+        "bread"
+    ],
+    "Incorrect Labels": [
+        "baking equipment",
+        "baking pan",
+        "baking tray",
+        "baking utensils",
+        "baking sheet",
+        "baking tools",
+        "baking ingredients",
+        "baking oven"
+    ],
+    "Precision": 0.2
+}

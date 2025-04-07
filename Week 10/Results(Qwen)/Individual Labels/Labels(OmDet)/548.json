@@ -1,0 +1,30 @@
+{
+    "Image Path": "548.jpg",
+    "Original Labels": [
+        "black hair",
+        "black nose",
+        "cat",
+        "black hoodie",
+        "black background",
+        "black mouth",
+        "white collar",
+        "mask",
+        "red eyes",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "black nose",
+        "black hair",
+        "red eyes",
+        "black hoodie",
+        "mask",
+        "black mouth",
+        "cat",
+        "black background"
+    ],
+    "Incorrect Labels": [
+        "white collar"
+    ],
+    "Precision": 0.9
+}

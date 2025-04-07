@@ -1,0 +1,30 @@
+{
+    "Image Path": "699.png",
+    "Original Labels": [
+        "tie",
+        "white shirt",
+        "medal",
+        "man",
+        "blue shirt",
+        "hammer",
+        "black hair",
+        "wall",
+        "suit",
+        "obama"
+    ],
+    "Correct Labels": [
+        "tie",
+        "white shirt",
+        "medal",
+        "man",
+        "blue shirt",
+        "black hair",
+        "wall",
+        "suit",
+        "obama"
+    ],
+    "Incorrect Labels": [
+        "hammer"
+    ],
+    "Precision": 0.9
+}

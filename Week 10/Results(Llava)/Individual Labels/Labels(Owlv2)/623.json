@@ -1,0 +1,29 @@
+{
+    "Image Path": "623.png",
+    "Original Labels": [
+        "door",
+        "car",
+        "tire",
+        "window",
+        "mirror",
+        "light",
+        "street",
+        "sign",
+        "building",
+        "pole"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "door",
+        "car",
+        "tire",
+        "window",
+        "mirror",
+        "light",
+        "street",
+        "sign",
+        "building",
+        "pole"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,22 @@
+{
+    "Image Path": "648.png",
+    "Original Labels": [
+        "dog",
+        "gloves",
+        "screen",
+        "robot",
+        "glove",
+        "character"
+    ],
+    "Correct Labels": [
+        "gloves",
+        "screen",
+        "glove",
+        "character"
+    ],
+    "Incorrect Labels": [
+        "dog",
+        "robot"
+    ],
+    "Precision": 0.667
+}

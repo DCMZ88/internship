@@ -1,0 +1,18 @@
+{
+    "Image Path": "733.jpg",
+    "Original Labels": [
+        "flex tape",
+        "government",
+        "gst",
+        "problems"
+    ],
+    "Correct Labels": [
+        "flex tape"
+    ],
+    "Incorrect Labels": [
+        "government",
+        "gst",
+        "problems"
+    ],
+    "Precision": 0.25
+}

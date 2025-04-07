@@ -1,0 +1,15 @@
+{
+    "Image Path": "564.jpg",
+    "Original Labels": [
+        "bungalow",
+        "man",
+        "gun"
+    ],
+    "Correct Labels": [
+        "bungalow",
+        "man",
+        "gun"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "604.jpg",
+    "Original Labels": [
+        "door",
+        "pants",
+        "corridor",
+        "shirt",
+        "paper",
+        "railing",
+        "floor",
+        "shoes",
+        "stairs",
+        "mask"
+    ],
+    "Correct Labels": [
+        "mask",
+        "paper",
+        "shoes",
+        "pants",
+        "shirt",
+        "floor",
+        "door",
+        "railing",
+        "stairs",
+        "corridor"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

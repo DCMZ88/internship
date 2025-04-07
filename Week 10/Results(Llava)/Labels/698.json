@@ -1,0 +1,30 @@
+{
+    "Image Path": "698.jpg",
+    "Original Labels": [
+        "glass",
+        "watch",
+        "ring",
+        "shirt",
+        "tie",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "table",
+        "clock"
+    ],
+    "Correct Labels": [
+        "watch",
+        "ring",
+        "shirt",
+        "monitor",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "glass",
+        "tie",
+        "keyboard",
+        "mouse",
+        "clock"
+    ],
+    "Precision": 0.5
+}

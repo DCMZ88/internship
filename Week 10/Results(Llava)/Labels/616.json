@@ -1,0 +1,30 @@
+{
+    "Image Path": "616.png",
+    "Original Labels": [
+        "screwdriver",
+        "hammer",
+        "heart",
+        "door",
+        "casket",
+        "screw",
+        "door handle",
+        "screwdriver handle",
+        "door lock",
+        "casket handle"
+    ],
+    "Correct Labels": [
+        "hammer",
+        "screw"
+    ],
+    "Incorrect Labels": [
+        "screwdriver",
+        "heart",
+        "door",
+        "casket",
+        "door handle",
+        "screwdriver handle",
+        "door lock",
+        "casket handle"
+    ],
+    "Precision": 0.2
+}

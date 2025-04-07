@@ -1,0 +1,30 @@
+{
+    "Image Path": "506.jpg",
+    "Original Labels": [
+        "sidewalk",
+        "street",
+        "tree",
+        "wall",
+        "building",
+        "ground",
+        "sky",
+        "fence",
+        "tank top",
+        "person"
+    ],
+    "Correct Labels": [
+        "wall",
+        "tank top"
+    ],
+    "Incorrect Labels": [
+        "sidewalk",
+        "street",
+        "tree",
+        "building",
+        "ground",
+        "sky",
+        "fence",
+        "person"
+    ],
+    "Precision": 0.2
+}

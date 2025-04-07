@@ -1,0 +1,15 @@
+{
+    "Image Path": "753.jpg",
+    "Original Labels": [
+        "sign",
+        "shirt",
+        "mask"
+    ],
+    "Correct Labels": [
+        "sign",
+        "mask",
+        "shirt"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 0.3
+}

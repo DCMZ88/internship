@@ -1,0 +1,30 @@
+{
+    "Image Path": "751.jpg",
+    "Original Labels": [
+        "paper",
+        "pen",
+        "cup",
+        "plant",
+        "television",
+        "blinds",
+        "wall",
+        "desk",
+        "person",
+        "picture"
+    ],
+    "Correct Labels": [
+        "cup",
+        "plant",
+        "blinds",
+        "person"
+    ],
+    "Incorrect Labels": [
+        "paper",
+        "pen",
+        "television",
+        "wall",
+        "desk",
+        "picture"
+    ],
+    "Precision": 0.4
+}

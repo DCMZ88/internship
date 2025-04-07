@@ -1,0 +1,30 @@
+{
+    "Image Path": "708.png",
+    "Original Labels": [
+        "penguin",
+        "cq",
+        "text",
+        "singaporeans",
+        "upgrade",
+        "money",
+        "clarke quay",
+        "call",
+        "number",
+        "duck"
+    ],
+    "Correct Labels": [
+        "penguin",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "cq",
+        "singaporeans",
+        "upgrade",
+        "money",
+        "clarke quay",
+        "call",
+        "number",
+        "duck"
+    ],
+    "Precision": 0.2
+}

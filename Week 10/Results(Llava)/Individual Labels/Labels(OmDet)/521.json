@@ -1,0 +1,30 @@
+{
+    "Image Path": "521.png",
+    "Original Labels": [
+        "ostrich",
+        "words",
+        "ostrich legs",
+        "feathers",
+        "white text",
+        "dirt",
+        "sign",
+        "corruption",
+        "birds",
+        "red background"
+    ],
+    "Correct Labels": [
+        "sign",
+        "feathers",
+        "ostrich",
+        "birds",
+        "words",
+        "ostrich legs",
+        "red background",
+        "white text"
+    ],
+    "Incorrect Labels": [
+        "dirt",
+        "corruption"
+    ],
+    "Precision": 0.8
+}

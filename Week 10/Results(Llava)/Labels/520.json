@@ -1,0 +1,30 @@
+{
+    "Image Path": "520.jpg",
+    "Original Labels": [
+        "book",
+        "tie",
+        "curtain",
+        "wall",
+        "shirt",
+        "religious figure",
+        "curtain rod",
+        "curtain panel",
+        "curtain lining",
+        "curtain hooks"
+    ],
+    "Correct Labels": [
+        "book",
+        "tie",
+        "curtain",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "religious figure",
+        "curtain rod",
+        "curtain panel",
+        "curtain lining",
+        "curtain hooks"
+    ],
+    "Precision": 0.4
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "541.jpg",
+    "Original Labels": [
+        "man",
+        "stairs",
+        "picture frame",
+        "wall",
+        "doorway",
+        "bookshelf",
+        "refrigerator",
+        "cabinet",
+        "microwave",
+        "countertop"
+    ],
+    "Correct Labels": [
+        "man",
+        "stairs",
+        "picture frame",
+        "bookshelf"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "doorway",
+        "refrigerator",
+        "cabinet",
+        "microwave",
+        "countertop"
+    ],
+    "Precision": 0.4
+}

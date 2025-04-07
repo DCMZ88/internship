@@ -1,0 +1,28 @@
+{
+    "Image Path": "647.jpg",
+    "Original Labels": [
+        "red jacket",
+        "hoodie",
+        "beard",
+        "drake",
+        "black hair",
+        "jacket",
+        "black text",
+        "shirt",
+        "yellow background"
+    ],
+    "Correct Labels": [
+        "black text",
+        "hoodie",
+        "red jacket",
+        "beard",
+        "shirt",
+        "jacket"
+    ],
+    "Incorrect Labels": [
+        "drake",
+        "black hair",
+        "yellow background"
+    ],
+    "Precision": 0.6666666666666666
+}

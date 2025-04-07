@@ -1,0 +1,30 @@
+{
+    "Image Path": "586.jpg",
+    "Original Labels": [
+        "person",
+        "shirt",
+        "vest",
+        "jacket",
+        "watch",
+        "ring",
+        "seat",
+        "stadium",
+        "fan",
+        "screen"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "jacket",
+        "watch",
+        "ring"
+    ],
+    "Incorrect Labels": [
+        "person",
+        "vest",
+        "seat",
+        "stadium",
+        "fan",
+        "screen"
+    ],
+    "Precision": 0.4
+}

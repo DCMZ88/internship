@@ -1,0 +1,30 @@
+{
+    "Image Path": "721.png",
+    "Original Labels": [
+        "color",
+        "quote",
+        "text",
+        "percentage",
+        "image",
+        "letter",
+        "font",
+        "word",
+        "number",
+        "character"
+    ],
+    "Correct Labels": [
+        "color",
+        "text",
+        "quote",
+        "character",
+        "image",
+        "word"
+    ],
+    "Incorrect Labels": [
+        "percentage",
+        "letter",
+        "font",
+        "number"
+    ],
+    "Precision": 0.6
+}

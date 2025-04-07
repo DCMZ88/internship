@@ -1,0 +1,29 @@
+{
+    "Image Path": "669.jpg",
+    "Original Labels": [
+        "street",
+        "shirt",
+        "house",
+        "iswaran",
+        "road",
+        "sidewalk",
+        "car",
+        "tree",
+        "parking lot",
+        "grass"
+    ],
+    "Correct Labels": [
+        "street",
+        "shirt",
+        "house",
+        "iswaran",
+        "road",
+        "sidewalk",
+        "car",
+        "tree",
+        "parking lot",
+        "grass"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

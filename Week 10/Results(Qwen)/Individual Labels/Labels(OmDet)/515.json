@@ -1,0 +1,30 @@
+{
+    "Image Path": "515.jpg",
+    "Original Labels": [
+        "water",
+        "shower curtain",
+        "bathtub",
+        "door",
+        "floor",
+        "spongebob",
+        "ceiling",
+        "wall",
+        "sponge",
+        "window"
+    ],
+    "Correct Labels": [
+        "shower curtain",
+        "bathtub",
+        "sponge",
+        "window",
+        "spongebob",
+        "wall"
+    ],
+    "Incorrect Labels": [
+        "water",
+        "door",
+        "floor",
+        "ceiling"
+    ],
+    "Precision": 0.6
+}

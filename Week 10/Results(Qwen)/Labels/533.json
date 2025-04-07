@@ -1,0 +1,22 @@
+{
+    "Image Path": "533.jpg",
+    "Original Labels": [
+        "mixue mascot",
+        "headstand",
+        "work",
+        "intrusive thoughts",
+        "raise",
+        "man"
+    ],
+    "Correct Labels": [
+        "mixue mascot",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "headstand",
+        "work",
+        "intrusive thoughts",
+        "raise"
+    ],
+    "Precision": 0.3333333333333333
+}

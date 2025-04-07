@@ -1,0 +1,20 @@
+{
+    "Image Path": "636.jpg",
+    "Original Labels": [
+        "balakrishnan",
+        "lim ah seng",
+        "tan ah kox",
+        "black & white houses",
+        "shammugam"
+    ],
+    "Correct Labels": [
+        "balakrishnan",
+        "lim ah seng",
+        "tan ah kox",
+        "shammugam"
+    ],
+    "Incorrect Labels": [
+        "black & white houses"
+    ],
+    "Precision": 0.8
+}

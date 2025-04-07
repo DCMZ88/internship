@@ -1,0 +1,30 @@
+{
+    "Image Path": "594.jpg",
+    "Original Labels": [
+        "screen",
+        "white light",
+        "yellow light",
+        "man",
+        "table",
+        "microphone",
+        "woman",
+        "red light",
+        "blue light",
+        "chair"
+    ],
+    "Correct Labels": [
+        "man",
+        "screen",
+        "chair",
+        "woman",
+        "red light",
+        "microphone",
+        "blue light"
+    ],
+    "Incorrect Labels": [
+        "white light",
+        "yellow light",
+        "table"
+    ],
+    "Precision": 0.7
+}

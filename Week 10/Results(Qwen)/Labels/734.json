@@ -1,0 +1,30 @@
+{
+    "Image Path": "734.jpg",
+    "Original Labels": [
+        "book",
+        "bookshelf",
+        "window",
+        "curtain",
+        "man",
+        "beard",
+        "hat",
+        "sword",
+        "flag",
+        "ship"
+    ],
+    "Correct Labels": [
+        "book",
+        "beard"
+    ],
+    "Incorrect Labels": [
+        "bookshelf",
+        "window",
+        "curtain",
+        "man",
+        "hat",
+        "sword",
+        "flag",
+        "ship"
+    ],
+    "Precision": 0.2
+}

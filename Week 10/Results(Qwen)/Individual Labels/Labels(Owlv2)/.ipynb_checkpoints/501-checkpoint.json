@@ -1,0 +1,15 @@
+{
+    "Image Path": "501.jpg",
+    "Original Labels": [
+        "parents turning everything into a competition",
+        "joy of learning",
+        "singaporean students"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "parents turning everything into a competition",
+        "joy of learning",
+        "singaporean students"
+    ],
+    "Precision": 0.0
+}

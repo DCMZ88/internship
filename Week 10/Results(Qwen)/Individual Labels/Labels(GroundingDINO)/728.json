@@ -1,0 +1,25 @@
+{
+    "Image Path": "728.png",
+    "Original Labels": [
+        "man",
+        "yellow wall",
+        "red text",
+        "yellow shirt",
+        "yellow background",
+        "red jacket",
+        "hoodie",
+        "yellow text"
+    ],
+    "Correct Labels": [
+        "man",
+        "yellow wall",
+        "red text",
+        "yellow shirt",
+        "yellow background",
+        "red jacket",
+        "hoodie",
+        "yellow text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

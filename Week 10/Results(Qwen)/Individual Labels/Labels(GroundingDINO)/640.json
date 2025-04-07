@@ -1,0 +1,23 @@
+{
+    "Image Path": "640.jpg",
+    "Original Labels": [
+        "green flag",
+        "black text",
+        "black background",
+        "red flag",
+        "red triangle",
+        "red arrow",
+        "white text"
+    ],
+    "Correct Labels": [
+        "green flag",
+        "black text",
+        "black background",
+        "red flag",
+        "red triangle",
+        "red arrow",
+        "white text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

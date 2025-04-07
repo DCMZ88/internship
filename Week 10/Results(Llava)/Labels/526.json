@@ -1,0 +1,30 @@
+{
+    "Image Path": "526.jpg",
+    "Original Labels": [
+        "camera",
+        "screen",
+        "window",
+        "curtain",
+        "reflection",
+        "sky",
+        "clouds",
+        "trees",
+        "grass",
+        "building"
+    ],
+    "Correct Labels": [
+        "camera",
+        "window"
+    ],
+    "Incorrect Labels": [
+        "screen",
+        "curtain",
+        "reflection",
+        "sky",
+        "clouds",
+        "trees",
+        "grass",
+        "building"
+    ],
+    "Precision": 0.2
+}

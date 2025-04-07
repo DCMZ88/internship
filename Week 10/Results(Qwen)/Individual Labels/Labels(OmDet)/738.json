@@ -1,0 +1,24 @@
+{
+    "Image Path": "738.jpg",
+    "Original Labels": [
+        "cape",
+        "helmet",
+        "knife",
+        "cloak",
+        "armor",
+        "shield",
+        "sword"
+    ],
+    "Correct Labels": [
+        "armor",
+        "sword",
+        "shield",
+        "knife",
+        "helmet",
+        "cape"
+    ],
+    "Incorrect Labels": [
+        "cloak"
+    ],
+    "Precision": 0.857
+}

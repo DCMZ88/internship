@@ -1,0 +1,29 @@
+{
+    "Image Path": "716.png",
+    "Original Labels": [
+        "singapore",
+        "fishermen",
+        "waters",
+        "meanwhile",
+        "fish",
+        "after",
+        "ha",
+        "hood",
+        "coincidence",
+        "trespassing"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "singapore",
+        "fishermen",
+        "waters",
+        "meanwhile",
+        "fish",
+        "after",
+        "ha",
+        "hood",
+        "coincidence",
+        "trespassing"
+    ],
+    "Precision": 0.0
+}

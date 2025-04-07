@@ -1,0 +1,28 @@
+{
+    "Image Path": "717.png",
+    "Original Labels": [
+        "bart",
+        "red shirt",
+        "green screen",
+        "bomb threat",
+        "stern warning",
+        "sq33",
+        "american man",
+        "warning",
+        "alarm"
+    ],
+    "Correct Labels": [
+        "green screen"
+    ],
+    "Incorrect Labels": [
+        "bart",
+        "red shirt",
+        "bomb threat",
+        "stern warning",
+        "sq33",
+        "american man",
+        "warning",
+        "alarm"
+    ],
+    "Precision": 0.1111111111111111
+}

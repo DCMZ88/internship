@@ -1,0 +1,30 @@
+{
+    "Image Path": "562.jpg",
+    "Original Labels": [
+        "beard",
+        "hoodie",
+        "mouth",
+        "ear",
+        "eye",
+        "hand",
+        "pantone 442 c",
+        "finger",
+        "nose",
+        "man"
+    ],
+    "Correct Labels": [
+        "hoodie",
+        "beard",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "mouth",
+        "ear",
+        "eye",
+        "hand",
+        "pantone 442 c",
+        "finger",
+        "nose"
+    ],
+    "Precision": 0.3
+}

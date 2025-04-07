@@ -1,0 +1,19 @@
+{
+    "Image Path": "621.jpg",
+    "Original Labels": [
+        "speaker",
+        "minister",
+        "you",
+        "don't ask me",
+        "sia suay"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "speaker",
+        "minister",
+        "you",
+        "don't ask me",
+        "sia suay"
+    ],
+    "Precision": 0.0
+}

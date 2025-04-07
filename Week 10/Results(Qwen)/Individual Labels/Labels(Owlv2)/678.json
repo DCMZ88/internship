@@ -1,0 +1,15 @@
+{
+    "Image Path": "678.jpg",
+    "Original Labels": [
+        "wp",
+        "pap",
+        "extramarital affair"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "wp",
+        "pap",
+        "extramarital affair"
+    ],
+    "Precision": 0.0
+}

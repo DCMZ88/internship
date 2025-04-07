@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "text",
+        "table",
+        "bold text",
+        "underlined text",
+        "number",
+        "arrow",
+        "parentheses",
+        "bullet point",
+        "date",
+        "name"
+    ]
+}

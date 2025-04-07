@@ -1,0 +1,30 @@
+{
+    "Image Path": "679.png",
+    "Original Labels": [
+        "sky",
+        "stairs",
+        "boy",
+        "cloud",
+        "smile",
+        "man",
+        "sun",
+        "woman",
+        "girl",
+        "heart"
+    ],
+    "Correct Labels": [
+        "woman",
+        "girl",
+        "man",
+        "cloud",
+        "stairs",
+        "boy",
+        "sky",
+        "smile",
+        "heart"
+    ],
+    "Incorrect Labels": [
+        "sun"
+    ],
+    "Precision": 0.9
+}

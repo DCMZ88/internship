@@ -1,0 +1,30 @@
+{
+    "Image Path": "501.jpg",
+    "Original Labels": [
+        "character's face",
+        "character's nose",
+        "character's mouth",
+        "character's hair",
+        "character",
+        "character's tongue",
+        "character's arm",
+        "character's hand",
+        "character's eyes",
+        "character's teeth"
+    ],
+    "Correct Labels": [
+        "character"
+    ],
+    "Incorrect Labels": [
+        "character's face",
+        "character's nose",
+        "character's mouth",
+        "character's hair",
+        "character's tongue",
+        "character's arm",
+        "character's hand",
+        "character's eyes",
+        "character's teeth"
+    ],
+    "Precision": 0.1
+}

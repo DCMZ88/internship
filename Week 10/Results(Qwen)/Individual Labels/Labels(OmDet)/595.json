@@ -1,0 +1,15 @@
+{
+    "Image Path": "595.png",
+    "Original Labels": [
+        "pillow",
+        "bed",
+        "mattress"
+    ],
+    "Correct Labels": [
+        "pillow",
+        "bed",
+        "mattress"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

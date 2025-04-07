@@ -1,0 +1,29 @@
+{
+    "Image Path": "747.jpg",
+    "Original Labels": [
+        "image",
+        "quote",
+        "words",
+        "screen",
+        "background",
+        "character",
+        "font",
+        "color",
+        "message",
+        "text"
+    ],
+    "Correct Labels": [
+        "image",
+        "quote",
+        "words",
+        "screen",
+        "background",
+        "character",
+        "font",
+        "color",
+        "message",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

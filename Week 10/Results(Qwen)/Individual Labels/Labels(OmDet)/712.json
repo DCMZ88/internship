@@ -1,0 +1,26 @@
+{
+    "Image Path": "712.png",
+    "Original Labels": [
+        "tag",
+        "ball",
+        "microphone",
+        "woman",
+        "card",
+        "name",
+        "tie",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "woman",
+        "tag",
+        "name",
+        "card",
+        "shirt",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "ball",
+        "tie"
+    ],
+    "Precision": 0.75
+}

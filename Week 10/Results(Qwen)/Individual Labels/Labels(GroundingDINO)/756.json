@@ -1,0 +1,17 @@
+{
+    "Image Path": "756.jpg",
+    "Original Labels": [
+        "keyboard",
+        "finger",
+        "upgrade button",
+        "computer keyboard"
+    ],
+    "Correct Labels": [
+        "keyboard",
+        "finger",
+        "upgrade button",
+        "computer keyboard"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

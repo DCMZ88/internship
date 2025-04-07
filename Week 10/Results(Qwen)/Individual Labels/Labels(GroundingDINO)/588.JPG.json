@@ -1,0 +1,29 @@
+{
+    "Image Path": "588.JPG",
+    "Original Labels": [
+        "tie",
+        "cup",
+        "man",
+        "shirt",
+        "dog",
+        "woman",
+        "desk",
+        "hat",
+        "fine",
+        "coffee"
+    ],
+    "Correct Labels": [
+        "tie",
+        "cup",
+        "man",
+        "shirt",
+        "dog",
+        "woman",
+        "desk",
+        "hat",
+        "fine",
+        "coffee"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "503.png",
+    "Original Labels": [
+        "spongebob",
+        "spoon",
+        "fork",
+        "chair",
+        "patrick",
+        "plate",
+        "couch",
+        "tree",
+        "knife",
+        "building"
+    ],
+    "Correct Labels": [
+        "spongebob",
+        "spoon",
+        "chair",
+        "patrick",
+        "plate",
+        "couch",
+        "tree",
+        "building"
+    ],
+    "Incorrect Labels": [
+        "fork",
+        "knife"
+    ],
+    "Precision": 0.8
+}

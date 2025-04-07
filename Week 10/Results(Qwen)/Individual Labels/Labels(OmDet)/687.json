@@ -1,0 +1,15 @@
+{
+    "Image Path": "687.jpg",
+    "Original Labels": [
+        "vivian bandakrishnan",
+        "lee hsien yang",
+        "shannmugam"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "vivian bandakrishnan",
+        "lee hsien yang",
+        "shannmugam"
+    ],
+    "Precision": 0.0
+}

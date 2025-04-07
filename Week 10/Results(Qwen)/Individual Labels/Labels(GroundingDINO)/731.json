@@ -1,0 +1,28 @@
+{
+    "Image Path": "731.jpg",
+    "Original Labels": [
+        "person",
+        "uno logo",
+        "prime minister of singapore",
+        "singapore flag",
+        "playing cards",
+        "card",
+        "table",
+        "drink",
+        "prime minister"
+    ],
+    "Correct Labels": [
+        "person",
+        "uno logo",
+        "singapore flag",
+        "playing cards",
+        "card",
+        "table",
+        "drink",
+        "prime minister"
+    ],
+    "Incorrect Labels": [
+        "prime minister of singapore"
+    ],
+    "Precision": 0.889
+}

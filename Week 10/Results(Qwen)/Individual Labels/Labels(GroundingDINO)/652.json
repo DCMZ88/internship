@@ -1,0 +1,26 @@
+{
+    "Image Path": "652.jpg",
+    "Original Labels": [
+        "nickels",
+        "futurama",
+        "meme",
+        "nickel",
+        "twice",
+        "happened",
+        "relationship",
+        "inappropriate"
+    ],
+    "Correct Labels": [
+        "nickels",
+        "futurama",
+        "nickel",
+        "twice",
+        "happened",
+        "relationship",
+        "inappropriate"
+    ],
+    "Incorrect Labels": [
+        "meme"
+    ],
+    "Precision": 0.875
+}

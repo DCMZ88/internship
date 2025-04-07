@@ -1,0 +1,32 @@
+{
+    "Image Path": "537.jpg",
+    "Original Labels": [
+        "bicycle lane",
+        "man",
+        "culprit",
+        "police report",
+        "bike",
+        "bicycle",
+        "road",
+        "sidewalk",
+        "bicycle rider",
+        "far east square",
+        "hit & run"
+    ],
+    "Correct Labels": [
+        "bicycle lane",
+        "man",
+        "culprit",
+        "police report",
+        "bike",
+        "bicycle",
+        "road",
+        "sidewalk",
+        "bicycle rider"
+    ],
+    "Incorrect Labels": [
+        "far east square",
+        "hit & run"
+    ],
+    "Precision": 0.818
+}

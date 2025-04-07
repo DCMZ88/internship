@@ -1,0 +1,29 @@
+{
+    "Image Path": "742.jpg",
+    "Original Labels": [
+        "think",
+        "man",
+        "jacket",
+        "trees",
+        "year",
+        "bubble",
+        "australia",
+        "end",
+        "text",
+        "travel"
+    ],
+    "Correct Labels": [
+        "think",
+        "man",
+        "jacket",
+        "trees",
+        "year",
+        "bubble",
+        "australia",
+        "end",
+        "text",
+        "travel"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

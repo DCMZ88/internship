@@ -1,0 +1,30 @@
+{
+    "Image Path": "763.jpg",
+    "Original Labels": [
+        "chair",
+        "job interview",
+        "employee",
+        "employer",
+        "desk",
+        "cartoon",
+        "office",
+        "window",
+        "wall",
+        "door"
+    ],
+    "Correct Labels": [
+        "chair",
+        "cartoon",
+        "desk",
+        "window",
+        "wall",
+        "door",
+        "office"
+    ],
+    "Incorrect Labels": [
+        "job interview",
+        "employee",
+        "employer"
+    ],
+    "Precision": 0.7
+}

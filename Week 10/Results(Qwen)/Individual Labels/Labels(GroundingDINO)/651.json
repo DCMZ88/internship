@@ -1,0 +1,29 @@
+{
+    "Image Path": "651.jpg",
+    "Original Labels": [
+        "stadium lights",
+        "leg",
+        "flagpole",
+        "flag",
+        "athlete",
+        "banner",
+        "woman",
+        "race bib",
+        "hand",
+        "crowd"
+    ],
+    "Correct Labels": [
+        "stadium lights",
+        "leg",
+        "flagpole",
+        "flag",
+        "athlete",
+        "banner",
+        "woman",
+        "race bib",
+        "hand",
+        "crowd"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

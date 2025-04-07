@@ -1,0 +1,29 @@
+{
+    "Image Path": "612.jpg",
+    "Original Labels": [
+        "man",
+        "restaurant",
+        "speech bubble",
+        "plate",
+        "woman",
+        "palm",
+        "tablecloth",
+        "wine glass",
+        "hand gesture",
+        "finger"
+    ],
+    "Correct Labels": [
+        "man",
+        "restaurant",
+        "speech bubble",
+        "plate",
+        "woman",
+        "palm",
+        "tablecloth",
+        "wine glass",
+        "hand gesture",
+        "finger"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

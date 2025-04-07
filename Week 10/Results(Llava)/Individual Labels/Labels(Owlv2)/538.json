@@ -1,0 +1,30 @@
+{
+    "Image Path": "538.jpg",
+    "Original Labels": [
+        "maserati",
+        "car",
+        "text",
+        "police",
+        "rabbit",
+        "officer",
+        "star",
+        "officer's uniform",
+        "flag",
+        "crescent moon"
+    ],
+    "Correct Labels": [
+        "text",
+        "crescent moon",
+        "rabbit"
+    ],
+    "Incorrect Labels": [
+        "maserati",
+        "car",
+        "police",
+        "officer",
+        "star",
+        "officer's uniform",
+        "flag"
+    ],
+    "Precision": 0.3
+}

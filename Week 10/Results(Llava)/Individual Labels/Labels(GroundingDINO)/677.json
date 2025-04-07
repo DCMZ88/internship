@@ -1,0 +1,29 @@
+{
+    "Image Path": "677.jpg",
+    "Original Labels": [
+        "circle",
+        "percentage sign",
+        "punctuation",
+        "letter",
+        "color gradient",
+        "word",
+        "question mark",
+        "color",
+        "number",
+        "text"
+    ],
+    "Correct Labels": [
+        "circle",
+        "percentage sign",
+        "punctuation",
+        "letter",
+        "color gradient",
+        "word",
+        "question mark",
+        "color",
+        "number",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

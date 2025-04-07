@@ -1,0 +1,24 @@
+{
+    "Image Path": "705.jpg",
+    "Original Labels": [
+        "man",
+        "referee",
+        "crowd",
+        "woman",
+        "boxing glove",
+        "boxing ring",
+        "shirt"
+    ],
+    "Correct Labels": [
+        "man",
+        "referee",
+        "crowd",
+        "shirt",
+        "woman",
+        "boxing glove"
+    ],
+    "Incorrect Labels": [
+        "boxing ring"
+    ],
+    "Precision": 0.857
+}

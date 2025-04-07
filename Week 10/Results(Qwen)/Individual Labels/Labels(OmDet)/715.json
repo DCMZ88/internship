@@ -1,0 +1,30 @@
+{
+    "Image Path": "715.png",
+    "Original Labels": [
+        "screen",
+        "stock market",
+        "man",
+        "numbers",
+        "man with arms crossed",
+        "logo",
+        "arrow",
+        "tie",
+        "shirt",
+        "text"
+    ],
+    "Correct Labels": [
+        "man",
+        "shirt",
+        "tie",
+        "text",
+        "arrow"
+    ],
+    "Incorrect Labels": [
+        "screen",
+        "stock market",
+        "numbers",
+        "man with arms crossed",
+        "logo"
+    ],
+    "Precision": 0.5
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "671.png",
+    "Original Labels": [
+        "boy",
+        "glasses",
+        "shirt",
+        "movie poster",
+        "fire",
+        "pumpkin",
+        "parliament",
+        "singapore",
+        "14th parliament",
+        "parliament of singapore"
+    ],
+    "Correct Labels": [
+        "boy",
+        "glasses",
+        "fire"
+    ],
+    "Incorrect Labels": [
+        "shirt",
+        "movie poster",
+        "pumpkin",
+        "parliament",
+        "singapore",
+        "14th parliament",
+        "parliament of singapore"
+    ],
+    "Precision": 0.3
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "554.jpg",
+    "Original Labels": [
+        "image",
+        "stadium roof",
+        "crowd",
+        "stadium lights",
+        "screen",
+        "stadium scoreboard",
+        "stadium",
+        "taylor swift",
+        "stadium seats",
+        "stadium entrance"
+    ],
+    "Correct Labels": [
+        "image",
+        "stadium roof",
+        "crowd",
+        "stadium lights",
+        "screen",
+        "stadium scoreboard",
+        "stadium",
+        "taylor swift",
+        "stadium seats",
+        "stadium entrance"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "689.png",
+    "Original Labels": [
+        "television screen",
+        "woman's hand",
+        "glass on table",
+        "cat's whiskers",
+        "woman's earring",
+        "woman's hair",
+        "man's suit jacket",
+        "salad on plate",
+        "cat's paw",
+        "man's tie"
+    ],
+    "Correct Labels": [
+        "woman's earring",
+        "woman's hair",
+        "cat's whiskers",
+        "man's suit jacket",
+        "salad on plate"
+    ],
+    "Incorrect Labels": [
+        "television screen",
+        "woman's hand",
+        "glass on table",
+        "cat's paw",
+        "man's tie"
+    ],
+    "Precision": 0.5
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "552.jpg",
+    "Original Labels": [
+        "tie",
+        "vote",
+        "microphone",
+        "podium",
+        "singaporean flag",
+        "singapore",
+        "sweater",
+        "tharman",
+        "voters",
+        "suit"
+    ],
+    "Correct Labels": [
+        "tie",
+        "vote",
+        "microphone",
+        "podium",
+        "singaporean flag",
+        "singapore",
+        "sweater",
+        "tharman",
+        "voters",
+        "suit"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

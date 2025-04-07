@@ -1,0 +1,30 @@
+{
+    "Image Path": "746.jpg",
+    "Original Labels": [
+        "character",
+        "fire",
+        "smoke",
+        "arm",
+        "hand",
+        "glove",
+        "mouth",
+        "teeth",
+        "hair",
+        "costume"
+    ],
+    "Correct Labels": [
+        "character",
+        "arm"
+    ],
+    "Incorrect Labels": [
+        "fire",
+        "smoke",
+        "hand",
+        "glove",
+        "mouth",
+        "teeth",
+        "hair",
+        "costume"
+    ],
+    "Precision": 0.2
+}

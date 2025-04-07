@@ -1,0 +1,30 @@
+{
+    "Image Path": "517.jpg",
+    "Original Labels": [
+        "color",
+        "text",
+        "screen",
+        "rabbit",
+        "letter",
+        "image",
+        "font",
+        "water",
+        "background",
+        "character"
+    ],
+    "Correct Labels": [
+        "color",
+        "background",
+        "text",
+        "rabbit",
+        "image",
+        "letter",
+        "screen"
+    ],
+    "Incorrect Labels": [
+        "font",
+        "water",
+        "character"
+    ],
+    "Precision": 0.7
+}

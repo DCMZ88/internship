@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "car",
+        "door",
+        "window",
+        "tire",
+        "mirror",
+        "light",
+        "sign",
+        "pole",
+        "street",
+        "building"
+    ]
+}

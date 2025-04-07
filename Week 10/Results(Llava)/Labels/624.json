@@ -1,0 +1,30 @@
+{
+    "Image Path": "624.jpg",
+    "Original Labels": [
+        "water",
+        "cityscape",
+        "sky",
+        "clouds",
+        "buildings",
+        "watch",
+        "ring",
+        "pants",
+        "shirt",
+        "suit"
+    ],
+    "Correct Labels": [
+        "water",
+        "watch",
+        "ring",
+        "pants",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "cityscape",
+        "sky",
+        "clouds",
+        "buildings",
+        "suit"
+    ],
+    "Precision": 0.5
+}

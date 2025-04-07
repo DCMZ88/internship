@@ -1,0 +1,30 @@
+{
+    "Image Path": "593.jpg",
+    "Original Labels": [
+        "door",
+        "text",
+        "screen",
+        "gun",
+        "laser",
+        "date",
+        "robot",
+        "man",
+        "number",
+        "woman"
+    ],
+    "Correct Labels": [
+        "man",
+        "woman",
+        "gun",
+        "door",
+        "number",
+        "screen"
+    ],
+    "Incorrect Labels": [
+        "text",
+        "laser",
+        "date",
+        "robot"
+    ],
+    "Precision": 0.6
+}

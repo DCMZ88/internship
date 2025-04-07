@@ -1,0 +1,30 @@
+{
+    "Image Path": "616.png",
+    "Original Labels": [
+        "drawer",
+        "woman",
+        "lightning bolt",
+        "hammer",
+        "man",
+        "heart",
+        "screw",
+        "wall socket",
+        "coffin",
+        "screwdriver"
+    ],
+    "Correct Labels": [
+        "hammer",
+        "heart",
+        "coffin",
+        "drawer",
+        "screw"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "lightning bolt",
+        "man",
+        "wall socket",
+        "screwdriver"
+    ],
+    "Precision": 0.5
+}

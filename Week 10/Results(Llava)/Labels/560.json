@@ -1,0 +1,30 @@
+{
+    "Image Path": "560.jpg",
+    "Original Labels": [
+        "sign",
+        "arrow",
+        "man",
+        "shirt",
+        "gag",
+        "paper",
+        "hand",
+        "flag",
+        "light",
+        "letter"
+    ],
+    "Correct Labels": [
+        "sign",
+        "arrow",
+        "man",
+        "shirt",
+        "paper",
+        "hand",
+        "flag",
+        "letter"
+    ],
+    "Incorrect Labels": [
+        "gag",
+        "light"
+    ],
+    "Precision": 0.8
+}

@@ -1,0 +1,29 @@
+{
+    "Image Path": "714.png",
+    "Original Labels": [
+        "light fixture",
+        "man",
+        "shirt",
+        "sweater",
+        "glasses",
+        "refrigerator",
+        "wall",
+        "cabinets",
+        "counter",
+        "ceiling"
+    ],
+    "Correct Labels": [
+        "light fixture",
+        "man",
+        "shirt",
+        "sweater",
+        "glasses",
+        "refrigerator",
+        "wall",
+        "cabinets",
+        "counter",
+        "ceiling"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

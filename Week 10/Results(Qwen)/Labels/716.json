@@ -1,0 +1,20 @@
+{
+    "Image Path": "716.png",
+    "Original Labels": [
+        "fisherman",
+        "glasses",
+        "ge",
+        "coincidence",
+        "i think not"
+    ],
+    "Correct Labels": [
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "fisherman",
+        "ge",
+        "coincidence",
+        "i think not"
+    ],
+    "Precision": 0.2
+}

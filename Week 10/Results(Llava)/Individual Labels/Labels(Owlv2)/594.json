@@ -1,0 +1,30 @@
+{
+    "Image Path": "594.jpg",
+    "Original Labels": [
+        "tie",
+        "stage",
+        "seat",
+        "microphone",
+        "suit",
+        "television screen",
+        "audience",
+        "lights",
+        "camera",
+        "man"
+    ],
+    "Correct Labels": [
+        "suit",
+        "microphone"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "stage",
+        "seat",
+        "television screen",
+        "audience",
+        "lights",
+        "camera",
+        "man"
+    ],
+    "Precision": 0.2
+}

@@ -1,0 +1,18 @@
+{
+    "Image Path": "668.jpg",
+    "Original Labels": [
+        "snail",
+        "turtle",
+        "internet explorer logo",
+        "pap, wp, dealing with scandals"
+    ],
+    "Correct Labels": [
+        "turtle",
+        "internet explorer logo"
+    ],
+    "Incorrect Labels": [
+        "snail",
+        "pap, wp, dealing with scandals"
+    ],
+    "Precision": 0.5
+}

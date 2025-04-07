@@ -1,0 +1,30 @@
+{
+    "Image Path": "713.png",
+    "Original Labels": [
+        "suit",
+        "woman",
+        "vest",
+        "sign",
+        "ball",
+        "tie",
+        "hat",
+        "dog",
+        "sunglasses",
+        "text"
+    ],
+    "Correct Labels": [
+        "text",
+        "tie",
+        "hat",
+        "suit",
+        "vest",
+        "sunglasses"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "sign",
+        "ball",
+        "dog"
+    ],
+    "Precision": 0.6
+}

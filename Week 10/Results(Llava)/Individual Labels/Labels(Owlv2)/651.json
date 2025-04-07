@@ -1,0 +1,30 @@
+{
+    "Image Path": "651.jpg",
+    "Original Labels": [
+        "stadium",
+        "glass",
+        "seat",
+        "number",
+        "table",
+        "chair",
+        "bar",
+        "flag",
+        "wine bottle",
+        "person"
+    ],
+    "Correct Labels": [
+        "person",
+        "glass",
+        "chair",
+        "table",
+        "flag",
+        "number"
+    ],
+    "Incorrect Labels": [
+        "stadium",
+        "seat",
+        "bar",
+        "wine bottle"
+    ],
+    "Precision": 0.6
+}

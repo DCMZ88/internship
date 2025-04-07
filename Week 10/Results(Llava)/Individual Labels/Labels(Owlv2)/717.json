@@ -1,0 +1,30 @@
+{
+    "Image Path": "717.png",
+    "Original Labels": [
+        "eraser",
+        "paintbrush",
+        "blackboard",
+        "chalk",
+        "light bulb",
+        "pencil",
+        "chair",
+        "desk",
+        "book",
+        "ruler"
+    ],
+    "Correct Labels": [
+        "chalk",
+        "eraser",
+        "blackboard"
+    ],
+    "Incorrect Labels": [
+        "paintbrush",
+        "light bulb",
+        "pencil",
+        "chair",
+        "desk",
+        "book",
+        "ruler"
+    ],
+    "Precision": 0.3
+}

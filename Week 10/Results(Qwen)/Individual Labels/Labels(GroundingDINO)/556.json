@@ -1,0 +1,29 @@
+{
+    "Image Path": "556.jpg",
+    "Original Labels": [
+        "hub",
+        "man",
+        "logo",
+        "yellow",
+        "singapore",
+        "singer",
+        "jacket",
+        "sports",
+        "hoodie",
+        "orange"
+    ],
+    "Correct Labels": [
+        "hub",
+        "man",
+        "logo",
+        "yellow",
+        "singapore",
+        "singer",
+        "jacket",
+        "sports",
+        "hoodie",
+        "orange"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "592.jpg",
+    "Original Labels": [
+        "door",
+        "spider-man costume",
+        "spider-man mask",
+        "police car",
+        "spider-man gloves",
+        "spider-man web shooters",
+        "spider-man boots",
+        "spider-man belt",
+        "spider-man emblem",
+        "spider-man pants"
+    ],
+    "Correct Labels": [
+        "spider-man boots",
+        "spider-man emblem",
+        "spider-man pants",
+        "door",
+        "spider-man costume",
+        "spider-man gloves"
+    ],
+    "Incorrect Labels": [
+        "spider-man mask",
+        "police car",
+        "spider-man web shooters",
+        "spider-man belt"
+    ],
+    "Precision": 0.6
+}

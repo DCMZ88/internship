@@ -1,0 +1,30 @@
+{
+    "Image Path": "704.jpg",
+    "Original Labels": [
+        "studio",
+        "television",
+        "tie",
+        "microphone",
+        "suit",
+        "lighting",
+        "background",
+        "camera",
+        "mustache",
+        "man"
+    ],
+    "Correct Labels": [
+        "man",
+        "mustache",
+        "suit",
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "studio",
+        "television",
+        "microphone",
+        "lighting",
+        "background",
+        "camera"
+    ],
+    "Precision": 0.4
+}

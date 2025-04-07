@@ -1,0 +1,30 @@
+{
+    "Image Path": "660.jpg",
+    "Original Labels": [
+        "door",
+        "glasses",
+        "elevator",
+        "phone",
+        "pants",
+        "screen",
+        "shirt",
+        "speaker",
+        "stairs",
+        "ear"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "phone",
+        "screen",
+        "shirt",
+        "ear",
+        "pants",
+        "stairs",
+        "speaker",
+        "door"
+    ],
+    "Incorrect Labels": [
+        "elevator"
+    ],
+    "Precision": 0.9
+}

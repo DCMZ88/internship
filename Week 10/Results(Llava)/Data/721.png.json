@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "text",
+        "number",
+        "percentage",
+        "word",
+        "image",
+        "character",
+        "letter",
+        "quote",
+        "color",
+        "font"
+    ]
+}

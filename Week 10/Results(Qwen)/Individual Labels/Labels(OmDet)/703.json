@@ -1,0 +1,20 @@
+{
+    "Image Path": "703.jpg",
+    "Original Labels": [
+        "raeesah",
+        "jamus lim",
+        "pritam",
+        "faisal manap",
+        "sylvia lim"
+    ],
+    "Correct Labels": [
+        "raeesah",
+        "sylvia lim",
+        "pritam"
+    ],
+    "Incorrect Labels": [
+        "jamus lim",
+        "faisal manap"
+    ],
+    "Precision": 0.6
+}

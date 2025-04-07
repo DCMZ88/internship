@@ -1,0 +1,29 @@
+{
+    "Image Path": "631.jpg",
+    "Original Labels": [
+        "mouse",
+        "keyboard",
+        "tie",
+        "wall",
+        "man",
+        "jacket",
+        "computer monitor",
+        "papers",
+        "desk",
+        "pants"
+    ],
+    "Correct Labels": [
+        "mouse",
+        "keyboard",
+        "tie",
+        "wall",
+        "man",
+        "jacket",
+        "computer monitor",
+        "papers",
+        "desk",
+        "pants"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

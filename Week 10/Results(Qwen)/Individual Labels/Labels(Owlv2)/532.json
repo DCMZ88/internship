@@ -1,0 +1,24 @@
+{
+    "Image Path": "532.jpg",
+    "Original Labels": [
+        "ring",
+        "elmo",
+        "mat",
+        "crowd",
+        "audience",
+        "referee",
+        "sumo wrestler"
+    ],
+    "Correct Labels": [
+        "elmo",
+        "crowd"
+    ],
+    "Incorrect Labels": [
+        "ring",
+        "mat",
+        "audience",
+        "referee",
+        "sumo wrestler"
+    ],
+    "Precision": 0.2
+}

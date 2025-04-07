@@ -1,0 +1,30 @@
+{
+    "Image Path": "596.jpg",
+    "Original Labels": [
+        "man",
+        "soldier",
+        "flag",
+        "speech bubble",
+        "text",
+        "military uniform",
+        "tie",
+        "glasses",
+        "shirt",
+        "dirt"
+    ],
+    "Correct Labels": [
+        "man",
+        "soldier",
+        "speech bubble",
+        "text",
+        "military uniform",
+        "glasses",
+        "shirt",
+        "dirt"
+    ],
+    "Incorrect Labels": [
+        "flag",
+        "tie"
+    ],
+    "Precision": 0.8
+}

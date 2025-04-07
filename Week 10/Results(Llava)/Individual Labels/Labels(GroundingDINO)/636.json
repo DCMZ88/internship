@@ -1,0 +1,29 @@
+{
+    "Image Path": "636.jpg",
+    "Original Labels": [
+        "image",
+        "emoji",
+        "cartoon",
+        "reaction",
+        "screen",
+        "character",
+        "character design",
+        "animation",
+        "dialogue",
+        "text"
+    ],
+    "Correct Labels": [
+        "image",
+        "emoji",
+        "cartoon",
+        "reaction",
+        "screen",
+        "character",
+        "character design",
+        "animation",
+        "dialogue",
+        "text"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

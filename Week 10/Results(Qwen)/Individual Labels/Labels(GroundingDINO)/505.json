@@ -1,0 +1,23 @@
+{
+    "Image Path": "505.jpg",
+    "Original Labels": [
+        "judiciously",
+        "land",
+        "plan",
+        "singapore",
+        "govt",
+        "road",
+        "area"
+    ],
+    "Correct Labels": [
+        "judiciously",
+        "land",
+        "plan",
+        "singapore",
+        "govt",
+        "road",
+        "area"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

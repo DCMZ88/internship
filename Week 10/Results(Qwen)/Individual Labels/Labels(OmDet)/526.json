@@ -1,0 +1,28 @@
+{
+    "Image Path": "526.jpg",
+    "Original Labels": [
+        "boy",
+        "vape",
+        "shirt",
+        "smoke",
+        "cable car",
+        "man",
+        "cable",
+        "window",
+        "laptop"
+    ],
+    "Correct Labels": [
+        "boy",
+        "shirt",
+        "man",
+        "window",
+        "vape",
+        "laptop"
+    ],
+    "Incorrect Labels": [
+        "smoke",
+        "cable car",
+        "cable"
+    ],
+    "Precision": 0.667
+}

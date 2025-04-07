@@ -1,0 +1,30 @@
+{
+    "Image Path": "688.jpg",
+    "Original Labels": [
+        "man",
+        "mansion",
+        "money",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion"
+    ],
+    "Correct Labels": [
+        "man"
+    ],
+    "Incorrect Labels": [
+        "mansion",
+        "money",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion",
+        "mansion"
+    ],
+    "Precision": 0.1
+}

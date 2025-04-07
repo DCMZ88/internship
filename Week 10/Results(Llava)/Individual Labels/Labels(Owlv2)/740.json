@@ -1,0 +1,26 @@
+{
+    "Image Path": "740.jpg",
+    "Original Labels": [
+        "mcdonald's logo on hat",
+        "mcdonald's logo on pants",
+        "mcdonald's logo on shoes",
+        "mcdonald's logo on shirt",
+        "clown hat",
+        "mcdonald's logo on tie",
+        "mcdonald's logo",
+        "ronald mcdonald"
+    ],
+    "Correct Labels": [
+        "clown hat",
+        "ronald mcdonald",
+        "mcdonald's logo on shirt",
+        "mcdonald's logo on tie",
+        "mcdonald's logo"
+    ],
+    "Incorrect Labels": [
+        "mcdonald's logo on hat",
+        "mcdonald's logo on pants",
+        "mcdonald's logo on shoes"
+    ],
+    "Precision": 0.5
+}

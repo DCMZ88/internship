@@ -1,0 +1,28 @@
+{
+    "Image Path": "560.jpg",
+    "Original Labels": [
+        "kenneth jeyaretnam",
+        "ridout report",
+        "tape",
+        "man",
+        "microphone",
+        "arrow",
+        "sign",
+        "finger",
+        "paper"
+    ],
+    "Correct Labels": [
+        "man",
+        "arrow",
+        "sign",
+        "paper",
+        "finger",
+        "microphone",
+        "ridout report"
+    ],
+    "Incorrect Labels": [
+        "kenneth jeyaretnam",
+        "tape"
+    ],
+    "Precision": 0.778
+}

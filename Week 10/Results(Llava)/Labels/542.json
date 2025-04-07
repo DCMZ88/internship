@@ -1,0 +1,30 @@
+{
+    "Image Path": "542.jpg",
+    "Original Labels": [
+        "phone",
+        "keyboard",
+        "computer monitor",
+        "pen",
+        "pencil",
+        "mouse",
+        "scissors",
+        "bottle",
+        "cup",
+        "paper"
+    ],
+    "Correct Labels": [
+        "phone",
+        "keyboard",
+        "computer monitor",
+        "pen",
+        "pencil",
+        "mouse",
+        "bottle",
+        "cup"
+    ],
+    "Incorrect Labels": [
+        "scissors",
+        "paper"
+    ],
+    "Precision": 0.8
+}

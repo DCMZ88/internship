@@ -1,0 +1,30 @@
+{
+    "Image Path": "680.jpg",
+    "Original Labels": [
+        "arrow",
+        "parentheses",
+        "name",
+        "date",
+        "bullet point",
+        "underlined text",
+        "table",
+        "number",
+        "bold text",
+        "text"
+    ],
+    "Correct Labels": [
+        "arrow",
+        "parentheses",
+        "name",
+        "date",
+        "bullet point",
+        "table",
+        "number",
+        "bold text",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "underlined text"
+    ],
+    "Precision": 0.9
+}

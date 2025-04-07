@@ -1,0 +1,30 @@
+{
+    "Image Path": "503.png",
+    "Original Labels": [
+        "squidward tentacles",
+        "sandy cheeks",
+        "pearl krabs",
+        "patrick star",
+        "spongebob's pineapple house",
+        "krabby patty",
+        "plankton",
+        "spongebob squarepants",
+        "bubbles",
+        "mr. krabs"
+    ],
+    "Correct Labels": [
+        "spongebob squarepants",
+        "spongebob's pineapple house",
+        "pearl krabs",
+        "patrick star",
+        "bubbles"
+    ],
+    "Incorrect Labels": [
+        "squidward tentacles",
+        "sandy cheeks",
+        "krabby patty",
+        "plankton",
+        "mr. krabs"
+    ],
+    "Precision": 0.5
+}

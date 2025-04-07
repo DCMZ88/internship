@@ -1,0 +1,30 @@
+{
+    "Image Path": "765.jpg",
+    "Original Labels": [
+        "tie",
+        "table",
+        "building",
+        "earring",
+        "hair",
+        "shirt",
+        "chair",
+        "watch",
+        "ring",
+        "bracelet"
+    ],
+    "Correct Labels": [
+        "earring",
+        "bracelet",
+        "hair",
+        "shirt",
+        "ring"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "table",
+        "building",
+        "chair",
+        "watch"
+    ],
+    "Precision": 0.5
+}

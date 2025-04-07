@@ -1,0 +1,29 @@
+{
+    "Image Path": "630.jpg",
+    "Original Labels": [
+        "window sill",
+        "frame",
+        "man",
+        "door",
+        "reflection",
+        "window",
+        "trees",
+        "glass",
+        "pine needles",
+        "sky"
+    ],
+    "Correct Labels": [
+        "window sill",
+        "frame",
+        "man",
+        "door",
+        "reflection",
+        "window",
+        "trees",
+        "glass",
+        "pine needles",
+        "sky"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

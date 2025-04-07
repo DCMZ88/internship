@@ -1,0 +1,29 @@
+{
+    "Image Path": "584.jpg",
+    "Original Labels": [
+        "auditorium",
+        "chair",
+        "audience",
+        "lights",
+        "camera",
+        "man",
+        "screen",
+        "television screen",
+        "microphone",
+        "stage"
+    ],
+    "Correct Labels": [
+        "auditorium",
+        "chair",
+        "audience",
+        "lights",
+        "camera",
+        "man",
+        "screen",
+        "television screen",
+        "microphone",
+        "stage"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

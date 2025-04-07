@@ -1,0 +1,30 @@
+{
+    "Image Path": "633.png",
+    "Original Labels": [
+        "iron",
+        "white hoodie",
+        "carpet",
+        "table",
+        "ironing board",
+        "lamp",
+        "remote control",
+        "pillow",
+        "chair",
+        "speaker"
+    ],
+    "Correct Labels": [
+        "chair",
+        "speaker",
+        "table",
+        "white hoodie",
+        "carpet",
+        "remote control",
+        "pillow"
+    ],
+    "Incorrect Labels": [
+        "iron",
+        "ironing board",
+        "lamp"
+    ],
+    "Precision": 0.7
+}

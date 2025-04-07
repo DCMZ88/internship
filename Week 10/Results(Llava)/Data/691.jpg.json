@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "character",
+        "text",
+        "screen",
+        "image",
+        "words",
+        "font",
+        "color",
+        "background",
+        "subtitle",
+        "caption"
+    ]
+}

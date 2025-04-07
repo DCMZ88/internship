@@ -1,0 +1,30 @@
+{
+    "Image Path": "631.jpg",
+    "Original Labels": [
+        "computer",
+        "gloves",
+        "jacket",
+        "tie",
+        "monitor",
+        "helmet",
+        "mask",
+        "shirt",
+        "gun",
+        "pants"
+    ],
+    "Correct Labels": [
+        "tie",
+        "monitor",
+        "shirt",
+        "gun",
+        "computer",
+        "jacket",
+        "pants"
+    ],
+    "Incorrect Labels": [
+        "gloves",
+        "helmet",
+        "mask"
+    ],
+    "Precision": 0.7
+}

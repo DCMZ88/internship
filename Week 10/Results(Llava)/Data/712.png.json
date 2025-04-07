@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "person",
+        "chair",
+        "wall",
+        "floor",
+        "ceiling",
+        "light",
+        "screen",
+        "speaker",
+        "microphone",
+        "cable"
+    ]
+}

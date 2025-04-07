@@ -1,0 +1,30 @@
+{
+    "Image Path": "715.png",
+    "Original Labels": [
+        "numbers",
+        "arrow",
+        "tie",
+        "graph",
+        "logo",
+        "suit",
+        "tears",
+        "man",
+        "red background",
+        "wall"
+    ],
+    "Correct Labels": [
+        "man",
+        "suit",
+        "red background",
+        "wall",
+        "tie",
+        "graph",
+        "arrow"
+    ],
+    "Incorrect Labels": [
+        "numbers",
+        "logo",
+        "tears"
+    ],
+    "Precision": 0.7
+}

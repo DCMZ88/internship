@@ -1,0 +1,30 @@
+{
+    "Image Path": "622.jpg",
+    "Original Labels": [
+        "snoopy",
+        "mickey mouse",
+        "city skyline",
+        "dilbert",
+        "tweety bird",
+        "eeyore",
+        "grass",
+        "donald duck",
+        "charlie brown",
+        "piglet"
+    ],
+    "Correct Labels": [
+        "city skyline",
+        "dilbert",
+        "piglet",
+        "grass"
+    ],
+    "Incorrect Labels": [
+        "snoopy",
+        "mickey mouse",
+        "tweety bird",
+        "eeyore",
+        "donald duck",
+        "charlie brown"
+    ],
+    "Precision": 0.4
+}

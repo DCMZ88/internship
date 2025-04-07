@@ -1,0 +1,30 @@
+{
+    "Image Path": "551.jpg",
+    "Original Labels": [
+        "image of a superhero costume group",
+        "logo",
+        "microphone",
+        "text",
+        "image of a superhero group",
+        "image of a person in a costume",
+        "image of a group of people",
+        "image of a superhero costume",
+        "image of a superhero",
+        "image of a person"
+    ],
+    "Correct Labels": [
+        "image of a person",
+        "microphone",
+        "logo",
+        "image of a person in a costume",
+        "image of a superhero",
+        "image of a superhero group",
+        "image of a superhero costume",
+        "image of a superhero costume group"
+    ],
+    "Incorrect Labels": [
+        "text",
+        "image of a group of people"
+    ],
+    "Precision": 0.8
+}

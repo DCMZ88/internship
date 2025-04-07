@@ -1,0 +1,15 @@
+{
+    "Image Path": "593.jpg",
+    "Original Labels": [
+        "singaporeans",
+        "mps",
+        "july"
+    ],
+    "Correct Labels": [
+        "singaporeans",
+        "mps",
+        "july"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

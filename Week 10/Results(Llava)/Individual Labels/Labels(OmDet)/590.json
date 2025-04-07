@@ -1,0 +1,30 @@
+{
+    "Image Path": "590.jpg",
+    "Original Labels": [
+        "blurred image of a child",
+        "blurred image",
+        "blurred image of a person",
+        "blurred background",
+        "microphone",
+        "blurred photo",
+        "headphones",
+        "blurred text",
+        "blurred video",
+        "earphones"
+    ],
+    "Correct Labels": [
+        "blurred image of a child",
+        "blurred image of a person",
+        "blurred image",
+        "blurred photo",
+        "blurred background",
+        "blurred text",
+        "blurred video",
+        "earphones"
+    ],
+    "Incorrect Labels": [
+        "microphone",
+        "headphones"
+    ],
+    "Precision": 0.8
+}

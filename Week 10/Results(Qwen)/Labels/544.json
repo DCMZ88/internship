@@ -1,0 +1,30 @@
+{
+    "Image Path": "544.jpg",
+    "Original Labels": [
+        "bear",
+        "door",
+        "toilet",
+        "couch",
+        "underwear",
+        "socks",
+        "pants",
+        "hat",
+        "backpack",
+        "pillow"
+    ],
+    "Correct Labels": [
+        "bear"
+    ],
+    "Incorrect Labels": [
+        "door",
+        "toilet",
+        "couch",
+        "underwear",
+        "socks",
+        "pants",
+        "hat",
+        "backpack",
+        "pillow"
+    ],
+    "Precision": 0.1
+}

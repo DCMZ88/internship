@@ -1,0 +1,29 @@
+{
+    "Image Path": "589.JPG",
+    "Original Labels": [
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man"
+    ],
+    "Precision": 0.0
+}

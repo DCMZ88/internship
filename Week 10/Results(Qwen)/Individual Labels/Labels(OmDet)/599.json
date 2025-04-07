@@ -1,0 +1,30 @@
+{
+    "Image Path": "599.png",
+    "Original Labels": [
+        "screen",
+        "phone",
+        "keyboard",
+        "microphone",
+        "mouse",
+        "monitor",
+        "tie",
+        "podium",
+        "shirt",
+        "laptop"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "phone",
+        "screen",
+        "monitor",
+        "podium",
+        "shirt",
+        "tie"
+    ],
+    "Incorrect Labels": [
+        "keyboard",
+        "mouse",
+        "laptop"
+    ],
+    "Precision": 0.7
+}

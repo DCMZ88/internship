@@ -1,0 +1,28 @@
+{
+    "Image Path": "676.jpg",
+    "Original Labels": [
+        "brown stripes",
+        "subtitles",
+        "yellow sun icon",
+        "yellow background",
+        "driver",
+        "glasses",
+        "shirt",
+        "chinese text",
+        "text"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "shirt",
+        "driver",
+        "text",
+        "yellow background",
+        "yellow sun icon",
+        "chinese text"
+    ],
+    "Incorrect Labels": [
+        "brown stripes",
+        "subtitles"
+    ],
+    "Precision": 0.778
+}

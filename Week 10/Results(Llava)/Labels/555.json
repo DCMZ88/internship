@@ -1,0 +1,30 @@
+{
+    "Image Path": "555.png",
+    "Original Labels": [
+        "waterfall",
+        "windmill",
+        "buildings",
+        "trees",
+        "people",
+        "train tracks",
+        "mountains",
+        "sky",
+        "clouds",
+        "grass"
+    ],
+    "Correct Labels": [
+        "windmill",
+        "mountains",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "waterfall",
+        "buildings",
+        "trees",
+        "people",
+        "train tracks",
+        "clouds",
+        "grass"
+    ],
+    "Precision": 0.3
+}

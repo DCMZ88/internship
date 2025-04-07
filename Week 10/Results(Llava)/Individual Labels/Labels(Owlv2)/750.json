@@ -1,0 +1,30 @@
+{
+    "Image Path": "750.jpg",
+    "Original Labels": [
+        "eyes",
+        "bow",
+        "mouth",
+        "ear",
+        "character",
+        "glasses",
+        "star",
+        "hair",
+        "dress",
+        "nose"
+    ],
+    "Correct Labels": [
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "eyes",
+        "bow",
+        "mouth",
+        "ear",
+        "character",
+        "star",
+        "hair",
+        "dress",
+        "nose"
+    ],
+    "Precision": 0.1
+}

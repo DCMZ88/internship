@@ -1,0 +1,30 @@
+{
+    "Image Path": "642.jpg",
+    "Original Labels": [
+        "tie",
+        "post",
+        "text",
+        "glasses",
+        "phone",
+        "social media",
+        "hair",
+        "shirt",
+        "screen",
+        "man"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "social media",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "post",
+        "glasses",
+        "phone",
+        "hair",
+        "screen",
+        "man"
+    ],
+    "Precision": 0.3
+}

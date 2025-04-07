@@ -1,0 +1,30 @@
+{
+    "Image Path": "738.jpg",
+    "Original Labels": [
+        "marvel",
+        "deaths",
+        "knife",
+        "should",
+        "cases",
+        "balance",
+        "pen",
+        "thing",
+        "be",
+        "finger"
+    ],
+    "Correct Labels": [
+        "knife",
+        "pen",
+        "marvel",
+        "finger"
+    ],
+    "Incorrect Labels": [
+        "deaths",
+        "should",
+        "cases",
+        "balance",
+        "thing",
+        "be"
+    ],
+    "Precision": 0.4
+}

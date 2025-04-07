@@ -1,0 +1,29 @@
+{
+    "Image Path": "511.jpg",
+    "Original Labels": [
+        "wall",
+        "camera",
+        "man",
+        "sign",
+        "door",
+        "woman",
+        "airport",
+        "floor",
+        "robot",
+        "seat"
+    ],
+    "Correct Labels": [
+        "wall",
+        "camera",
+        "man",
+        "sign",
+        "door",
+        "woman",
+        "airport",
+        "floor",
+        "robot",
+        "seat"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,20 @@
+{
+    "Image Path": "625.png",
+    "Original Labels": [
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character",
+        "cartoon character"
+    ],
+    "Correct Labels": [
+        "cartoon character"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 0.1
+}

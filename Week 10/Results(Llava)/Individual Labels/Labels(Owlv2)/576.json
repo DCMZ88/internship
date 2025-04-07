@@ -1,0 +1,30 @@
+{
+    "Image Path": "576.jpg",
+    "Original Labels": [
+        "person",
+        "car",
+        "traffic light",
+        "jacket",
+        "street",
+        "bars",
+        "mask",
+        "building",
+        "glove",
+        "bus"
+    ],
+    "Correct Labels": [
+        "building",
+        "bus",
+        "person",
+        "traffic light",
+        "car",
+        "mask",
+        "bars",
+        "glove"
+    ],
+    "Incorrect Labels": [
+        "jacket",
+        "street"
+    ],
+    "Precision": 0.8
+}

@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "door",
+        "staircase",
+        "railing",
+        "floor",
+        "wall",
+        "corner",
+        "ceiling",
+        "light fixture",
+        "paint",
+        "mask"
+    ]
+}

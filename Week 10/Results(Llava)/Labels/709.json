@@ -1,0 +1,30 @@
+{
+    "Image Path": "709.png",
+    "Original Labels": [
+        "spider-man costume",
+        "hat",
+        "jacket",
+        "shirt",
+        "pants",
+        "shoes",
+        "tie",
+        "watch",
+        "ring",
+        "glasses"
+    ],
+    "Correct Labels": [
+        "hat",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "spider-man costume",
+        "jacket",
+        "pants",
+        "shoes",
+        "tie",
+        "watch",
+        "ring",
+        "glasses"
+    ],
+    "Precision": 0.2
+}

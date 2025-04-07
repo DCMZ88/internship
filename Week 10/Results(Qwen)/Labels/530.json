@@ -1,0 +1,30 @@
+{
+    "Image Path": "530.jpg",
+    "Original Labels": [
+        "woman",
+        "man",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple"
+    ],
+    "Correct Labels": [
+        "woman",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple",
+        "temple"
+    ],
+    "Precision": 0.2
+}

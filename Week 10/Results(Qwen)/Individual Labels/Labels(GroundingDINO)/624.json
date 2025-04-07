@@ -1,0 +1,21 @@
+{
+    "Image Path": "624.jpg",
+    "Original Labels": [
+        "pink socks",
+        "pink sneakers",
+        "pink shirt",
+        "pink pants",
+        "pink shoes",
+        "pink jacket"
+    ],
+    "Correct Labels": [
+        "pink socks",
+        "pink sneakers",
+        "pink shirt",
+        "pink pants",
+        "pink shoes",
+        "pink jacket"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

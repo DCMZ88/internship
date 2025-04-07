@@ -1,0 +1,30 @@
+{
+    "Image Path": "606.jpg",
+    "Original Labels": [
+        "palmer",
+        "parliament",
+        "tan",
+        "affair",
+        "chuan-jin",
+        "cheng li hui",
+        "extramarital",
+        "speaker",
+        "resigns",
+        "mp"
+    ],
+    "Correct Labels": [
+        "palmer",
+        "parliament",
+        "tan",
+        "affair",
+        "cheng li hui",
+        "extramarital",
+        "resigns",
+        "mp"
+    ],
+    "Incorrect Labels": [
+        "chuan-jin",
+        "speaker"
+    ],
+    "Precision": 0.8
+}

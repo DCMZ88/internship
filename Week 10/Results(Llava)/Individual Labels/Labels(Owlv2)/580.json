@@ -1,0 +1,28 @@
+{
+    "Image Path": "580.jpg",
+    "Original Labels": [
+        "sky",
+        "sponge",
+        "clouds",
+        "grass",
+        "coral",
+        "squid",
+        "flowers",
+        "starfish",
+        "tree"
+    ],
+    "Correct Labels": [
+        "starfish"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "sponge",
+        "clouds",
+        "grass",
+        "coral",
+        "squid",
+        "flowers",
+        "tree"
+    ],
+    "Precision": 0.1
+}

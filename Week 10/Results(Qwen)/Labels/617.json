@@ -1,0 +1,21 @@
+{
+    "Image Path": "617.jpg",
+    "Original Labels": [
+        "s. iswaran",
+        "indranee rajah",
+        "tharman shanmugaratnam",
+        "jani puthucheary",
+        "k. shammugam",
+        "vivian balakrishnan"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "s. iswaran",
+        "indranee rajah",
+        "tharman shanmugaratnam",
+        "jani puthucheary",
+        "k. shammugam",
+        "vivian balakrishnan"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,30 @@
+{
+    "Image Path": "598.jpg",
+    "Original Labels": [
+        "tie",
+        "shovel",
+        "man",
+        "sign",
+        "ground",
+        "plant",
+        "fence",
+        "hat",
+        "photo",
+        "suit"
+    ],
+    "Correct Labels": [
+        "tie",
+        "shovel",
+        "man",
+        "ground",
+        "plant",
+        "fence",
+        "hat",
+        "photo",
+        "suit"
+    ],
+    "Incorrect Labels": [
+        "sign"
+    ],
+    "Precision": 0.9
+}

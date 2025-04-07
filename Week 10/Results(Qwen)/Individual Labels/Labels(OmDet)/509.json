@@ -1,0 +1,28 @@
+{
+    "Image Path": "509.jpg",
+    "Original Labels": [
+        "gears",
+        "parliamentary session",
+        "breaking news",
+        "nobody cares",
+        "gears grinds my gears",
+        "news ticker",
+        "ridout rd",
+        "peter griffin",
+        "singaporeans"
+    ],
+    "Correct Labels": [
+        "gears",
+        "gears grinds my gears",
+        "breaking news",
+        "news ticker",
+        "nobody cares"
+    ],
+    "Incorrect Labels": [
+        "parliamentary session",
+        "ridout rd",
+        "peter griffin",
+        "singaporeans"
+    ],
+    "Precision": 0.556
+}

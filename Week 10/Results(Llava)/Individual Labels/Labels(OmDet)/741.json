@@ -1,0 +1,30 @@
+{
+    "Image Path": "741.jpg",
+    "Original Labels": [
+        "sandals",
+        "bench",
+        "phone",
+        "jeans",
+        "shorts",
+        "grass",
+        "sunglasses",
+        "shoes",
+        "hair",
+        "t-shirt"
+    ],
+    "Correct Labels": [
+        "phone",
+        "shoes",
+        "bench",
+        "grass",
+        "sandals",
+        "shorts",
+        "t-shirt",
+        "hair"
+    ],
+    "Incorrect Labels": [
+        "jeans",
+        "sunglasses"
+    ],
+    "Precision": 0.8
+}

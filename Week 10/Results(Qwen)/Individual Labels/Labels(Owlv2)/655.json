@@ -1,0 +1,19 @@
+{
+    "Image Path": "655.png",
+    "Original Labels": [
+        "tcj/clh",
+        "saga",
+        "probe",
+        "ns/lp",
+        "hdb fire"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "tcj/clh",
+        "saga",
+        "probe",
+        "ns/lp",
+        "hdb fire"
+    ],
+    "Precision": 0.0
+}

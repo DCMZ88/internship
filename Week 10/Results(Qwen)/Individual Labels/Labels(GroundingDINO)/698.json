@@ -1,0 +1,30 @@
+{
+    "Image Path": "698.jpg",
+    "Original Labels": [
+        "cup",
+        "watch",
+        "chair",
+        "mug",
+        "computer",
+        "shanmugam",
+        "ring",
+        "desk",
+        "glass",
+        "tea"
+    ],
+    "Correct Labels": [
+        "cup",
+        "watch",
+        "mug",
+        "computer",
+        "shanmugam",
+        "ring",
+        "desk",
+        "glass",
+        "tea"
+    ],
+    "Incorrect Labels": [
+        "chair"
+    ],
+    "Precision": 0.9
+}

@@ -1,0 +1,14 @@
+{
+    "Labels": [
+        "car",
+        "motorcycle",
+        "traffic light",
+        "road",
+        "trees",
+        "sky",
+        "buildings",
+        "people",
+        "antenna",
+        "sign"
+    ]
+}

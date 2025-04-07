@@ -1,0 +1,29 @@
+{
+    "Image Path": "590.jpg",
+    "Original Labels": [
+        "child",
+        "headphones",
+        "microphone",
+        "concert",
+        "singaporeans",
+        "home",
+        "truly",
+        "crying",
+        "national day song",
+        "free concert"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "child",
+        "headphones",
+        "microphone",
+        "concert",
+        "singaporeans",
+        "home",
+        "truly",
+        "crying",
+        "national day song",
+        "free concert"
+    ],
+    "Precision": 0.0
+}

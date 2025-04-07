@@ -1,0 +1,28 @@
+{
+    "Image Path": "735.jpg",
+    "Original Labels": [
+        "red light",
+        "red text",
+        "black armor",
+        "robe",
+        "pedestal",
+        "wall",
+        "red light saber",
+        "lightsaber",
+        "helmet"
+    ],
+    "Correct Labels": [
+        "red light",
+        "red text",
+        "black armor",
+        "robe",
+        "pedestal",
+        "wall",
+        "red light saber",
+        "lightsaber"
+    ],
+    "Incorrect Labels": [
+        "helmet"
+    ],
+    "Precision": 0.889
+}

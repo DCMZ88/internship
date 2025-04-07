@@ -1,0 +1,28 @@
+{
+    "Image Path": "751.jpg",
+    "Original Labels": [
+        "lapse",
+        "picture",
+        "contractor",
+        "kranji woodland",
+        "gov",
+        "corporate",
+        "differences",
+        "same",
+        "jtc"
+    ],
+    "Correct Labels": [
+        "kranji woodland"
+    ],
+    "Incorrect Labels": [
+        "lapse",
+        "picture",
+        "contractor",
+        "gov",
+        "corporate",
+        "differences",
+        "same",
+        "jtc"
+    ],
+    "Precision": 0.1
+}

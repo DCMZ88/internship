@@ -1,0 +1,30 @@
+{
+    "Image Path": "574.png",
+    "Original Labels": [
+        "bread",
+        "gloves",
+        "apron",
+        "goggles",
+        "refrigerator",
+        "bottles",
+        "pills",
+        "pills",
+        "pills",
+        "pills"
+    ],
+    "Correct Labels": [
+        "bread",
+        "gloves",
+        "refrigerator"
+    ],
+    "Incorrect Labels": [
+        "apron",
+        "goggles",
+        "bottles",
+        "pills",
+        "pills",
+        "pills",
+        "pills"
+    ],
+    "Precision": 0.3
+}

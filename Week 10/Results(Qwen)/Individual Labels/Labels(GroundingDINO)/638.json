@@ -1,0 +1,30 @@
+{
+    "Image Path": "638.jpg",
+    "Original Labels": [
+        "microphone",
+        "table",
+        "papers",
+        "flag",
+        "courtroom",
+        "woman",
+        "document",
+        "bench",
+        "judge",
+        "pen"
+    ],
+    "Correct Labels": [
+        "microphone",
+        "table",
+        "papers",
+        "courtroom",
+        "woman",
+        "document",
+        "bench",
+        "judge",
+        "pen"
+    ],
+    "Incorrect Labels": [
+        "flag"
+    ],
+    "Precision": 0.9
+}

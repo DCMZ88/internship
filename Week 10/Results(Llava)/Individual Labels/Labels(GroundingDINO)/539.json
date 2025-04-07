@@ -1,0 +1,30 @@
+{
+    "Image Path": "539.jpg",
+    "Original Labels": [
+        "glasses",
+        "poster",
+        "chair",
+        "tie",
+        "bottle",
+        "bar stool",
+        "glass",
+        "microphone",
+        "television",
+        "sign"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "poster",
+        "chair",
+        "bottle",
+        "bar stool",
+        "television",
+        "sign"
+    ],
+    "Incorrect Labels": [
+        "tie",
+        "glass",
+        "microphone"
+    ],
+    "Precision": 0.7
+}
