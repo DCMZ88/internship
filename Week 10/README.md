@@ -10,6 +10,14 @@ We use the same method in determining the precision scores as that in [Week 9](h
 
 **Information**
 
-Visual Language Models used: Qwen2.5-vl-
-Zero-shot object detectors: GroundingDINO, OmDet, Owlv2
+Visual Language Models used: Qwen2.5-vl-Instruct , Llava-hf-v1.6-mistral-7b\
+Zero-shot object detectors: GroundingDINO, OmDet, Owlv2\
 Threshold ( For object detection ) : 0.25 
+
+Results 
+
+Overall Precision :
+> Using all 3 object detection models
+- Qwen2.5-vl-instruct : 25.6
+- Llava-hf-v1.6-mistral-7b: 33.2
+- Google's Gemma-3-4b-it : 43.3
