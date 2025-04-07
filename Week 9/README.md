@@ -61,7 +61,7 @@ Using only Omdet and GroundingDINO
 
 - Precision : 73.9%
 
-
+All the final labels are in the folder labelled 'Labels(GroundTruth)'
 # Research & Literature
 
 ## Precision - Recall 
