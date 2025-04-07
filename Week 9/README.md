@@ -73,6 +73,7 @@ where $T_p$ represents True Postives, $F_p$ represents False Postives, $F_n$ rep
 
 One way that made me understand the different terms easier was to simplify them in layman terms.\
 i.e 
-- True Positives: Correct Labels
+- True Positives: Correct Labels identified by the model
 - False Postitives : Wrong Labels
-- False Negatives : Correct Labels that were not identified by the model. 
+- False Negatives : Correct Labels that were not identified by the model.
+- $T_P+F_N=$ Total number of correct labels
