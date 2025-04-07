@@ -13,10 +13,10 @@
 
 *Code*
 
-1.
+1. [Generating Labels](https://github.com/DCMZ88/internship/blob/main/Week%208/Models/Upscaled(Gemma).ipynb)
 2. [Evaluation](https://github.com/DCMZ88/internship/tree/main/Week%209/Evaluation) ( Run all 3 codes, each for different object detector model )
 3. [Ground_Truth](https://github.com/DCMZ88/internship/blob/main/Week%209/GroundTruth.ipynb)
-4. [Comparison+Calculation](https://github.com/DCMZ88/internship/blob/main/Week%209/Eval(GroundTruth).ipynb)
+4. [Comparison+Calculation](https://github.com/DCMZ88/internship/blob/main/Week%209/Eval(GroundTruth).ipynb) ( Eval(GroundTruth) )
 
 However, to calculate the recall value, we have to obtain the False Negatives. This is because our 'Ground Truth' in this case is obtained from the output of the VLM.\
 This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
