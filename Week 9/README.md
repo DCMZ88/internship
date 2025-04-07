@@ -45,9 +45,15 @@ Google's Gemma-3-4b-it:
   - Precision ( Omdet ) : 76.1%
 > Threshold value (GroundingDINO) : 0.4 , Precision : 77.5%
 
-**Ground Truth**
+**Ground Truth**\
+
+Using all 3 zero-shot object detector models
+
 - Precision : 43.3%
 
+Using only Omdet and GroundingDINO
+
+- Precision : 73.9%
 
 
 # Research & Literature
