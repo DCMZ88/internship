@@ -27,6 +27,9 @@ Hence, to obtain the False Negatives ( $F_n$ ),
 3. Calculate the recall values for each model respectively.
 > Note: Precision values remains the same as it is only dependent on the output of the VLM.
 
+*Code*
+
+[Obtain False Negatives](
 
 #### Information
 VLM : Google's Gemma3-4b-it\
