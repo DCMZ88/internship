@@ -14,7 +14,7 @@ Visual Language Models used: Qwen2.5-vl-Instruct , Llava-hf-v1.6-mistral-7b\
 Zero-shot object detectors: GroundingDINO, OmDet, Owlv2\
 Threshold ( For object detection ) : 0.25 
 
-Results 
+**Final Results**
 
 Overall Precision :
 > Using all 3 object detection models to generate the 'Ground Truth'
