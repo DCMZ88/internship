@@ -22,9 +22,9 @@ However, to calculate the recall value, we have to obtain the False Negatives. T
 This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
 
 Hence, to obtain the False Negatives ( $F_n$ ), 
-1. I will run the dataset over a standard Object Detection model to obtain the labels.
-2. Run the labels through the 'Ground Truths' to filter out the False Negatives.
-3. Calculate the recall values.
+1. Compare the 'Ground Truths' amongst all the different models
+2. Run the labels through the 'Ground Truths' to filter out the False Negatives for each model.
+3. Calculate the recall values for each model respectively.
 > Note: Precision values remains the same as it is only dependent on the output of the VLM.
 
 
@@ -53,20 +53,21 @@ Object Detector : Florence-2-base
 **Through each individual object detector model**
 
 Google's Gemma-3-4b-it:
-  - Precision ( GroundingDINO ) : 93.7%
-  - Precision ( Owlv2 ) : 48.0%
-  - Precision ( Omdet ) : 76.1%
-> Threshold value (GroundingDINO) : 0.4 , Precision : 77.5%
+  - Precision ( GroundingDINO ) : 93.7
+  - Precision ( Owlv2 ) : 48.0
+  - Precision ( Omdet ) : 76.1
+> Threshold value (GroundingDINO) : 0.4 , Precision : 77.5
 
-**Ground Truth**\
+**Ground Truth**
 
 Using all 3 zero-shot object detector models
 
-- Precision : 43.3%
+- Precision : 43.3
+- Recall : 43.8
 
 Using only Omdet and GroundingDINO
 
-- Precision : 73.9%
+- Precision : 73.9
 
 All the final labels are in the folder labelled 'Labels(GroundTruth)'
 # Research & Literature
