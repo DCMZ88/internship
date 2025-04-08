@@ -1,0 +1,18 @@
+{
+    "Image Path": "710.png",
+    "Original Labels": [
+        "woman",
+        "man",
+        "crown",
+        "throne"
+    ],
+    "Correct Labels": [
+        "woman",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "crown",
+        "throne"
+    ],
+    "Precision": 0.5
+}

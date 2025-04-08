@@ -1,0 +1,18 @@
+{
+    "Image Path": "616.png",
+    "Original Labels": [
+        "board",
+        "casket",
+        "man",
+        "screws"
+    ],
+    "Correct Labels": [
+        "casket",
+        "board"
+    ],
+    "Incorrect Labels": [
+        "man",
+        "screws"
+    ],
+    "Precision": 0.5
+}

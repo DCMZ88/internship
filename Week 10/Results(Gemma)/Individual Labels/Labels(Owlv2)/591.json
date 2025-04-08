@@ -1,0 +1,18 @@
+{
+    "Image Path": "591.jpg",
+    "Original Labels": [
+        "woman",
+        "chessboard",
+        "man",
+        "pieces"
+    ],
+    "Correct Labels": [
+        "chessboard"
+    ],
+    "Incorrect Labels": [
+        "woman",
+        "man",
+        "pieces"
+    ],
+    "Precision": 0.25
+}

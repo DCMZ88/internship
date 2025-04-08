@@ -1,0 +1,20 @@
+{
+    "Image Path": "624.jpg",
+    "Original Labels": [
+        "sky",
+        "building",
+        "man",
+        "water",
+        "boat"
+    ],
+    "Correct Labels": [
+        "man",
+        "water",
+        "building",
+        "sky"
+    ],
+    "Incorrect Labels": [
+        "boat"
+    ],
+    "Precision": 0.8
+}

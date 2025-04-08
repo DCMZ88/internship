@@ -1,0 +1,20 @@
+{
+    "Image Path": "686.png",
+    "Original Labels": [
+        "rope",
+        "boat",
+        "face",
+        "shirt",
+        "hands"
+    ],
+    "Correct Labels": [
+        "face",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "rope",
+        "boat",
+        "hands"
+    ],
+    "Precision": 0.4
+}

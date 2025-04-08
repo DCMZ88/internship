@@ -1,0 +1,17 @@
+{
+    "Image Path": "625.png",
+    "Original Labels": [
+        "sky",
+        "fence",
+        "shoes",
+        "grass"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "sky",
+        "fence",
+        "shoes",
+        "grass"
+    ],
+    "Precision": 0.0
+}

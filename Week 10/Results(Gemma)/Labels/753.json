@@ -1,0 +1,29 @@
+{
+    "Image Path": "753.jpg",
+    "Original Labels": [
+        "card",
+        "sign",
+        "table",
+        "food",
+        "man",
+        "woman",
+        "sidewalk",
+        "building",
+        "man",
+        "man",
+        "man"
+    ],
+    "Correct Labels": [
+        "sign",
+        "food",
+        "man",
+        "woman",
+        "sidewalk"
+    ],
+    "Incorrect Labels": [
+        "card",
+        "table",
+        "building"
+    ],
+    "Precision": 0.45454545454545453
+}

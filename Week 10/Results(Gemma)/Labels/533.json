@@ -1,0 +1,20 @@
+{
+    "Image Path": "533.jpg",
+    "Original Labels": [
+        "mascot",
+        "people",
+        "building",
+        "street",
+        "sign"
+    ],
+    "Correct Labels": [
+        "mascot"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "building",
+        "street",
+        "sign"
+    ],
+    "Precision": 0.2
+}

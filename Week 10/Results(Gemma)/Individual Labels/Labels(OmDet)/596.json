@@ -1,0 +1,24 @@
+{
+    "Image Path": "596.jpg",
+    "Original Labels": [
+        "building",
+        "man",
+        "army",
+        "text",
+        "soldier",
+        "tree",
+        "coffin"
+    ],
+    "Correct Labels": [
+        "soldier",
+        "man",
+        "army",
+        "text",
+        "building",
+        "coffin"
+    ],
+    "Incorrect Labels": [
+        "tree"
+    ],
+    "Precision": 0.857
+}

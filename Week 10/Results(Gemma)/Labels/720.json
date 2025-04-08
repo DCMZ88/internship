@@ -1,0 +1,20 @@
+{
+    "Image Path": "720.png",
+    "Original Labels": [
+        "squidward",
+        "spongebob",
+        "fence",
+        "bed",
+        "blanket"
+    ],
+    "Correct Labels": [
+        "spongebob",
+        "bed"
+    ],
+    "Incorrect Labels": [
+        "squidward",
+        "fence",
+        "blanket"
+    ],
+    "Precision": 0.4
+}

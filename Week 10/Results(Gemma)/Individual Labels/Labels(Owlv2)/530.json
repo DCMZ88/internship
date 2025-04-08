@@ -1,0 +1,20 @@
+{
+    "Image Path": "530.jpg",
+    "Original Labels": [
+        "people",
+        "grass",
+        "ground",
+        "trees",
+        "temple"
+    ],
+    "Correct Labels": [
+        "grass",
+        "people",
+        "ground"
+    ],
+    "Incorrect Labels": [
+        "trees",
+        "temple"
+    ],
+    "Precision": 0.6
+}

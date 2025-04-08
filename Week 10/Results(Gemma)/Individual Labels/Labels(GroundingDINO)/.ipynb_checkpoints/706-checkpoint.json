@@ -1,0 +1,15 @@
+{
+    "Image Path": "706.png",
+    "Original Labels": [
+        "text",
+        "background",
+        "donald trump"
+    ],
+    "Correct Labels": [
+        "text",
+        "background",
+        "donald trump"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

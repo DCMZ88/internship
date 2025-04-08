@@ -1,0 +1,20 @@
+{
+    "Image Path": "740.jpg",
+    "Original Labels": [
+        "clown",
+        "man",
+        "street",
+        "mcdonald's logo",
+        "poster"
+    ],
+    "Correct Labels": [
+        "poster",
+        "man",
+        "clown"
+    ],
+    "Incorrect Labels": [
+        "street",
+        "mcdonald's logo"
+    ],
+    "Precision": 0.6
+}

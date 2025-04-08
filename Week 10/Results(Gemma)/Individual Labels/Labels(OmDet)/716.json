@@ -1,0 +1,22 @@
+{
+    "Image Path": "716.png",
+    "Original Labels": [
+        "mouse",
+        "computer",
+        "monitor",
+        "chair",
+        "glasses",
+        "table"
+    ],
+    "Correct Labels": [
+        "glasses",
+        "monitor"
+    ],
+    "Incorrect Labels": [
+        "mouse",
+        "computer",
+        "chair",
+        "table"
+    ],
+    "Precision": 0.333
+}

@@ -1,0 +1,22 @@
+{
+    "Image Path": "639.jpg",
+    "Original Labels": [
+        "sky",
+        "forest",
+        "man",
+        "pole",
+        "ground",
+        "trees"
+    ],
+    "Correct Labels": [
+        "man",
+        "pole"
+    ],
+    "Incorrect Labels": [
+        "sky",
+        "forest",
+        "ground",
+        "trees"
+    ],
+    "Precision": 0.3333333333333333
+}

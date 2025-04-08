@@ -1,0 +1,23 @@
+{
+    "Image Path": "503.png",
+    "Original Labels": [
+        "boat",
+        "flag",
+        "money",
+        "tree",
+        "submarine",
+        "helmet",
+        "pool"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "boat",
+        "flag",
+        "money",
+        "tree",
+        "submarine",
+        "helmet",
+        "pool"
+    ],
+    "Precision": 0.0
+}

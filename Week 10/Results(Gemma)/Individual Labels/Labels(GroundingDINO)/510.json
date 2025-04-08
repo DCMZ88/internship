@@ -1,0 +1,30 @@
+{
+    "Image Path": "510.png",
+    "Original Labels": [
+        "pillows",
+        "cup",
+        "teapot",
+        "coffee table",
+        "television",
+        "man",
+        "flag",
+        "desk",
+        "sofa",
+        "rug"
+    ],
+    "Correct Labels": [
+        "cup",
+        "teapot",
+        "television",
+        "man",
+        "flag",
+        "desk",
+        "sofa",
+        "rug"
+    ],
+    "Incorrect Labels": [
+        "pillows",
+        "coffee table"
+    ],
+    "Precision": 0.8
+}

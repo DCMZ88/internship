@@ -1,0 +1,24 @@
+{
+    "Image Path": "586.jpg",
+    "Original Labels": [
+        "people",
+        "flag",
+        "man",
+        "plaid",
+        "shirt",
+        "vest",
+        "chair"
+    ],
+    "Correct Labels": [
+        "man",
+        "chair",
+        "shirt"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "flag",
+        "plaid",
+        "vest"
+    ],
+    "Precision": 0.42857142857142855
+}

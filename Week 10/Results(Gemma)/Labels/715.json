@@ -1,0 +1,20 @@
+{
+    "Image Path": "715.png",
+    "Original Labels": [
+        "man",
+        "suit",
+        "graph",
+        "text",
+        "frame"
+    ],
+    "Correct Labels": [
+        "man",
+        "suit",
+        "graph",
+        "text"
+    ],
+    "Incorrect Labels": [
+        "frame"
+    ],
+    "Precision": 0.8
+}

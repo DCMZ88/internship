@@ -1,0 +1,15 @@
+{
+    "Image Path": "544.jpg",
+    "Original Labels": [
+        "door",
+        "walls",
+        "toilet"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "door",
+        "walls",
+        "toilet"
+    ],
+    "Precision": 0.0
+}

@@ -1,0 +1,19 @@
+{
+    "Image Path": "744.jpg",
+    "Original Labels": [
+        "paper",
+        "tie",
+        "suit",
+        "room",
+        "man"
+    ],
+    "Correct Labels": [
+        "paper",
+        "tie",
+        "suit",
+        "room",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,16 @@
+{
+    "Image Path": "548.jpg",
+    "Original Labels": [
+        "face",
+        "hair",
+        "eyes"
+    ],
+    "Correct Labels": [
+        "eyes",
+        "face"
+    ],
+    "Incorrect Labels": [
+        "hair"
+    ],
+    "Precision": 0.6666666666666666
+}

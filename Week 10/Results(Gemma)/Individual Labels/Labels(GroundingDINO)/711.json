@@ -1,0 +1,15 @@
+{
+    "Image Path": "711.png",
+    "Original Labels": [
+        "extra",
+        "panadol",
+        "zorb"
+    ],
+    "Correct Labels": [
+        "extra",
+        "panadol",
+        "zorb"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

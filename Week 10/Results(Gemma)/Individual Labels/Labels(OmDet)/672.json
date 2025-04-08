@@ -1,0 +1,32 @@
+{
+    "Image Path": "672.png",
+    "Original Labels": [
+        "person",
+        "speaker",
+        "notepad",
+        "glass",
+        "chair",
+        "microphone",
+        "water",
+        "shoes",
+        "table",
+        "bottle",
+        "cloth"
+    ],
+    "Correct Labels": [
+        "person",
+        "microphone",
+        "bottle",
+        "speaker",
+        "table",
+        "notepad"
+    ],
+    "Incorrect Labels": [
+        "glass",
+        "chair",
+        "water",
+        "shoes",
+        "cloth"
+    ],
+    "Precision": 0.545
+}

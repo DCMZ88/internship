@@ -1,0 +1,24 @@
+{
+    "Image Path": "761.jpg",
+    "Original Labels": [
+        "dvd",
+        "chair",
+        "book",
+        "camera",
+        "people",
+        "screen",
+        "table"
+    ],
+    "Correct Labels": [
+        "chair",
+        "people",
+        "screen",
+        "camera",
+        "book"
+    ],
+    "Incorrect Labels": [
+        "dvd",
+        "table"
+    ],
+    "Precision": 0.714
+}

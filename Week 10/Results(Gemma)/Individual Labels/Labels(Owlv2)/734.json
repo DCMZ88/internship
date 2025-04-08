@@ -1,0 +1,20 @@
+{
+    "Image Path": "734.jpg",
+    "Original Labels": [
+        "table",
+        "pirate",
+        "lamp",
+        "chair",
+        "book"
+    ],
+    "Correct Labels": [
+        "book",
+        "pirate"
+    ],
+    "Incorrect Labels": [
+        "table",
+        "lamp",
+        "chair"
+    ],
+    "Precision": 0.4
+}

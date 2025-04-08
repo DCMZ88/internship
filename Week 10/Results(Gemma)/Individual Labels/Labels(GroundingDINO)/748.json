@@ -1,0 +1,15 @@
+{
+    "Image Path": "748.jpg",
+    "Original Labels": [
+        "speech bubble",
+        "eyes",
+        "door"
+    ],
+    "Correct Labels": [
+        "speech bubble",
+        "eyes",
+        "door"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

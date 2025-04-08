@@ -1,0 +1,24 @@
+{
+    "Image Path": "752.jpg",
+    "Original Labels": [
+        "suit",
+        "woman",
+        "flowers",
+        "microphone",
+        "man",
+        "glasses",
+        "chair"
+    ],
+    "Correct Labels": [
+        "woman",
+        "man",
+        "suit",
+        "microphone",
+        "glasses"
+    ],
+    "Incorrect Labels": [
+        "flowers",
+        "chair"
+    ],
+    "Precision": 0.7142857142857143
+}

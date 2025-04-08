@@ -1,0 +1,28 @@
+{
+    "Image Path": "698.jpg",
+    "Original Labels": [
+        "clock",
+        "table",
+        "wall",
+        "beverage",
+        "man",
+        "cup",
+        "glass",
+        "plants",
+        "chair"
+    ],
+    "Correct Labels": [
+        "table",
+        "man",
+        "beverage"
+    ],
+    "Incorrect Labels": [
+        "clock",
+        "wall",
+        "cup",
+        "glass",
+        "plants",
+        "chair"
+    ],
+    "Precision": 0.3333333333333333
+}

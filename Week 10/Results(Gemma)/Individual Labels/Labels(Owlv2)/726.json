@@ -1,0 +1,36 @@
+{
+    "Image Path": "726.png",
+    "Original Labels": [
+        "wall",
+        "table",
+        "floor",
+        "screen",
+        "phone",
+        "window",
+        "man",
+        "plants",
+        "woman",
+        "light",
+        "text",
+        "computer",
+        "furniture"
+    ],
+    "Correct Labels": [
+        "man",
+        "text",
+        "woman"
+    ],
+    "Incorrect Labels": [
+        "wall",
+        "table",
+        "floor",
+        "screen",
+        "phone",
+        "window",
+        "plants",
+        "light",
+        "computer",
+        "furniture"
+    ],
+    "Precision": 0.23076923076923078
+}

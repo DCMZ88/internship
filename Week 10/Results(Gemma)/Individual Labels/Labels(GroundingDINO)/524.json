@@ -1,0 +1,21 @@
+{
+    "Image Path": "524.jpg",
+    "Original Labels": [
+        "table",
+        "monk",
+        "chair",
+        "buddha",
+        "lamp",
+        "man"
+    ],
+    "Correct Labels": [
+        "table",
+        "monk",
+        "chair",
+        "buddha",
+        "lamp",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

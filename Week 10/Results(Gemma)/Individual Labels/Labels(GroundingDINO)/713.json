@@ -1,0 +1,30 @@
+{
+    "Image Path": "713.png",
+    "Original Labels": [
+        "hat",
+        "table",
+        "jacket",
+        "background",
+        "chair",
+        "woman",
+        "pins",
+        "glasses",
+        "lights",
+        "man"
+    ],
+    "Correct Labels": [
+        "hat",
+        "table",
+        "jacket",
+        "background",
+        "woman",
+        "pins",
+        "glasses",
+        "lights",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "chair"
+    ],
+    "Precision": 0.9
+}

@@ -1,0 +1,15 @@
+{
+    "Image Path": "747.jpg",
+    "Original Labels": [
+        "rainbow",
+        "light",
+        "man"
+    ],
+    "Correct Labels": [
+        "rainbow",
+        "light",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,17 @@
+{
+    "Image Path": "543.jpg",
+    "Original Labels": [
+        "sign",
+        "monkey",
+        "lanyard",
+        "ticket"
+    ],
+    "Correct Labels": [
+        "sign",
+        "monkey",
+        "lanyard",
+        "ticket"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

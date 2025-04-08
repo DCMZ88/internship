@@ -1,0 +1,15 @@
+{
+    "Image Path": "575.jpg",
+    "Original Labels": [
+        "foot",
+        "f5 key",
+        "hand"
+    ],
+    "Correct Labels": [
+        "foot",
+        "f5 key",
+        "hand"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

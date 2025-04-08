@@ -1,0 +1,17 @@
+{
+    "Image Path": "526.jpg",
+    "Original Labels": [
+        "shirt",
+        "cable car",
+        "camera",
+        "man"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "cable car",
+        "camera",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,21 @@
+{
+    "Image Path": "593.jpg",
+    "Original Labels": [
+        "thor",
+        "loki",
+        "building",
+        "woman",
+        "light beam",
+        "man"
+    ],
+    "Correct Labels": [
+        "thor",
+        "loki",
+        "building",
+        "woman",
+        "light beam",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

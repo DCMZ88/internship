@@ -1,0 +1,18 @@
+{
+    "Image Path": "683.png",
+    "Original Labels": [
+        "hand",
+        "girl",
+        "singapore",
+        "palm"
+    ],
+    "Correct Labels": [
+        "girl",
+        "hand"
+    ],
+    "Incorrect Labels": [
+        "singapore",
+        "palm"
+    ],
+    "Precision": 0.5
+}

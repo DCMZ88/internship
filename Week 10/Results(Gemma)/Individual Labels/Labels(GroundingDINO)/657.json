@@ -1,0 +1,26 @@
+{
+    "Image Path": "657.jpg",
+    "Original Labels": [
+        "phone",
+        "office",
+        "laptop",
+        "building",
+        "woman",
+        "text",
+        "banner",
+        "man"
+    ],
+    "Correct Labels": [
+        "office",
+        "laptop",
+        "building",
+        "woman",
+        "text",
+        "banner",
+        "man"
+    ],
+    "Incorrect Labels": [
+        "phone"
+    ],
+    "Precision": 0.875
+}

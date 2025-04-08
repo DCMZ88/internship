@@ -1,0 +1,24 @@
+{
+    "Image Path": "537.jpg",
+    "Original Labels": [
+        "grass",
+        "fallen person",
+        "man",
+        "bicycle",
+        "ground",
+        "road",
+        "helmet"
+    ],
+    "Correct Labels": [
+        "man",
+        "bicycle",
+        "road",
+        "fallen person"
+    ],
+    "Incorrect Labels": [
+        "grass",
+        "ground",
+        "helmet"
+    ],
+    "Precision": 0.5714285714285714
+}

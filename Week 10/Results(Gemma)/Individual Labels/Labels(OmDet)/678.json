@@ -1,0 +1,17 @@
+{
+    "Image Path": "678.jpg",
+    "Original Labels": [
+        "brush",
+        "horse",
+        "paint",
+        "man"
+    ],
+    "Correct Labels": [
+        "man",
+        "horse",
+        "brush",
+        "paint"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

@@ -1,0 +1,21 @@
+{
+    "Image Path": "636.jpg",
+    "Original Labels": [
+        "order sign",
+        "table",
+        "cartoon character",
+        "house",
+        "chair",
+        "man"
+    ],
+    "Correct Labels": [
+        "order sign",
+        "table",
+        "cartoon character",
+        "house",
+        "chair",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

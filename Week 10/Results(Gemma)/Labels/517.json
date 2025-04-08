@@ -1,0 +1,17 @@
+{
+    "Image Path": "517.jpg",
+    "Original Labels": [
+        "dog",
+        "star",
+        "hammer",
+        "water"
+    ],
+    "Correct Labels": [],
+    "Incorrect Labels": [
+        "dog",
+        "star",
+        "hammer",
+        "water"
+    ],
+    "Precision": 0.0
+}

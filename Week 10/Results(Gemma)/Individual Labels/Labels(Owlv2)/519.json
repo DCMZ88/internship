@@ -1,0 +1,22 @@
+{
+    "Image Path": "519.jpg",
+    "Original Labels": [
+        "chair",
+        "table",
+        "flames",
+        "cup",
+        "box",
+        "dog"
+    ],
+    "Correct Labels": [
+        "cup",
+        "table"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "flames",
+        "box",
+        "dog"
+    ],
+    "Precision": 0.3333333333333333
+}

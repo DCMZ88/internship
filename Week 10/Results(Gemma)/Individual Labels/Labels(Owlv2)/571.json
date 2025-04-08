@@ -1,0 +1,24 @@
+{
+    "Image Path": "571.jpg",
+    "Original Labels": [
+        "people",
+        "table",
+        "basketball",
+        "signage",
+        "woman",
+        "hoop",
+        "court"
+    ],
+    "Correct Labels": [
+        "basketball",
+        "court"
+    ],
+    "Incorrect Labels": [
+        "people",
+        "table",
+        "signage",
+        "woman",
+        "hoop"
+    ],
+    "Precision": 0.2857142857142857
+}

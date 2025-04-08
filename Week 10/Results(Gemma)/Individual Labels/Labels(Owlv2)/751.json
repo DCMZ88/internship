@@ -1,0 +1,24 @@
+{
+    "Image Path": "751.jpg",
+    "Original Labels": [
+        "chair",
+        "desk",
+        "plant",
+        "keyboard",
+        "picture frame",
+        "monitor",
+        "computer"
+    ],
+    "Correct Labels": [
+        "desk",
+        "plant"
+    ],
+    "Incorrect Labels": [
+        "chair",
+        "keyboard",
+        "picture frame",
+        "monitor",
+        "computer"
+    ],
+    "Precision": 0.25
+}

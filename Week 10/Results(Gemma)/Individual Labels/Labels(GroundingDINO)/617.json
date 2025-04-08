@@ -1,0 +1,23 @@
+{
+    "Image Path": "617.jpg",
+    "Original Labels": [
+        "face",
+        "rectangle",
+        "woman",
+        "glasses",
+        "text",
+        "eyes",
+        "man"
+    ],
+    "Correct Labels": [
+        "face",
+        "rectangle",
+        "woman",
+        "glasses",
+        "text",
+        "eyes",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

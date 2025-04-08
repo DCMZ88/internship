@@ -1,0 +1,26 @@
+{
+    "Image Path": "608.jpg",
+    "Original Labels": [
+        "trash can",
+        "sink",
+        "nurse",
+        "uniform",
+        "chair",
+        "water",
+        "woman",
+        "table"
+    ],
+    "Correct Labels": [
+        "nurse",
+        "trash can",
+        "table",
+        "chair",
+        "woman",
+        "uniform",
+        "sink"
+    ],
+    "Incorrect Labels": [
+        "water"
+    ],
+    "Precision": 0.875
+}

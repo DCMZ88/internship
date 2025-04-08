@@ -1,0 +1,25 @@
+{
+    "Image Path": "505.jpg",
+    "Original Labels": [
+        "shirt",
+        "face",
+        "gray color",
+        "building",
+        "white color",
+        "text",
+        "hand",
+        "man"
+    ],
+    "Correct Labels": [
+        "shirt",
+        "face",
+        "gray color",
+        "building",
+        "white color",
+        "text",
+        "hand",
+        "man"
+    ],
+    "Incorrect Labels": [],
+    "Precision": 1.0
+}

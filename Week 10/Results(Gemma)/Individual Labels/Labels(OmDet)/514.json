@@ -1,0 +1,28 @@
+{
+    "Image Path": "514.png",
+    "Original Labels": [
+        "swimsuit",
+        "pool",
+        "man",
+        "towel",
+        "board",
+        "water",
+        "woman",
+        "flags",
+        "wall"
+    ],
+    "Correct Labels": [
+        "pool",
+        "woman",
+        "wall",
+        "flags",
+        "man",
+        "water",
+        "swimsuit"
+    ],
+    "Incorrect Labels": [
+        "towel",
+        "board"
+    ],
+    "Precision": 0.778
+}
