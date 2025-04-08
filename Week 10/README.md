@@ -21,6 +21,7 @@ Overall Precision :
 - Qwen2.5-vl-instruct : 25.6
 - Llava-hf-v1.6-mistral-7b: 33.2
 - Google's Gemma-3-4b-it : 43.3
+  
 Overall Recall :
 - Qwen2.5-vl-instruct : 41.4
 - Llava-hf-v1.6-mistral-7b: 55.8
