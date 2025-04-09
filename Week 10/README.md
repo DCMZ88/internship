@@ -29,11 +29,11 @@ Overall Recall :
 - Llava-hf-v1.6-mistral-7b: 55.8
 - Google's Gemma-3-4b-it : 43.8
 
-### OCR + Counting Capabilities
+### OCR Capabilities
 
-**Aim** : Evaluate model's performance based on its OCR and ability to count objects in an image.
-
+**Aim** : Evaluate model's performance based on its ability to detect text in an image. 
 **Methodology** 
 1. Prompt each model to detect text in each image in the dataset
 2. Save the output texts in a `json` file for each model
-3. Generate 'Ground Truth' 
+3. Generate 'Ground Truth' using OCR model.
+4. 
