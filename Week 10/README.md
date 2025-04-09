@@ -2,6 +2,8 @@
 
 ## Evaluation of the performance on VLMs ( cont. )
 
+### Object Detection Capabilities 
+
 **Aim** : Evaluate other VLM's performance on object detection and obtain their precision score
 
 **Methodology**
@@ -21,8 +23,17 @@ Overall Precision :
 - Qwen2.5-vl-instruct : 25.6
 - Llava-hf-v1.6-mistral-7b: 33.2
 - Google's Gemma-3-4b-it : 43.3
-  
+    
 Overall Recall :
 - Qwen2.5-vl-instruct : 41.4
 - Llava-hf-v1.6-mistral-7b: 55.8
 - Google's Gemma-3-4b-it : 43.8
+
+### OCR + Counting Capabilities
+
+**Aim** : Evaluate model's performance based on its OCR and ability to count objects in an image.
+
+**Methodology** 
+1. Prompt each model to detect text in each image in the dataset
+2. Save the output texts in a `json` file for each model
+3. Generate 'Ground Truth' 
