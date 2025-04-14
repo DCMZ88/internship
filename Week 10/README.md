@@ -93,8 +93,3 @@ However Florence-base is more of a visual foundational model with multiple tasks
 - Taken from the [huggingface](https://huggingface.co/microsoft/Florence-2-base)
 
 Hence, to solely serve the purpose for OCR, we will use PaddleOCR which is trained solely for OCR purposes. 
-
-### Metrics to evaluate OCR performance. 
-> Taken from [OCR Accuracy](https://www.docsumo.com/blogs/ocr/accuracy)
-
-1. Character Error Rate ( CER )
