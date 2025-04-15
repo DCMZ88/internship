@@ -15,6 +15,7 @@
 - [Microsoft's-Florence-2-Base](https://huggingface.co/microsoft/Florence-2-base)
 - [Google's Gemma-3-4B-it](https://huggingface.co/google/gemma-3-4b-it)
 - [Llava's llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+- [Kimi-VL-A3B-Instruct](https://huggingface.co/moonshotai/Kimi-VL-A3B-Instruct)
 ### Object Detection Models 
 #### - Open-Vocab Object Detection
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/tree/main)
@@ -22,3 +23,6 @@
 - [Omlab's OmDet-Turbo-swin-Tiny-hf](https://huggingface.co/omlab/omdet-turbo-swin-tiny-hf)
 #### - Object Detection
 - [Hustvl-Yolos-Tiny](https://huggingface.co/hustvl/yolos-tiny)
+#### - OCR Detection
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/tree/main)
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR/tree/master/easyocr)
