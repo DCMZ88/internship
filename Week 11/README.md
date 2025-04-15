@@ -37,7 +37,8 @@ As seen from the example it is hard to map 'rvd' to 'red' to label it as a False
   - **Consistency of VLM output** : The outputs of the VLMs tend to vary from image to image.\
     E.g Some outputs of for certain images contains a header from the VLM and some does not.
   - **Special Symbols** : Special symbols detected by the OCR model causes the words detected to vary.\
-    E.g `Ground Truth : [ "17Jul20238:01pm" ] , VLM Output : [ "17", "Jul" ,"2023" ,"7:28pm"]\
+    E.g `Ground Truth : [ "17Jul20238:01pm" ]` ,`VLM Output : [ "17", "Jul" ,"2023" ,"7:28pm"]`\
     Therefore, it is hard to separate the words consistently using code across the whole dataset, leading to inaccurate evaluation of the model.
-
-    
+### Limitations 
+   - **Handling Repeated Words** : If the word appears twice in the output of the VLM, how to ensure that one of it is labelled as the False Positive if the it only appears in the 'Ground Truth' once.\
+     E.g `Ground Truth: Dog`, `Output: Dog, Dog`
