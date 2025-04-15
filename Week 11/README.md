@@ -14,6 +14,12 @@
 4. Compare Ground Truths with model outputs
 6. Calculate relevant metrics
 
+**Second Method to generate Ground Truth**
+
+Generating the Ground Truth:
+   1. Comparing the outputs of the VLMs to generate a 'Ground Truth'
+   2. If the word/label appears in more than 75% of the models, record it as a 'Ground Truth'
+
 **Metrics used to evaluate OCR capabilities**
 
 > Taken from [OCR Accuracy](https://www.docsumo.com/blogs/ocr/accuracy)
@@ -31,14 +37,18 @@
 
 
 ### Challenges
-  - **Determining the False Positives** : I split all the text into individual words so it is a list of words for one image which poses a challenge to compare the individual words to its 'Ground Truth'.\
-i.e `Ground Truth: [dog, apple , rvd , green ]` and `Model Output: [ apple, red, green,]`\
+   - **Determining the False Positives** : I split all the text into individual words so it is a list of words for one image which poses a challenge to compare the individual words to its 'Ground Truth'.\
+   i.e `Ground Truth: [dog, apple , rvd , green ]` and `Model Output: [ apple, red, green,]`\
 As seen from the example it is hard to map 'rvd' to 'red' to label it as a False Positive.
-  - **Consistency of VLM output** : The outputs of the VLMs tend to vary from image to image.\
-    E.g Some outputs of for certain images contains a header from the VLM and some does not.
-  - **Special Symbols** : Special symbols detected by the OCR model causes the words detected to vary.\
-    E.g `Ground Truth : [ "17Jul20238:01pm" ]` ,`VLM Output : [ "17", "Jul" ,"2023" ,"7:28pm"]`\
-    Therefore, it is hard to separate the words consistently using code across the whole dataset, leading to inaccurate evaluation of the model.
-### Limitations 
+
    - **Handling Repeated Words** : If the word appears twice in the output of the VLM, how to ensure that one of it is labelled as the False Positive if the it only appears in the 'Ground Truth' once.\
      E.g `Ground Truth: Dog`, `Output: Dog, Dog`
+     
+### Limitations 
+
+   - **Consistency of VLM output** : The outputs of the VLMs tend to vary from image to image.\
+    E.g Some outputs of for certain images contains a header from the VLM and some does not.
+
+   - **Special Symbols** : Special symbols detected by the OCR model causes the words detected to vary.\
+    E.g `Ground Truth : [ "17Jul20238:01pm" ]` ,`VLM Output : [ "17", "Jul" ,"2023" ,"8:01pm"]`\
+    Therefore, it is hard to separate the words consistently using code across the whole dataset, leading to inaccurate evaluation of the model.
