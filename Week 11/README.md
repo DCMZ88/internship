@@ -20,6 +20,13 @@ Generating the Ground Truth:
    1. Comparing the outputs of the VLMs to generate a 'Ground Truth'
    2. If the word/label appears in more than 75% of the models, record it as a 'Ground Truth'
 
+*Code*
+1. Generate Outputs from VLMs ( Individual Models labelled 'Upscaled(Model).ipynb' )
+2. [Generate Ground Truth from OCR Model](https://github.com/DCMZ88/internship/blob/main/Week%2011/Codes/PaddleOCR.ipynb)
+3. [Compare and Evaluate Outputs with Ground Truth](https://github.com/DCMZ88/internship/blob/main/Week%2011/Codes/FinalEvaluation.ipynb)
+
+[Generate Ground Truth by comparing outputs of VLMs](https://github.com/DCMZ88/internship/blob/main/Week%2011/Codes/Consensus_Ground_Truth.ipynb)
+
 **Metrics used to evaluate OCR capabilities**
 
 > Taken from [OCR Accuracy](https://www.docsumo.com/blogs/ocr/accuracy)
