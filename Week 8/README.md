@@ -6,7 +6,7 @@
 
 ### Methodology 
 
-I decided to try to use another zero-shot object detector model rather than GroundingDINO as the accuracy of GroundingDINO was good enough for it\
+I decided to try to use another zero-shot object detector model rather than GroundingDINO as the accuracy of GroundingDINO was good enough for it
 to act as the "Ground Truth"
 
 For this attempt, I used Google's [owlv2-base-patch16-ensemble](#https://huggingface.co/google/owlv2-base-patch16-ensemble)
