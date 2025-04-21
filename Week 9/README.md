@@ -22,7 +22,7 @@ However, to calculate the recall value, we have to obtain the False Negatives. T
 This means that $F_n=0$, as the 'Ground Truth' will be a subset of the labels from the VLM.
 
 Hence, to obtain the False Negatives ( $F_n$ ), 
-1. Compare the 'Ground Truths' amongst all the different VLM models
+1. Compare the 'Ground Truths' amongst all the different VLM models. ( From Week 8 ) 
 2. Run the labels through the 'Ground Truths' to filter out the False Negatives for each model.
 3. Calculate the recall values for each model respectively.
 > Note: Precision values remains the same as it is only dependent on the output of the VLM.
