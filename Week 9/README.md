@@ -14,7 +14,7 @@
 *Code*
 
 1. [Generating Labels](https://github.com/DCMZ88/internship/tree/main/Week%208/Models/Generating%20Labels)
-2. [Evaluation](https://github.com/DCMZ88/internship/tree/main/Week%209/Evaluation) ( Run all 3 codes, each for different object detector model )
+2. [Correct Labels](https://github.com/DCMZ88/internship/tree/main/Week%209/Evaluation) ( Run all 3 codes, each for different object detector model )
 3. [Ground_Truth](https://github.com/DCMZ88/internship/blob/main/Week%209/GroundTruth.ipynb)
 4. [Comparison+Calculation](https://github.com/DCMZ88/internship/blob/main/Week%209/Eval(GroundTruth).ipynb) ( Eval(GroundTruth) )
 
