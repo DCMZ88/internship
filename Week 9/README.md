@@ -29,7 +29,7 @@ Hence, to obtain the False Negatives ( $F_n$ ),
 
 *Code*
 
-[Obtain False Negatives](
+[Obtain False Negatives](https://github.com/DCMZ88/internship/blob/main/Week%209/FalseNeg.ipynb)
 
 #### Information
 VLM : Google's Gemma3-4b-it\
