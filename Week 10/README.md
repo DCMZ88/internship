@@ -87,9 +87,9 @@ Florence-base:
 
 We can see from the results that PaddleOCR and Florence-base had the correct output whereas EasyOCR struggled in determining the correct letters.
 
-However Florence-base is more of a visual foundational model with multiple tasks such as Object Detection, Region Segmentation.\
+However Florence-base is more of a visual foundational model with multiple tasks such as Object Detection, Region Segmentation.
 
 ' Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks.'
-- Taken from the [huggingface](https://huggingface.co/microsoft/Florence-2-base)
+- Taken from the [huggingface](https://huggingface.co/microsoft/Florence-2-base) website
 
 Hence, to solely serve the purpose for OCR, we will use PaddleOCR which is trained solely for OCR purposes. 
