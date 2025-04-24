@@ -2,6 +2,9 @@
 
 ## Controlled Text Generation 
 
+-[Approaches](#Approaches-taken)
+    -[Prompt Engineering](#approach-1-prompt-engineering)
+
 **Problem** 
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
