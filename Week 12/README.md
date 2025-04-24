@@ -62,7 +62,15 @@ In structured data, many tokens are fixed and predictable. Jsonformer is a wrapp
 
 #### Approach 3: Strutured Text Generation
 
-Unlike libraries such as Jsonformer that conforms the output to only be in JSON. enables structured text generation from language models by guiding outputs to match predefined schemas (e.g., using Pydantic). It works by prompting the model, validating the response, and automatically retrying if the output doesn’t conform. This ensures reliable, structured outputs—such as JSON or typed objects—even when working with probabilistic models like GPT-4 or vision-language mode
+Unlike libraries such as Jsonformer that conforms the output to only be in JSON, libraries such as Outlines enables structured text generation from language models by guiding outputs to match predefined schemas (e.g., using Pydantic). It works by prompting the model, validating the response, and automatically retrying if the output doesn’t conform. This ensures reliable, structured outputs—such as JSON or typed objects—even when working with probabilistic models like GPT-4 or vision-language mode.
+
+Essentially, it allows the model to retry until it validates that the output is in the format of the input schema, which is unlike Jsonformer which forces the output structure to be a JSON format. 
+
+**Limitations**
+
+- Increased computational resources and time required if multiple retries occur
+- Schema Complexity: Deep or nested schemas may be harder for the model to consistently generate.
+- Limited to Hosted Models ( Outlines )
 
 ## Validation 
 
