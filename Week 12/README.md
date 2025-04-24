@@ -2,10 +2,14 @@
 
 ## Controlled Text Generation 
 
--[Approaches](#Approaches-taken)
-    -[Prompt Engineering](#approach-1-prompt-engineering)
+- [Problem](#problem)
+- [Approaches](#Approaches-taken)
+    - [Prompt Engineering](#approach-1-prompt-engineering)
+    - [Controlled Text Generation](#approach-2-controlled-text-generation)
+    - [Structured Text Generation](#approach-3-structured-text-generation)
+- [Validation](#validation)
 
-**Problem** 
+## Problem
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
 on its object detection capabilities, I often required the outputs of the VLM to be standardised and consistent in order to compare it to the 'Ground Truth'.
