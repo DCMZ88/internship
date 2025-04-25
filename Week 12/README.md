@@ -1,6 +1,6 @@
 # Research & Literature 
 
-## Controlled Text Generation 
+## Text Generation from Vision Language Models 
 
 - [Problem](#problem)
 - [Approaches](#Approaches-taken)
