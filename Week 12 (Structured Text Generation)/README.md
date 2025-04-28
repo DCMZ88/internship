@@ -11,6 +11,8 @@
 - [Example](#test-run)
   - [Result](#results)
   - [Conclusion](#conclusion)
+- [Example-2](#second-example)
+  - [Result](#results) 
 ### Problem
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
@@ -196,10 +198,68 @@ I then plotted the bounding boxes and labels onto the image to visualise the res
 
 <p align="middle">
   <img src="https://github.com/user-attachments/assets/510a2bec-879f-4bbd-b326-f242a7246278", width="500">
-  <br>Figure 2: Processed Image
+  <br>Figure 2: Processed Image (Qwen2.5)
 </p>
 
 #### Conclusion
 From the processed image, we can see that the model correctly labels the object identified and outputs the correct bounding boxes of each object. This suggests that the precision is high for this model. However, its accuracy can be quite low as seen from the image. Missing out on a few objects despite telling it to detect all the objects in the image.
 
 However, this also proves that structured text generation works for Qwen2.5 as it outputs in JSON formatting.
+
+### Second Example
+
+However, when tested on a different model, the results were quite different. Using the same prompt and input image to the VLM, these were the results generated.
+
+Model: Gemma3-4b-it
+
+#### Results
+
+Output:
+```
+{
+  "objects": [
+    {
+      "label": "chair",
+      "bbox": [352, 384, 534, 632]
+    },
+    {
+      "label": "table",
+      "bbox": [68, 268, 366, 512]
+    },
+    {
+      "label": "iron",
+      "bbox": [770, 342, 988, 588]
+    },
+    {
+      "label": "clothing",
+      "bbox": [166, 136, 834, 794]
+    },
+    {
+      "label": "pillow",
+      "bbox": [143, 770, 312, 976]
+    },
+    {
+      "label": "figurine",
+      "bbox": [720, 136, 914, 348]
+    }
+  ],
+  "object_counts": {
+    "chair": 1,
+    "table": 1,
+    "iron": 1,
+    "clothing": 1,
+    "pillow": 1,
+    "figurine": 1
+  }
+}
+```
+
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/6b14d53c-1d8f-4b47-a0e1-304d078a22de", width="500">
+  <br>Figure 3: Processed Image (Gemma3)
+</p>
+
+As seen from the results, Gemma3 was able to detect more objects than the Qwen2.5, but the bounding boxes were clearly incorrect.
+> I also had to resize the image and coordinates as the original size of the image were 436x416 respectively but the coordinates given were normalized to 1024x1024.
+
+
