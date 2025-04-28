@@ -12,7 +12,7 @@
   - [Result](#results)
   - [Conclusion](#conclusion)
 - [Example-2](#second-example)
-  - [Result](#results) 
+  - [Result](#results-2) 
 ### Problem
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
