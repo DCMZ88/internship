@@ -123,7 +123,7 @@ For this case, we will prompt the VLM to detect the objects in a image, and subs
 
 Model used: Qwen2.5-VL-7B-Instruct 
 
-[Code]()
+[Code](https://github.com/DCMZ88/internship/blob/main/Week%2012%20(Structured%20Text%20Generation)/Codes/TextGeneration.ipynb)
 
 Prompt used =
 ```
@@ -168,6 +168,8 @@ Expected JSON output
 }
 ```
 **Results**
+
+Labelled under 'Structured Text Generation'
 
 Actual Ouput:
 ```
