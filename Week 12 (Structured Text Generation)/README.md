@@ -8,7 +8,7 @@
     - [Controlled Text Generation](#approach-2-controlled-text-generation)
     - [Structured Text Generation](#approach-3-structured-text-generation)
 - [Validation](#validation)
-
+- [Example](#test-run)
 ### Problem
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
@@ -115,3 +115,78 @@ print(result.objects[0].object)  # prints "dog"
 For example, we can validate whether the output of the VLM return the objects and bounding boxes as 2 different key-value pairs in a single dictionary.\
 If the output is not in that format, Pydantic would raise an error. 
 
+### Test Run
+
+To test out whether structured text generation can be integrated into VLMs, I decided to use [Outlines](https://github.com/dottxt-ai/outlines) by dottxt.ai, library that enables structured text generation in LLMs and VLMs.
+
+For this case, we will prompt the VLM to detect the objects in a image, and subsequently, output the label of the objects detected, their corresponding bounding boxes and the object count in a specified JSON schema. 
+
+Prompt used =
+```
+You are very skilled at detecting simple objects in an image.
+Detect all the common, simple objects (e.g., dog, cat, car, chair) and their corresponding bounding boxes coordinates in the image. 
+Do not detect complex descriptions (e.g., 'dog in fire', 'cat on a table') or any text present in the image.
+Count how many of each objects there are, and return the results in the following JSON schema:
+{ImageDetectionResult.model_json_schema()}
+```
+JSON Schema (Using Pydantic):
+```
+class DetectedObject(BaseModel):
+    label: str = Field(..., description="Label of the detected object")
+    bbox: List[int] = Field(..., description="Bounding box in [x1, y1, x2, y2] format")
+
+class ImageDetectionResult(BaseModel):
+    objects: List[DetectedObject] = Field(..., description="List of detected objects with labels and bounding boxes")
+    object_counts: Dict[str, int] = Field(..., description="Dictionary with the count of each detected object type")
+```
+
+With this prompt, I ran the model over a single image to validate whether Outlines could work for VLMs.
+
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/97f336cc-fd8b-44c8-8138-967cfb32b34e", width="500">
+  <br>Figure 1: Reference Image
+</p>
+
+Expected JSON output
+```
+{
+    "objects": [
+        {
+            "label": "<label_of_detected_object>",
+            "bbox": [<x1>, <y1>, <x2>, <y2>]
+        },
+        ...
+    ],
+    "object_counts": {
+        "<label_of_detected_object>": <count_of_object>,
+        ...
+    }
+}
+```
+**Results**
+
+Actual Ouput:
+```
+{
+    "objects": [
+        {
+            "label": "chair",
+            "bbox": [160, 139, 331, 378]
+        },
+        {
+            "label": "iron",
+            "bbox": [497, 150, 645, 392]
+        }
+    ],
+    "object_counts": {
+        "chair": 1,
+        "iron": 1
+    }
+}
+```
+I then plotted the bounding boxes and labels onto the image to visualise the results by the VLM.
+
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/510a2bec-879f-4bbd-b326-f242a7246278", width="500">
+  <br>Figure 1: Processed Image
+</p>
