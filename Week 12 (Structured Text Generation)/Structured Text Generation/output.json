@@ -1,0 +1,17 @@
+{
+    "objects": [
+      {
+        "label": "chair",
+        "bbox": [160, 139, 331, 378]
+      },
+      {
+        "label": "iron",
+        "bbox": [497, 150, 645, 392]
+      }
+    ],
+    "object_counts": {
+      "chair": 1,
+      "iron": 1
+    }
+  }
+  
