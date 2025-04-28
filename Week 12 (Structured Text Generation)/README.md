@@ -167,7 +167,7 @@ Expected JSON output
     }
 }
 ```
-**Results**
+#### Results
 
 Labelled under 'Structured Text Generation'
 
@@ -197,6 +197,7 @@ I then plotted the bounding boxes and labels onto the image to visualise the res
   <br>Figure 2: Processed Image
 </p>
 
+#### Conclusion
 From the processed image, we can see that the model correctly labels the object identified and outputs the correct bounding boxes of each object. This suggests that the precision is high for this model. However, its accuracy can be quite low as seen from the image. Missing out on a few objects despite telling it to detect all the objects in the image.
 
 However, this also proves that structured text generation works for Qwen2.5 as it outputs in JSON formatting.
