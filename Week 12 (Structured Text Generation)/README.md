@@ -9,6 +9,8 @@
     - [Structured Text Generation](#approach-3-structured-text-generation)
 - [Validation](#validation)
 - [Example](#test-run)
+      - [Result](#results)
+      - [Conclusion](#conclusion)
 ### Problem
 
 One challenge that I often came across with the usage of VLMs was getting an consistent output for each inference. In order to conduct evaluation of the performance of VLMs
