@@ -36,7 +36,7 @@ Consequently, this can present challenges when utilizing the outputs of a langua
 Here we may want to get more structured information than just text back. To use them as software components we need a reliable interface to be able to connect with external tools.
 These integrations are possible with friendly serialization formats like JSON or XML.
 
-### Approaches taken
+### Approaches 
 
 #### Approach 1: Prompt Engineering 
 
