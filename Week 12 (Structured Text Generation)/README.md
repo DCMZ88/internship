@@ -121,6 +121,10 @@ To test out whether structured text generation can be integrated into VLMs, I de
 
 For this case, we will prompt the VLM to detect the objects in a image, and subsequently, output the label of the objects detected, their corresponding bounding boxes and the object count in a specified JSON schema. 
 
+Model used: Qwen2.5-VL-7B-Instruct 
+
+[Code]()
+
 Prompt used =
 ```
 You are very skilled at detecting simple objects in an image.
@@ -188,5 +192,9 @@ I then plotted the bounding boxes and labels onto the image to visualise the res
 
 <p align="middle">
   <img src="https://github.com/user-attachments/assets/510a2bec-879f-4bbd-b326-f242a7246278", width="500">
-  <br>Figure 1: Processed Image
+  <br>Figure 2: Processed Image
 </p>
+
+From the processed image, we can see that the model correctly labels the object identified and outputs the correct bounding boxes of each object. This suggests that the precision is high for this model. However, its accuracy can be quite low as seen from the image. Missing out on a few objects despite telling it to detect all the objects in the image.
+
+However, this also proves that structured text generation works for Qwen2.5 as it outputs in JSON formatting.
