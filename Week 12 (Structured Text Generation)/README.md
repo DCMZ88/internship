@@ -262,4 +262,5 @@ Output:
 As seen from the results, Gemma3 was able to detect more objects than the Qwen2.5, but the bounding boxes were clearly incorrect.
 > I also had to resize the image and coordinates as the original size of the image were 436x416 respectively but the coordinates given were normalized to 1024x1024.
 
+I also tried including the prompt to align the coordinates with the input's image resolution but it still gave me pixel coordinates outside of the image's pixel size.
 
