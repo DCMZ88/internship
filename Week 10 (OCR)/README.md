@@ -62,19 +62,7 @@ I ran all 3 models on an single inference image to detect text in the image to t
 
 PaddleOCR : 
 ```
-('Joy of', 0.9997420907020569)
-('learning', 0.9939911365509033)
-('Singaporean', 0.9986035823822021)
-('students', 0.9963444471359253)
-('Joy of', 0.9978846907615662)
-('learning', 0.9936026334762573)
-('Parents', 0.9976922273635864)
-('turning', 0.9968897700309753)
-('everything', 0.9972988367080688)
-('Singaporean', 0.9973495006561279)
-('into a', 0.9768469929695129)
-('students', 0.9961910843849182)
-('competition', 0.9973574280738831)
+['Joy', 'of', 'learning', 'Singaporean', 'students', 'Joy', 'of', 'learning', 'Parents', 'turning', 'everything', 'Singaporean', 'into', 'a', 'students', 'competition']
 ```
 EasyOCR:
 ```
