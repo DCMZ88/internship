@@ -54,7 +54,8 @@ As seen from the example it is hard to map 'rvd' to 'red' to label it as a False
 
    - **Handling Repeated Words** : If the word appears twice in the output of the VLM, how to ensure that one of it is labelled as the False Positive if the it only appears in the 'Ground Truth' once.\
      E.g `Ground Truth: Dog`, `Output: Dog, Dog`
-     
+   - **Comparing Ground Truths** : The words and characters in an image may be in different regions in an image, this causes the VLMs to detect the words and characters in a different sequence then the 'Ground Truth', thus making it hard to compare the character/word to its corresponding correct word/character especially if there are multiple instances of the same word.\
+     E.g `Ground Truth: [Dog, Cat, Woman]` and `Model Output: [Cat, Woman, Dog]`     
 ### Limitations 
 
    - **Consistency of VLM output** : The outputs of the VLMs tend to vary from image to image.\
